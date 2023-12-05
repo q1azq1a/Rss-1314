@@ -4,7 +4,14 @@
     <title>麻省理工学院斯隆管理评论</title>
     <link>https://sloanreview.mit.edu</link>
     <description>可持续创新</description>
-    <lastBuildDate>Mon, 04 Dec 2023 18:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 15:22:23 GMT</lastBuildDate>
+    <item>
+      <title>数字孪生和安全模拟：雪佛龙的 Ellen Nielsen</title>
+      <link>https://sloanreview.mit.edu/audio/digital-twins-and-simulations-for-safety-chevrons-ellen-nielsen/</link>
+      <description><![CDATA[雪佛龙第一位首席数据官埃伦·尼尔森 (Ellen Nielsen) 将数据视为贯穿系统、数字数据、采购和供应链的整个职业生涯的共同主线。在目前的职位上，她将所学到的知识应用到雪佛龙广泛的人工智能和机器学习计划中，包括使用机器人和计算机视觉来检查坦克、数字化[…]]]></description>
+      <guid>https://sloanreview.mit.edu/audio/digital-twins-and-simulations-for-safety-chevrons-ellen-nielsen/</guid>
+      <pubDate>Tue, 05 Dec 2023 12:00:26 GMT</pubDate>
+    </item>
     <item>
       <title>为您的员工打造更好的盟友</title>
       <link>https://sloanreview.mit.edu/article/make-better-allies-of-your-workforce/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>数据科学中连接器角色的兴起</title>
       <link>https://sloanreview.mit.edu/article/the-rise-of-connector-roles-in-data-science/</link>
-      <description><![CDATA[卡罗琳·吉森-贝塞尔/麻省理工学院 SMR |尽管当前所有重点都集中在使用数据、分析和人工智能来改进组织决策和运营，但仍有太多数据科学项目失败了。即使对于那些成功的人来说，进展也往往是缓慢且昂贵的。为什么？团队之间的组织差距正在严重破坏开发、应用的能力，[…]]]></description>
+      <description><![CDATA[卡罗琳·吉森-贝塞尔/麻省理工学院 SMR |尽管目前所有的重点都集中在使用数据、分析和人工智能来改进组织决策和运营，但太多的数据科学项目都失败了。即使对于那些成功的人来说，进展往往也是缓慢且昂贵的。为什么？团队之间的组织差距正在严重破坏开发、应用的能力，[…]]]></description>
       <guid>https://sloanreview.mit.edu/article/the-rise-of-connector-roles-in-data-science/</guid>
       <pubDate>Mon, 27 Nov 2023 12:00:38 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Patrick George/Ikon Images 将人工智能集成到各个组织的员工（从高层管理人员到一线员工）的日常工作流程中，有望提高撰写备忘录、开发软件和创建营销活动等任务的生产力。然而，公司有理由担心与第三方人工智能服务共享数据的风险，例如[…]]]></description>
       <guid>https://sloanreview.mit.edu/article/use-open-source-for-safer-generative-ai-experiments/</guid>
       <pubDate>Mon, 20 Nov 2023 18:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何明智地利用人才市场</title>
-      <link>https://sloanreview.mit.edu/article/how-to-start-smart-with-a-talent-marketplace/</link>
-      <description><![CDATA[Carolyn Geason-Beissel/麻省理工学院 SMR 现在，许多领导者都可以为建立内部人才市场提出强有力的理由，但要启动这个市场仍然很困难。在博思艾伦，我们在启动试点项目后的第一年就经历了这一事实。在这里，我们将研究我们面临的一些挑战，我们如何克服这些挑战，以及[…]]]></description>
-      <guid>https://sloanreview.mit.edu/article/how-to-start-smart-with-a-talent-marketplace/</guid>
-      <pubDate>Mon, 20 Nov 2023 12:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
