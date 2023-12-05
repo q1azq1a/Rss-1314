@@ -4,9 +4,16 @@
     <title>麻省理工学院斯隆管理评论</title>
     <link>https://sloanreview.mit.edu</link>
     <description>可持续创新</description>
-    <lastBuildDate>Tue, 05 Dec 2023 15:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:23:35 GMT</lastBuildDate>
     <item>
-      <title>数字孪生和安全模拟：雪佛龙的 Ellen Nielsen</title>
+      <title>问三阴：怎样才能让会议不那么痛苦？</title>
+      <link>https://sloanreview.mit.edu/article/ask-sanyin-how-can-i-make-meetings-less-painful/</link>
+      <description><![CDATA[相关阅读S. Siang，问三阴：为什么我们不能正确开会？麻省理工学院斯隆管理评论，2023 年 8 月 23 日。我们对会议又爱又恨，而且通常我们都同意的一件事是，会议是我们没有完成任何实际工作的原因。但它一定是[…]]]></description>
+      <guid>https://sloanreview.mit.edu/article/ask-sanyin-how-can-i-make-meetings-less-painful/</guid>
+      <pubDate>Tue, 05 Dec 2023 18:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的操作安全：雪佛龙的 Ellen Nielsen</title>
       <link>https://sloanreview.mit.edu/audio/digital-twins-and-simulations-for-safety-chevrons-ellen-nielsen/</link>
       <description><![CDATA[雪佛龙第一位首席数据官埃伦·尼尔森 (Ellen Nielsen) 将数据视为贯穿系统、数字数据、采购和供应链的整个职业生涯的共同主线。在目前的职位上，她将所学到的知识应用到雪佛龙广泛的人工智能和机器学习计划中，包括使用机器人和计算机视觉来检查坦克、数字化[…]]]></description>
       <guid>https://sloanreview.mit.edu/audio/digital-twins-and-simulations-for-safety-chevrons-ellen-nielsen/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Miqdad Jaffer 拥有工程学背景，担任数字市场平台 Shopify 的产品总监。用户可能会认为该商务平台能够提供快速、安全的在线结账体验。在商家方面，Shopify 使企业主能够建立电子商务网站，在那里他们可以列出和销售[…]]]></description>
       <guid>https://sloanreview.mit.edu/audio/micro-utility-with-gen-ai-shopifys-miqdad-jaffer/</guid>
       <pubDate>Tue, 21 Nov 2023 12:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用开源进行更安全的生成人工智能实验</title>
-      <link>https://sloanreview.mit.edu/article/use-open-source-for-safer-generative-ai-experiments/</link>
-      <description><![CDATA[Patrick George/Ikon Images 将人工智能集成到各个组织的员工（从高层管理人员到一线员工）的日常工作流程中，有望提高撰写备忘录、开发软件和创建营销活动等任务的生产力。然而，公司有理由担心与第三方人工智能服务共享数据的风险，例如[…]]]></description>
-      <guid>https://sloanreview.mit.edu/article/use-open-source-for-safer-generative-ai-experiments/</guid>
-      <pubDate>Mon, 20 Nov 2023 18:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
