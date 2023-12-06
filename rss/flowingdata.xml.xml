@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 06 Dec 2023 06:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 09:20:03 GMT</lastBuildDate>
+    <item>
+      <title>数据可视化入门步骤</title>
+      <link>https://flowingdata.com/2023/12/06/steps-for-getting-started-with-data-visualization/</link>
+      <description><![CDATA[ 由于资源众多，开始使用数据可视化可能会很棘手…标签： 数据包装器, 入门, &lt; a href=&quot;https://flowingdata.com/tag/learning/&quot; rel=&quot;tag&quot;&gt;学习，丽莎·夏洛特·穆斯]]></description>
+      <guid>https://flowingdata.com/2023/12/06/steps-for-getting-started-with-data-visualization/</guid>
+      <pubDate>Wed, 06 Dec 2023 08:25:46 GMT</pubDate>
+    </item>
     <item>
       <title>通过“洞察的艺术”获得广阔的可视化视野</title>
       <link>https://flowingdata.com/2023/12/05/a-wide-view-of-visualization-with-the-art-of-insight/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>社区注释未能阻止 Twitter 上的错误信息</title>
       <link>https://flowingdata.com/2023/11/29/failed-community-notes-to-stop-misinformation-on-twitter/</link>
-      <description><![CDATA[Twitter 有一个社区注释功能，可以尝试标记包含以下内容的帖子：标签： 彭博社，错误信息， Twitter]]></description>
+      <description><![CDATA[Twitter 有一个社区注释功能，可以尝试标记包含以下内容的帖子：标签： 彭博社，错误信息， 推特]]></description>
       <guid>https://flowingdata.com/2023/11/29/failed-community-notes-to-stop-misinformation-on-twitter/</guid>
       <pubDate>Wed, 29 Nov 2023 08:25:15 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在《纽约客》中，Angie Wang 将幼儿的学习行为与“标签”进行了比较：人工智能、儿童、插图，纽约客&lt; /a&gt;]]></description>
       <guid>https://flowingdata.com/2023/11/24/toddlers-and-stochastic-parrots/</guid>
       <pubDate>Fri, 24 Nov 2023 08:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧时的平行线</title>
-      <link>https://flowingdata.com/2023/11/22/parallel-lines-of-old/</link>
-      <description><![CDATA[这没有标记轴，所以我假设它只显示缩放的…标签： 幽默，并行]]></description>
-      <guid>https://flowingdata.com/2023/11/22/parallel-lines-of-old/</guid>
-      <pubDate>Wed, 22 Nov 2023 09:20:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
