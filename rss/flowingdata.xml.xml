@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 07 Dec 2023 09:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 12:37:24 GMT</lastBuildDate>
+    <item>
+      <title>加沙地带的生活</title>
+      <link>https://flowingdata.com/2023/12/07/life-in-the-gaza-strip/</link>
+      <description><![CDATA[《纽约时报》整理了一幅生活的图片…标签： 加沙，生活，纽约时报]]></description>
+      <guid>https://flowingdata.com/2023/12/07/life-in-the-gaza-strip/</guid>
+      <pubDate>Thu, 07 Dec 2023 09:25:31 GMT</pubDate>
+    </item>
     <item>
       <title>数据可视化入门步骤</title>
       <link>https://flowingdata.com/2023/12/06/steps-for-getting-started-with-data-visualization/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>社区注释未能阻止 Twitter 上的错误信息</title>
       <link>https://flowingdata.com/2023/11/29/failed-community-notes-to-stop-misinformation-on-twitter/</link>
-      <description><![CDATA[Twitter 有一个社区注释功能，可以尝试标记包含以下内容的帖子：标签： 彭博社，错误信息， Twitter]]></description>
+      <description><![CDATA[Twitter 有一个社区注释功能，可以尝试标记包含以下内容的帖子：标签： 彭博社，错误信息， 推特]]></description>
       <guid>https://flowingdata.com/2023/11/29/failed-community-notes-to-stop-misinformation-on-twitter/</guid>
       <pubDate>Wed, 29 Nov 2023 08:25:15 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>主要城市通勤时间的变化</title>
       <link>https://flowingdata.com/2023/11/27/change-in-commute-times-in-major-cities/</link>
-      <description><![CDATA[ 使用 Replica、Lydia DePillis、Emma Goldberg 和 Ella Koeze 处理的 GPS 数据，标签： 通勤，新约克时报]]></description>
+      <description><![CDATA[ 使用 Replica、Lydia DePillis、Emma Goldberg 和 Ella Koeze 处理的 GPS 数据，…标签： 通勤，新约克时报]]></description>
       <guid>https://flowingdata.com/2023/11/27/change-in-commute-times-in-major-cities/</guid>
       <pubDate>Mon, 27 Nov 2023 09:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>幼儿和随机鹦鹉</title>
-      <link>https://flowingdata.com/2023/11/24/toddlers-and-stochastic-parrots/</link>
-      <description><![CDATA[在《纽约客》中，Angie Wang 将幼儿的学习行为与“标签”进行了比较：人工智能、儿童、插图，纽约客&lt; /a&gt;]]></description>
-      <guid>https://flowingdata.com/2023/11/24/toddlers-and-stochastic-parrots/</guid>
-      <pubDate>Fri, 24 Nov 2023 08:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
