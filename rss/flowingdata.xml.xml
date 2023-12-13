@@ -4,11 +4,18 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 13 Dec 2023 06:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 09:19:43 GMT</lastBuildDate>
+    <item>
+      <title>生成植物</title>
+      <link>https://flowingdata.com/2023/12/13/generative-plants/</link>
+      <description><![CDATA[通过 Max Richter 的互动生成您自己的植物。调整叶子形状、密度和…标签： 生成、马克斯·里克特、植物]]></description>
+      <guid>https://flowingdata.com/2023/12/13/generative-plants/</guid>
+      <pubDate>Wed, 13 Dec 2023 08:38:43 GMT</pubDate>
+    </item>
     <item>
       <title>动物世界地图</title>
       <link>https://flowingdata.com/2023/12/12/world-map-of-illustrated-animals/</link>
-      <description><![CDATA[在三年的时间里，安东·托马斯 (Anton Thomas) 绘制了一幅包含 1,642 种动物的世界地图…标签： 动物，安东托马斯，插图，纽约时报]]></description>
+      <description><![CDATA[在三年的时间里，安东·托马斯绘制了一幅包含 1,642 种动物的世界地图…标签： 动物，安东托马斯，插图，纽约时报]]></description>
       <guid>https://flowingdata.com/2023/12/12/world-map-of-illustrated-animals/</guid>
       <pubDate>Tue, 12 Dec 2023 09:02:30 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>急诊室因圣诞装饰受伤而就诊</title>
       <link>https://flowingdata.com/2023/12/04/er-visits-for-christmas-decoration-injuries/</link>
-      <description><![CDATA[过去一周，很多圣诞灯都亮了起来。我希望你…标签：圣诞节，急诊室，美国事实]]></description>
+      <description><![CDATA[过去一周，很多圣诞灯亮了起来。我希望你…标签：圣诞节，急诊室，美国事实]]></description>
       <guid>https://flowingdata.com/2023/12/04/er-visits-for-christmas-decoration-injuries/</guid>
       <pubDate>Mon, 04 Dec 2023 10:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>通货膨胀高，生活成本不好</title>
-      <link>https://flowingdata.com/2023/12/01/inflation-high-cost-of-living-no-good/</link>
-      <description><![CDATA[通常通货膨胀是一件你不会注意到的缓慢的事情，所以…标签： 彭博社，成本，通货膨胀]]></description>
-      <guid>https://flowingdata.com/2023/12/01/inflation-high-cost-of-living-no-good/</guid>
-      <pubDate>Fri, 01 Dec 2023 08:22:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
