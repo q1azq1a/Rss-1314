@@ -4,7 +4,14 @@
     <title>赛斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Thu, 14 Dec 2023 18:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 09:19:31 GMT</lastBuildDate>
+    <item>
+      <title>信号和噪声</title>
+      <link>https://seths.blog/2023/12/signal-and-noise/</link>
+      <description><![CDATA[如果信号非常弱并且噪声很大，那么很容易想象根本没有信号。人工智能和计算机现在可以用作镜头，这意味着我们可以去除噪音并看到我们肯定没有想到的东西。麻省理工学院的 Dina Katabi 可以指向无线电天线 […]]]></description>
+      <guid>https://seths.blog/2023/12/signal-and-noise/</guid>
+      <pubDate>Fri, 15 Dec 2023 09:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>八条营销格言</title>
       <link>https://seths.blog/2023/12/eight-marketing-maxims/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[它们不是同一件事。希望可以为我们提供动力。希望可以重新充满。希望打开了可能性之门。另一方面，期望是一个陷阱。它们让我们变得脆弱并导致失望。当我们提高希望并降低期望时，我们就建立了一条有弹性的前进道路。]]></description>
       <guid>https://seths.blog/2023/12/hope-and-expectations/</guid>
       <pubDate>Wed, 06 Dec 2023 10:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>营销主管</title>
-      <link>https://seths.blog/2023/12/the-head-of-marketing/</link>
-      <description><![CDATA[人们很容易对这份工作感到困惑，因为它不是一份工作，它至少是三份工作。这就是为什么这是一项很难填补的工作，也是为什么人员流动率如此之高的原因——我们没有以与待完成的工作相匹配的方式分配资源或设定期望。营销策略：这是[…]的工作]]></description>
-      <guid>https://seths.blog/2023/12/the-head-of-marketing/</guid>
-      <pubDate>Tue, 05 Dec 2023 09:59:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
