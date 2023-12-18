@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Dec 2023 03:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 06:25:58 GMT</lastBuildDate>
+    <item>
+      <title>腾讯在与网易的游戏对决中转向字节跳动</title>
+      <link>https://www.reuters.com/technology/tencent-turns-bytedance-gaming-showdown-with-netease-2023-12-18/</link>
+      <description><![CDATA[腾讯控股依靠曾经的死对头字节跳动来推广其多年来最重要的视频游戏发行，这是关系升温的迹象，也是随着中国游戏行业恢复增长而加剧的竞争。]]></description>
+      <guid>https://www.reuters.com/technology/tencent-turns-bytedance-gaming-showdown-with-netease-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 06:15:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024年民主将走向何方？特朗普可能拥有最终决定权</title>
+      <link>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</link>
+      <description><![CDATA[俄罗斯总统弗拉基米尔·普京 (Vladimir Putin) 看来将继续掌权至少到 2030 年；印度的纳伦德拉·莫迪 (Narendra Modi) 似乎肯定会将其统治延长至 2029 年；尽管被指控颠覆美国民主，唐纳德·特朗普仍可能重返白宫。]]></description>
+      <guid>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 06:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国与朝鲜在导弹发射期间举行高层会晤</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</link>
+      <description><![CDATA[中国外交部长王毅周一在北京与朝鲜副外长举行高层会谈，恰逢平壤发射了一枚能够到达美国任何地方的导弹。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 06:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：市场在日本央行“会或不会”上发挥作用</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2023-12-18/</link>
+      <description><![CDATA[韦恩·科尔 (Wayne Cole) 对欧洲和全球市场未来一天的展望。]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 05:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国首艘超深水钻井船将进行海试</title>
+      <link>https://www.reuters.com/world/china/china-conduct-sea-trials-its-first-ultra-deepwater-drilling-ship-2023-12-18/</link>
+      <description><![CDATA[中国将于周五对其第一艘海洋研究钻探船进行海上试验，该船能够在超过10,000米（32,800英尺）的深度进行钻探，这是增强中国深海石油和天然气勘探能力的关键一步。]]></description>
+      <guid>https://www.reuters.com/world/china/china-conduct-sea-trials-its-first-ultra-deepwater-drilling-ship-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 05:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于限制措施不断加强，亚洲化肥买家不再关注主要出口国中国</title>
+      <link>https://www.reuters.com/markets/commodities/asian-fertiliser-buyers-turn-away-key-exporter-china-amid-growing-curbs-2023-12-18/</link>
+      <description><![CDATA[买家和分析师表示，亚洲化肥买家正在寻找中国供应的替代品，因为他们担心，在为保护国内市场而限制发货后，中国这个世界最大的出口国已成为一个越来越不可靠的供应商。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/asian-fertiliser-buyers-turn-away-key-exporter-china-amid-growing-curbs-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 04:37:27 GMT</pubDate>
+    </item>
     <item>
       <title>官员称2024年中国经济状况将改善</title>
       <link>https://www.reuters.com/world/china/chinas-economic-conditions-improve-2024-officials-2023-12-18/</link>
@@ -27,7 +69,7 @@
       <pubDate>Mon, 18 Dec 2023 01:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>香港民主党领袖的里程碑式审判前安保严密</title>
+      <title>香港具有里程碑意义的黎智英安全审判开庭，安保严密</title>
       <link>https://www.reuters.com/world/china/security-tight-ahead-landmark-trial-leading-hong-kong-democrat-2023-12-18/</link>
       <description><![CDATA[对中国主要批评者黎智英的一次具有里程碑意义的国家安全审判周一在戒备森严的情况下在香港开庭，这位亲民主活动人士对他与包括美国在内的外国势力勾结的指控进行了斗争。]]></description>
       <guid>https://www.reuters.com/world/china/security-tight-ahead-landmark-trial-leading-hong-kong-democrat-2023-12-18/</guid>
@@ -90,53 +132,11 @@
       <pubDate>Sun, 17 Dec 2023 00:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>朝鲜代表团来华会谈 - 朝中社</title>
-      <link>https://www.reuters.com/world/asia-pacific/north-korea-delegation-china-talks-kcna-2023-12-16/</link>
-      <description><![CDATA[朝鲜官方媒体周六称，朝鲜外交代表团正在访问中国，就加强合作进行会谈，平壤在 COVID-19 大流行后缓慢开放边境并恢复与邻国的贸易。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/north-korea-delegation-china-talks-kcna-2023-12-16/</guid>
-      <pubDate>Sat, 16 Dec 2023 07:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>美中科学协定续签“并非必然”——美国特使</title>
-      <link>https://www.reuters.com/world/us-china-science-pact-renewal-not-given-us-envoy-2023-12-15/</link>
-      <description><![CDATA[美国驻华大使尼古拉斯·伯恩斯周五表示，他已开始与北京就续签一项具有里程碑意义的科学合作协议进行谈判，虽然该协议需要现代化，但新协议的前景尚不确定。]]></description>
-      <guid>https://www.reuters.com/world/us-china-science-pact-renewal-not-given-us-envoy-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 22:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国对苹果 iPhone 的禁令加速 - 彭博社</title>
-      <link>https://www.reuters.com/technology/chinas-ban-apples-iphone-accelerates-bloomberg-news-2023-12-15/</link>
-      <description><![CDATA[彭博新闻社周五援引知情人士的话报道称，全国各地越来越多的中国机构和国有企业已要求其员工不要携带苹果 iPhone 和其他外国设备上班。]]></description>
-      <guid>https://www.reuters.com/technology/chinas-ban-apples-iphone-accelerates-bloomberg-news-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 21:26:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>受北美和中国推动，大众汽车 11 月销量增长 22.6%</title>
-      <link>https://www.reuters.com/business/autos-transportation/volkswagen-november-deliveries-up-226-boosted-by-north-america-china-2023-12-15/</link>
-      <description><![CDATA[大众汽车周五表示，由于北美和中国的强劲需求，11 月份集团交付量增长 22.6% 至 824,300 辆。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-november-deliveries-up-226-boosted-by-north-america-china-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 10:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：中国2024年预算缺口将达到GDP的3%，发行特别债务</title>
-      <link>https://www.reuters.com/world/china/china-run-budget-gap-3-gdp-2024-issue-special-debt-sources-2023-12-15/</link>
-      <description><![CDATA[赤字数字低于今年修订后的3.8%目标。]]></description>
-      <guid>https://www.reuters.com/world/china/china-run-budget-gap-3-gdp-2024-issue-special-debt-sources-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 03:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寒潮使中国大部分地区结冰，高速公路、道路关闭</title>
-      <link>https://www.reuters.com/world/china/freezing-temperatures-snow-ice-blanket-china-shutting-highways-2023-12-15/</link>
-      <description><![CDATA[周五，寒潮席卷中国，全国大部分地区气温降至冰点以下，多地降雪影响交通，习近平主席呼吁“全力以赴”应急响应。]]></description>
-      <guid>https://www.reuters.com/world/china/freezing-temperatures-snow-ice-blanket-china-shutting-highways-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 03:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>大选前一个月，中国通过贸易指控和战机向台湾施压</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-accuses-taiwan-unfair-trade-barriers-month-before-election-2023-12-15/</link>
-      <description><![CDATA[周五，在台湾举行重要选举前一个月，中国通过贸易壁垒调查和战机在台湾海峡向台湾施压，台北呼吁北京停止其“政治行动”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/china-accuses-taiwan-unfair-trade-barriers-month-before-election-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 03:05:55 GMT</pubDate>
+      <title>洞察：叛乱分子的火力和中国的愤怒：缅甸反军政府攻势的内部</title>
+      <link>https://www.reuters.com/world/asia-pacific/rebel-fire-chinas-ire-inside-myanmars-anti-junta-offensive-2023-12-15/</link>
+      <description><![CDATA[六月，缅甸军政府将军在与中国接壤的边境附近与三个强大民族军队的代表举行了和谈。他们坐在一张铺着蓝色桌布、装饰着精致花束的宽桌子旁。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/rebel-fire-chinas-ire-inside-myanmars-anti-junta-offensive-2023-12-15/</guid>
+      <pubDate>Fri, 15 Dec 2023 03:03:41 GMT</pubDate>
     </item>
     <item>
       <title>中国疲软的房地产业和零售销售让刺激呼吁继续存在</title>
