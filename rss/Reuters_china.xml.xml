@@ -3,8 +3,43 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Dec 2023 09:20:06 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 18 Dec 2023 12:37:28 GMT</lastBuildDate>
+    <item>
+      <title>独家：尽管受到制裁，土耳其进口俄罗斯石油却节省了20亿美元</title>
+      <link>https://www.reuters.com/business/energy/turkey-saves-2-bln-russian-oil-imports-soar-despite-sanctions-2023-12-18/</link>
+      <description><![CDATA[路透社根据伦敦证券交易所集团数据和贸易商估计进行的计算显示，通过增加进口打折的俄罗斯石油和成品油，土耳其和土耳其企业在 2023 年节省了约 20 亿美元的能源费用，尽管西方制裁，安卡拉仍希望从邻国购买更多产品。]]></description>
+      <guid>https://www.reuters.com/business/energy/turkey-saves-2-bln-russian-oil-imports-soar-despite-sanctions-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国央行发现德国企业对中国的担忧推高了成本</title>
+      <link>https://www.reuters.com/markets/europe/german-firms-china-worries-pushing-up-costs-bundesbank-finds-2023-12-18/</link>
+      <description><![CDATA[德国央行在对 8400 家企业进行调查后周一表示，德国企业多年来为实现供应链多元化所做的努力正在推高成本，而且进一步的上涨仍在酝酿之中，尤其是与中国有联系的企业。]]></description>
+      <guid>https://www.reuters.com/markets/europe/german-firms-china-worries-pushing-up-costs-bundesbank-finds-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将任命效忠者重塑美国对中国、北约和乌克兰的外交政策</title>
+      <link>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</link>
+      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他比第一任总统有更多的自由来制定孤立主义政策和突发奇想。]]></description>
+      <guid>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的外交政策：重新思考北约、向墨西哥增兵、提高关税</title>
+      <link>https://www.reuters.com/world/us/trumps-foreign-policy-rethink-nato-troops-mexico-boost-tariffs-2023-12-18/</link>
+      <description><![CDATA[共和党前总统唐纳德·特朗普计划如果赢得连任，将从根本上改变美国与欧洲的关系。在竞选过程中，他还提出派遣武装部队进入墨西哥打击贩毒集团，并对朋友和敌人征收高额关税。]]></description>
+      <guid>https://www.reuters.com/world/us/trumps-foreign-policy-rethink-nato-troops-mexico-boost-tariffs-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 10:46:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国蔚来汽车将获得阿布扎比 CYVN 22 亿美元投资</title>
+      <link>https://www.reuters.com/business/autos-transportation/nio-signs-receive-22-bln-abu-dhabi-investor-cyvn-2023-12-18/</link>
+      <description><![CDATA[电动汽车制造商蔚来汽车周一表示，该公司已与总部位于阿布扎比的投资机构 CYVN Holdings 签署了 22 亿美元的投资协议。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/nio-signs-receive-22-bln-abu-dhabi-investor-cyvn-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 10:05:01 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟寻找关键矿物</title>
       <link>https://www.reuters.com/markets/commodities/eus-hunt-critical-minerals-2023-12-18/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>2024年民主将走向何方？特朗普可能拥有最终决定权</title>
       <link>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</link>
-      <description><![CDATA[俄罗斯总统弗拉基米尔·普京 (Vladimir Putin) 看来将继续执政至少到 2030 年；印度的纳伦德拉·莫迪 (Narendra Modi) 似乎肯定会将其统治延长至 2029 年；尽管被指控颠覆美国民主，唐纳德·特朗普仍可能重返白宫。]]></description>
+      <description><![CDATA[俄罗斯总统弗拉基米尔·普京 (Vladimir Putin) 看来将继续掌权至少到 2030 年；印度的纳伦德拉·莫迪 (Narendra Modi) 似乎肯定会将其统治延长至 2029 年；尽管被指控颠覆美国民主，唐纳德·特朗普仍可能重返白宫。]]></description>
       <guid>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 06:08:22 GMT</pubDate>
     </item>
@@ -90,13 +125,6 @@
       <pubDate>Mon, 18 Dec 2023 02:43:49 GMT</pubDate>
     </item>
     <item>
-      <title>花旗集团中国投资银行计划因数据法而推迟 - 彭博新闻</title>
-      <link>https://www.reuters.com/business/finance/citigroup-china-investment-bank-plans-delayed-by-data-law-bloomberg-news-2023-12-18/</link>
-      <description><![CDATA[据彭博社周一报道，花旗集团在中国设立全资证券业务的计划比预期要长，因为该银行需要更多时间来遵守中国的数据法。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-china-investment-bank-plans-delayed-by-data-law-bloomberg-news-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 01:38:18 GMT</pubDate>
-    </item>
-    <item>
       <title>台湾报告更多疑似中国气象气球穿越台湾海峡</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-detected-two-chinese-balloons-crossing-taiwan-strait-sunday-defence-2023-12-18/</link>
       <description><![CDATA[台湾国防部周一表示，两个疑似中国气象气球周日飞越敏感的台湾海峡，但仍停留在台湾北部，这是台北本月第二次报告它们在附近。]]></description>
@@ -111,39 +139,11 @@
       <pubDate>Mon, 18 Dec 2023 00:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>香港奢侈品零售商调整以应对高消费中国游客的下降</title>
-      <link>https://www.reuters.com/business/retail-consumer/hong-kong-luxury-retailers-adjusting-drop-high-spending-chinese-tourists-2023-12-17/</link>
-      <description><![CDATA[香港的奢侈品零售商正在适应来香港旅游的中国富裕购物者的减少，以及游客涌向时尚地区那些在 Instagram 上令人垂涎的景点的趋势，而不是花钱购买昂贵的品牌装备。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/hong-kong-luxury-retailers-adjusting-drop-high-spending-chinese-tourists-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 23:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，中国公司希望在马来西亚组装高端芯片</title>
-      <link>https://www.reuters.com/technology/chinese-firms-look-malaysia-assembly-high-end-chips-sources-say-2023-12-17/</link>
-      <description><![CDATA[消息人士称，越来越多的中国半导体设计公司正在利用马来西亚公司来组装部分高端芯片，热衷于对冲美国扩大对中国芯片行业制裁的风险。]]></description>
-      <guid>https://www.reuters.com/technology/chinese-firms-look-malaysia-assembly-high-end-chips-sources-say-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 23:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港审判开始之际，英国呼吁释放黎智英</title>
-      <link>https://www.reuters.com/world/britain-calls-jimmy-lais-release-hong-kong-trial-begins-2023-12-17/</link>
-      <description><![CDATA[英国呼吁香港在对这位主要中国批评者和媒体大亨进行审判之前释放黎智英，罪名是他与包括美国在内的外国势力勾结。]]></description>
-      <guid>https://www.reuters.com/world/britain-calls-jimmy-lais-release-hong-kong-trial-begins-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 22:32:47 GMT</pubDate>
-    </item>
-    <item>
       <title>洞察：叛乱分子的火力和中国的愤怒：缅甸反军政府攻势的内部</title>
       <link>https://www.reuters.com/world/asia-pacific/rebel-fire-chinas-ire-inside-myanmars-anti-junta-offensive-2023-12-15/</link>
-      <description><![CDATA[六月，缅甸军政府将军在与中国边境附近与三个强大民族军队的代表举行了和平会谈。他们坐在一张铺着蓝色桌布、装饰着精致花束的宽桌子旁。]]></description>
+      <description><![CDATA[六月，缅甸军政府将军在与中国接壤的边境附近与三个强大民族军队的代表举行了和谈。他们坐在一张铺着蓝色桌布、装饰着精致花束的宽桌子旁。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/rebel-fire-chinas-ire-inside-myanmars-anti-junta-offensive-2023-12-15/</guid>
       <pubDate>Fri, 15 Dec 2023 03:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国疲软的房地产业和零售销售让刺激呼吁继续存在</title>
-      <link>https://www.reuters.com/world/china/china-nov-industrial-output-up-66-yy-retail-sales-below-expectations-2023-12-15/</link>
-      <description><![CDATA[由于购房者情绪低迷和负债累累的开发商压低了销售和投资，而更广泛的零售业活动低于预期，中国房地产行业在 11 月份恶化，这表明需要更多支持来提振需求。]]></description>
-      <guid>https://www.reuters.com/world/china/china-nov-industrial-output-up-66-yy-retail-sales-below-expectations-2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 02:04:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

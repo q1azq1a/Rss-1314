@@ -3,35 +3,84 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Dec 2023 09:19:58 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 18 Dec 2023 12:37:21 GMT</lastBuildDate>
     <item>
-      <title>在以色列，美国国防部长将着眼于加沙战争的下一阶段</title>
+      <title>红海袭击迫使船只改道，扰乱供应链</title>
+      <link>https://www.reuters.com/world/middle-east/red-sea-attacks-force-rerouting-vessels-disrupting-supply-chains-2023-12-18/</link>
+      <description><![CDATA[与伊朗结盟的也门胡塞武装组织对红海船只的袭击正在扰乱海上贸易，因为全球领先的货运公司正在绕开好望角绕道，避开苏伊士运河。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/red-sea-attacks-force-rerouting-vessels-disrupting-supply-chains-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 12:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国旅将于 2027 年在俄罗斯边境的立陶宛做好战斗准备</title>
+      <link>https://www.reuters.com/world/europe/german-brigade-be-combat-ready-lithuania-russian-border-2027-2023-12-18/</link>
+      <description><![CDATA[北约两个成员国的国防部长周一在签署关于德国军队自第二次世界大战以来首次在国外永久部署的协议后表示，在俄罗斯边境的立陶宛，一支由约 4,800 名士兵组成的德国常备旅将于 2027 年做好战斗准备。]]></description>
+      <guid>https://www.reuters.com/world/europe/german-brigade-be-combat-ready-lithuania-russian-border-2027-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 12:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>西班牙国际学校因收到炸弹威胁而关闭</title>
+      <link>https://www.reuters.com/world/europe/international-schools-spain-shut-after-receiving-bomb-threats-2023-12-18/</link>
+      <description><![CDATA[西班牙的几所国际学校接受了警方用嗅探犬的检查，而其他学校则在收到电子邮件炸弹威胁后没有开放，内政部称这些威胁是骗局。]]></description>
+      <guid>https://www.reuters.com/world/europe/international-schools-spain-shut-after-receiving-bomb-threats-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 12:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>中央情报局局长周一将与以色列和卡塔尔官员会面，就人质交易进行谈判 - Axios</title>
+      <link>https://www.reuters.com/world/cia-chief-meet-israeli-qatari-officials-monday-hostage-deal-talks-axios-2023-12-18/</link>
+      <description><![CDATA[据 Axios 报道，中央情报局局长比尔·伯恩斯将于周一在华沙会见卡塔尔总理穆罕默德·本·阿卜杜拉赫曼·阿勒萨尼和以色列摩萨德间谍机构负责人，讨论一项潜在的新协议，以确保哈马斯在加沙扣押的以色列人质获释。援引两名美国和以色列官员的话说。]]></description>
+      <guid>https://www.reuters.com/world/cia-chief-meet-israeli-qatari-officials-monday-hostage-deal-talks-axios-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，意大利考虑加入红海海上联盟</title>
+      <link>https://www.reuters.com/world/middle-east/italy-considers-taking-part-red-sea-maritime-coalition-source-says-2023-12-18/</link>
+      <description><![CDATA[一位知情人士周一告诉路透社，意大利正在考虑是否加入西方海军联盟，旨在保护红海船只免受与伊朗结盟的也门胡塞武装的袭击。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/italy-considers-taking-part-red-sea-maritime-coalition-source-says-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:32:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰军队面临火炮短缺，缩减部分行动——指挥官</title>
+      <link>https://www.reuters.com/world/europe/ukrainian-troops-face-artillery-shortages-scale-back-some-operations-commander-2023-12-18/</link>
+      <description><![CDATA[一名高级陆军将军告诉路透社，乌克兰前线部队面临炮弹短缺的问题，并因外国援助不足而缩减了一些军事行动。]]></description>
+      <guid>https://www.reuters.com/world/europe/ukrainian-troops-face-artillery-shortages-scale-back-some-operations-commander-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃及选举结果公布，塞西有望连任第三届</title>
+      <link>https://www.reuters.com/world/africa/results-due-egypt-election-with-sisi-expected-sweep-third-term-2023-12-18/</link>
+      <description><![CDATA[埃及总统选举结果将于周一公布，预计阿卜杜勒·法塔赫·塞西将获得第三个任期，从而使他在选举中继续执政到 2030 年，而他在这次选举中没有遇到任何严重的挑战。]]></description>
+      <guid>https://www.reuters.com/world/africa/results-due-egypt-election-with-sisi-expected-sweep-third-term-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>民主统一党发言人预计北爱尔兰不会在圣诞节前达成协议</title>
+      <link>https://www.reuters.com/world/uk/dup-does-not-expect-northern-ireland-deal-by-christmas-spokesperson-2023-12-18/</link>
+      <description><![CDATA[北爱尔兰最大的亲英政党发言人周一表示，北爱尔兰民主统一党预计不会与伦敦达成协议，以确保其在圣诞节前重返权力分享政府。]]></description>
+      <guid>https://www.reuters.com/world/uk/dup-does-not-expect-northern-ireland-deal-by-christmas-spokesperson-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>战争提高了美国国防工业 2024 年的利润前景</title>
+      <link>https://www.reuters.com/business/aerospace-defense/wars-raise-profit-outlook-us-defense-industry-2024-2023-12-18/</link>
+      <description><![CDATA[据报道，当五角大楼召集世界上最大的国防承包商开会，要求他们在俄罗斯入侵乌克兰后不久提高产量时，一位首席执行官犹豫了，称他们不想在战斗停止时被困在装满火箭的仓库里。三个熟悉的人讨论。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/wars-raise-profit-outlook-us-defense-industry-2024-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将任命效忠者重塑美国对中国、北约和乌克兰的外交政策</title>
+      <link>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</link>
+      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他比第一任总统有更多的自由来制定孤立主义政策和突发奇想。]]></description>
+      <guid>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 11:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在以色列，美国国防部长将展望加沙战争的下一阶段</title>
       <link>https://www.reuters.com/world/middle-east/israel-us-defence-chief-look-next-phase-gaza-war-2023-12-18/</link>
-      <description><![CDATA[官员们表示，美国国防部长劳埃德·奥斯汀周一抵达以色列，会谈预计将集中讨论以色列最终结束加沙高强度战争以及向更加有限、集中的冲突过渡的问题。]]></description>
+      <description><![CDATA[官员们称，美国国防部长劳埃德·奥斯汀周一抵达以色列，会谈预计将集中讨论以色列最终结束加沙高强度战争以及向更加有限、集中的冲突过渡的问题。]]></description>
       <guid>https://www.reuters.com/world/middle-east/israel-us-defence-chief-look-next-phase-gaza-war-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 09:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴基斯坦被监禁的伊姆兰·汗使用人工智能制作的演讲呼吁投票</title>
-      <link>https://www.reuters.com/world/asia-pacific/pakistans-jailed-imran-khan-uses-ai-crafted-speech-call-votes-2023-12-18/</link>
-      <description><![CDATA[巴基斯坦被监禁的前总理伊姆兰·汗 (Imran Khan) 使用人工智能 (AI) 生成的音频片段向支持者发表讲话，这是这个南亚国家政治中的首次此类活动，尽管该活动受到了互联网中断的影响。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/pakistans-jailed-imran-khan-uses-ai-crafted-speech-call-votes-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 08:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>约旦军队表示，叙利亚边境冲突中警卫受伤，武器被缴获</title>
-      <link>https://www.reuters.com/world/middle-east/jordan-army-says-guards-injured-weapons-seized-clashes-along-syrian-border-2023-12-18/</link>
-      <description><![CDATA[约旦军队周一表示，黎明时分在叙利亚边境与武装毒贩发生冲突后，他们缴获了武器和毒品，官员们表示，枪手与试图破坏该国安全的亲伊朗民兵组织有联系。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/jordan-army-says-guards-injured-weapons-seized-clashes-along-syrian-border-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 08:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>印尼变性模特以塑料时尚凸显污染问题</title>
-      <link>https://www.reuters.com/world/asia-pacific/indonesian-transgender-models-shine-spotlight-pollution-with-plastic-fashion-2023-12-18/</link>
-      <description><![CDATA[在雅加达的贫民窟深处，一个跨性别社区正在利用时尚来提高人们对这座人口稠密、污染严重的城市的生活和环境的认识。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/indonesian-transgender-models-shine-spotlight-pollution-with-plastic-fashion-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 08:09:28 GMT</pubDate>
     </item>
     <item>
       <title>驱逐、威胁和自杀念头：乌干达 LGBT 群体经历了艰难的一年</title>
@@ -41,27 +90,6 @@
       <pubDate>Mon, 18 Dec 2023 08:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>肯尼亚与欧盟推进经济伙伴关系协议以促进贸易</title>
-      <link>https://www.reuters.com/world/kenya-eu-advance-economic-partnership-agreement-boost-trade-2023-12-18/</link>
-      <description><![CDATA[官员们周一表示，肯尼亚和欧盟距离签署经济伙伴关系协定又近了一步，该协定将给予这个东非国家的出口免税地位并不受限制地进入欧盟。]]></description>
-      <guid>https://www.reuters.com/world/kenya-eu-advance-economic-partnership-agreement-boost-trade-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 08:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗、以色列媒体称网络攻击扰乱了伊朗各地的加油站</title>
-      <link>https://www.reuters.com/world/middle-east/software-problem-disrupts-iranian-gas-stations-fars-2023-12-18/</link>
-      <description><![CDATA[据伊朗国家电视台和以色列当地媒体报道，伊朗指责与以色列有联系的一个黑客组织声称，该组织周一发动了网络攻击，扰乱了伊朗各地加油站的服务。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/software-problem-disrupts-iranian-gas-stations-fars-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 07:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>解说员：什么是固体燃料导弹？朝鲜为什么要开发它们？</title>
-      <link>https://www.reuters.com/world/asia-pacific/what-are-solid-fuel-missiles-why-is-north-korea-developing-them-2023-12-18/</link>
-      <description><![CDATA[韩国官员表示，朝鲜周一试射了一枚由固体燃料驱动的洲际弹道导弹（ICBM），这将是今年的第三次此类试验，目的是提高在几乎没有准备的情况下发射的能力。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/what-are-solid-fuel-missiles-why-is-north-korea-developing-them-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 07:32:18 GMT</pubDate>
-    </item>
-    <item>
       <title>美国认为河内与北京的防务承诺不会对越南关系产生影响</title>
       <link>https://www.reuters.com/world/us-sees-no-impact-vietnam-ties-hanoi-beijing-defence-pledges-2023-12-18/</link>
       <description><![CDATA[在河内上周宣布加强与中国的关系（包括国防和安全领域）后，一名美国官员表示，在两个大国争夺影响力之际，美国将继续与越南密切合作。]]></description>
@@ -69,46 +97,25 @@
       <pubDate>Mon, 18 Dec 2023 07:14:56 GMT</pubDate>
     </item>
     <item>
-      <title>现金短缺的刚果人在投票前关注严重的不平等现象</title>
-      <link>https://www.reuters.com/world/africa/cash-strapped-congolese-eye-deep-inequalities-ahead-vote-2023-12-18/</link>
-      <description><![CDATA[27 岁的乔治·巴穆 (Georges Bamue) 获得计算机网络维护文凭毕业五年后，仍然以摩托车出租车司机的身份穿梭在刚果民主共和国首都的街道上，但找不到工作，也无法筹集到足够的资金来在他训练有素的领域开展业务。]]></description>
-      <guid>https://www.reuters.com/world/africa/cash-strapped-congolese-eye-deep-inequalities-ahead-vote-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 07:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>北方深冻，南方罕见降雪</title>
-      <link>https://www.reuters.com/world/china/rare-snowfall-southern-china-deep-freeze-grips-north-2023-12-18/</link>
-      <description><![CDATA[周一，席卷中国的寒冷天气给南部广东省带来了罕见的降雪，而寒冷的北方气温则跌至接近本月历史最低水平。]]></description>
-      <guid>https://www.reuters.com/world/china/rare-snowfall-southern-china-deep-freeze-grips-north-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 06:56:26 GMT</pubDate>
+      <title>也门红海船只遇袭，美国官员指责胡塞武装</title>
+      <link>https://www.reuters.com/world/middle-east/ukmto-ambrey-report-possible-explosion-south-yemens-port-mokha-2023-12-18/</link>
+      <description><![CDATA[一艘挪威拥有的船只周一在红海遭到袭击，美国官员称此次袭击源自与伊朗结盟的胡塞运动控制的也门领土。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/ukmto-ambrey-report-possible-explosion-south-yemens-port-mokha-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 06:47:11 GMT</pubDate>
     </item>
     <item>
       <title>2024年民主将走向何方？特朗普可能拥有最终决定权</title>
       <link>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</link>
-      <description><![CDATA[俄罗斯总统弗拉基米尔·普京 (Vladimir Putin) 看来将继续执政至少到 2030 年；印度的纳伦德拉·莫迪 (Narendra Modi) 似乎肯定会将其统治延长至 2029 年；尽管被指控颠覆美国民主，唐纳德·特朗普仍可能重返白宫。]]></description>
+      <description><![CDATA[俄罗斯总统弗拉基米尔·普京 (Vladimir Putin) 看来将继续掌权至少到 2030 年；印度的纳伦德拉·莫迪 (Narendra Modi) 似乎肯定会将其统治延长至 2029 年；尽管被指控颠覆美国民主，唐纳德·特朗普仍可能重返白宫。]]></description>
       <guid>https://www.reuters.com/world/where-is-democracy-headed-2024-trump-may-have-final-word-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 06:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>中国与朝鲜在导弹发射期间举行高层会晤</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</link>
-      <description><![CDATA[中国外交部长王毅周一在北京与朝鲜高级官员举行了高层会谈，恰逢平壤发射了一枚能够到达美国任何地方的导弹。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 06:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国即将对援助进行投票，以色列对加沙发动新的打击</title>
+      <title>美国人权组织指责以色列在加沙实施“饥饿”策略</title>
       <link>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</link>
-      <description><![CDATA[居民周一表示，以色列军队连夜对加沙地带发动了新的袭击，联合国安理会似乎将就以色列和哈马斯允许援助进入巴勒斯坦飞地的要求进行投票。]]></description>
+      <description><![CDATA[美国人权观察组织周一指责以色列在与哈马斯的战争期间试图让加沙的巴勒斯坦人挨饿，以色列称这一指控来自一个“反犹太”组织，但以色列没有给出回应。]]></description>
       <guid>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 02:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度人民党承诺修建寺庙将改变印度阿约提亚，但穆斯林和一些当地人感到被忽视</title>
-      <link>https://www.reuters.com/world/india/temple-promised-by-bjp-transforms-indian-city-muslims-some-locals-feel-neglected-2023-12-18/</link>
-      <description><![CDATA[在阿约提亚一座宏伟的印度教寺庙落成之前，工人们正在完成一项耗资 60 亿美元的基础设施改造工程，这座寺庙正在引发经济繁荣，但该市的一些穷人和穆斯林社区却表示，他们正在忽视这一繁荣。]]></description>
-      <guid>https://www.reuters.com/world/india/temple-promised-by-bjp-transforms-indian-city-muslims-some-locals-feel-neglected-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 02:06:54 GMT</pubDate>
     </item>
     <item>
       <title>香港具有里程碑意义的黎智英安全审判开庭，安保严密</title>
@@ -132,18 +139,11 @@
       <pubDate>Sun, 17 Dec 2023 22:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>求救以色列军方称，在被杀人质藏身处发现了迹象</title>
-      <link>https://www.reuters.com/world/middle-east/sos-signs-found-killed-hostages-hideout-israeli-military-says-2023-12-17/</link>
-      <description><![CDATA[标语上写着“S.O.S.”以色列军方周日表示，在加沙一栋建筑的墙壁上发现了希伯来语的“救命，三名人质”，三名以色列人质在被误杀之前一直躲藏在那里。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/sos-signs-found-killed-hostages-hideout-israeli-military-says-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 19:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>智利人拒绝用保守宪法取代独裁时代的文本</title>
-      <link>https://www.reuters.com/world/americas/chileans-head-polls-again-replace-dictatorship-era-constitution-2023-12-17/</link>
-      <description><![CDATA[周日，智利人拒绝了一部新的保守派宪法，以取代可追溯到奥古斯托·皮诺切特独裁统治时期的现行文本。]]></description>
-      <guid>https://www.reuters.com/world/americas/chileans-head-polls-again-replace-dictatorship-era-constitution-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 09:01:40 GMT</pubDate>
+      <title>刚果十二月选举的主要竞争者</title>
+      <link>https://www.reuters.com/world/africa/main-contenders-congos-december-election-2023-11-20/</link>
+      <description><![CDATA[刚果民主共和国总统菲利克斯·齐塞克迪在周三的大选中将与二十多名竞争对手对决。他的竞争对手包括宿敌，例如在 2018 年有争议的民意调查中排名第二的马丁·法尤鲁 (Martin Fayulu)，以及诺贝尔和平奖获得者丹尼斯·穆奎格 (Denis Mukwege)。]]></description>
+      <guid>https://www.reuters.com/world/africa/main-contenders-congos-december-election-2023-11-20/</guid>
+      <pubDate>Mon, 20 Nov 2023 16:28:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
