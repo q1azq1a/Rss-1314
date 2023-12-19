@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Dec 2023 06:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 09:18:59 GMT</lastBuildDate>
+    <item>
+      <title>全球10大钢铁企业</title>
+      <link>https://www.reuters.com/markets/commodities/worlds-top-10-steelmakers-2023-12-19/</link>
+      <description><![CDATA[日本新日铁周一达成协议，将以 149 亿美元现金收购美国钢铁公司。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/worlds-top-10-steelmakers-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 08:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者在 12 月份抛售现金，购买股票 - 美银美林</title>
+      <link>https://www.reuters.com/markets/investors-dumped-cash-bought-stocks-december-bofa-2023-12-19/</link>
+      <description><![CDATA[美国银行基金经理周二的一项调查显示，由于预期美联储已完成加息且全球经济将避免大衰退，投资者在 12 月份变得更加看涨，买入股票并减少现金持有量。]]></description>
+      <guid>https://www.reuters.com/markets/investors-dumped-cash-bought-stocks-december-bofa-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 07:52:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>不太甜：随着种植减少，印度可能需要进口糖</title>
+      <link>https://www.reuters.com/markets/commodities/not-so-sweet-india-may-need-import-sugar-planting-wanes-2023-12-19/</link>
+      <description><![CDATA[根据贸易商和对农民的调查，印度本年度的食糖产量受到降雨量不足的影响，七年来首次落后于消费，而播种面积的减少甚至可能迫使世界第二大生产国从印度进口食糖。下一年。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/not-so-sweet-india-may-need-import-sugar-planting-wanes-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 06:39:44 GMT</pubDate>
+    </item>
     <item>
       <title>美国暂停制裁后，中化集团购买稀有的委内瑞拉石油船货--消息人士</title>
       <link>https://www.reuters.com/business/energy/china-sinochem-buys-rare-venezuelan-oil-cargo-after-us-suspends-sanctions-2023-12-19/</link>
@@ -27,7 +48,7 @@
       <pubDate>Tue, 19 Dec 2023 03:55:02 GMT</pubDate>
     </item>
     <item>
-      <title>菲律宾总统称与中国的外交努力“走向不良方向”</title>
+      <title>菲律宾总统称与中国的外交努力“走向糟糕”</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</link>
       <description><![CDATA[菲律宾总统小费迪南德·马科斯表示，菲律宾处理南海问题的方式需要“范式转​​变”，因为与北京的外交努力“朝着糟糕的方向发展”。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</guid>
@@ -69,9 +90,9 @@
       <pubDate>Mon, 18 Dec 2023 16:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>中国西北部甘肃、青海两省发生6.2级地震，已造成118人死亡</title>
+      <title>中国甘肃、青海发生6.2级地震，已造成118人死亡</title>
       <link>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</link>
-      <description><![CDATA[据中国官方媒体报道，周一午夜前，青藏高原北部边缘的一个偏远山区县发生了 6.2 级地震，造成至少 118 人死亡、数百人受伤。]]></description>
+      <description><![CDATA[近午夜的地震造成近 580 人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 16:15:04 GMT</pubDate>
     </item>
@@ -111,32 +132,11 @@
       <pubDate>Mon, 18 Dec 2023 06:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>腾讯在与网易的游戏对决中转向字节跳动</title>
-      <link>https://www.reuters.com/technology/tencent-turns-bytedance-gaming-showdown-with-netease-2023-12-18/</link>
-      <description><![CDATA[腾讯控股依靠曾经的死对头字节跳动来推广其多年来最重要的视频游戏发行，这是关系升温的迹象，也是随着中国游戏行业恢复增长而加剧的竞争。]]></description>
-      <guid>https://www.reuters.com/technology/tencent-turns-bytedance-gaming-showdown-with-netease-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 06:15:48 GMT</pubDate>
-    </item>
-    <item>
       <title>中国与朝鲜在导弹发射期间举行高层会晤</title>
       <link>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</link>
       <description><![CDATA[中国外交部长王毅周一在北京与朝鲜高级官员举行会谈，恰逢平壤发射了一枚能够到达美国任何地方的导弹。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-north-korea-hold-high-level-meeting-amid-missile-launches-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 06:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国首艘超深水钻井船将进行海试</title>
-      <link>https://www.reuters.com/world/china/china-conduct-sea-trials-its-first-ultra-deepwater-drilling-ship-2023-12-18/</link>
-      <description><![CDATA[中国将于周五对其第一艘海洋研究钻探船进行海上试验，该船能够在超过10,000米（32,800英尺）的深度进行钻探，这是增强中国深海石油和天然气勘探能力的关键一步。]]></description>
-      <guid>https://www.reuters.com/world/china/china-conduct-sea-trials-its-first-ultra-deepwater-drilling-ship-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 05:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于限制措施不断加强，亚洲化肥买家不再关注主要出口国中国</title>
-      <link>https://www.reuters.com/markets/commodities/asian-fertiliser-buyers-turn-away-key-exporter-china-amid-growing-curbs-2023-12-18/</link>
-      <description><![CDATA[买家和分析师表示，亚洲化肥买家正在寻找中国供应的替代品，因为他们担心，在为保护国内市场而限制发货后，中国这个世界最大的出口国已成为一个越来越不可靠的供应商。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/asian-fertiliser-buyers-turn-away-key-exporter-china-amid-growing-curbs-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 04:37:27 GMT</pubDate>
     </item>
     <item>
       <title>官员称2024年中国经济状况将改善</title>
