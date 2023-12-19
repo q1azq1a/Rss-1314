@@ -3,28 +3,91 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Dec 2023 21:16:40 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Dec 2023 01:21:59 GMT</lastBuildDate>
     <item>
-      <title>国际货币基金组织理事批准贷款资源增加 50%，但持股比例不变</title>
-      <link>https://www.reuters.com/business/finance/imf-governors-approve-50-increase-lending-resources-with-no-shareholding-changes-2023-12-18/</link>
-      <description><![CDATA[国际货币基金组织(IMF)周一表示，该组织管理机构已批准成员国按其现有持股比例增加50%的配额资源，使总配额达到9600亿美元。]]></description>
-      <guid>https://www.reuters.com/business/finance/imf-governors-approve-50-increase-lending-resources-with-no-shareholding-changes-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 21:04:07 GMT</pubDate>
+      <title>东京检察官因资金丑闻突击搜查自民党执政派别办公室</title>
+      <link>https://www.reuters.com/world/asia-pacific/tokyo-prosecutors-raid-offices-ruling-ldp-factions-over-funds-scandal-2023-12-19/</link>
+      <description><![CDATA[据公共广播公司 NHK 报道，东京检察官周二突击搜查了执政的自民党 (LDP) 内两个强大政治派别的办公室，原因是该党与筹款丑闻有关。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/tokyo-prosecutors-raid-offices-ruling-ldp-factions-over-funds-scandal-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>突袭的加沙医院无法运转，患者被疏散 - 世界卫生组织</title>
+      <link>https://www.reuters.com/world/middle-east/raided-gaza-hospital-not-functioning-patients-evacuated-who-2023-12-19/</link>
+      <description><![CDATA[世界卫生组织官员周一表示，以色列军队突袭的加沙北部一家医院已不再运作，包括婴儿在内的患者已被疏散，使该飞地崩溃的卫生服务面临进一步危险。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/raided-gaza-hospital-not-functioning-patients-evacuated-who-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 00:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩尔多瓦总理表示需要防空系统来对抗俄罗斯</title>
+      <link>https://www.reuters.com/world/europe/moldovan-pm-says-anti-aircraft-system-needed-counter-russia-2023-12-19/</link>
+      <description><![CDATA[摩尔多瓦总理多林·雷辛周一表示，摩尔多瓦需要升级防空系统，以应对因莫斯科入侵其东部邻国乌克兰而加剧的俄罗斯威胁。]]></description>
+      <guid>https://www.reuters.com/world/europe/moldovan-pm-says-anti-aircraft-system-needed-counter-russia-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 00:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国卡梅伦在巴黎呼吁欧洲在加沙问题上加强协调</title>
+      <link>https://www.reuters.com/world/europe/paris-uks-cameron-call-stronger-european-coordination-gaza-2023-12-19/</link>
+      <description><![CDATA[英国外交大臣戴维·卡梅伦办公室表示，他将在周二访问巴黎和罗马期间呼吁盟国加强协调，以解决加沙“绝望”的人道主义局势。]]></description>
+      <guid>https://www.reuters.com/world/europe/paris-uks-cameron-call-stronger-european-coordination-gaza-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 00:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫计划再推出一项乌克兰援助计划，然后提交国会</title>
+      <link>https://www.reuters.com/world/us/white-house-plans-one-more-ukraine-aid-package-then-up-congress-2023-12-19/</link>
+      <description><![CDATA[白宫周一表示，总统乔·拜登正计划在 12 月向乌克兰提供另一项军事援助，以应对乌克兰对俄罗斯的战争，然后对基辅的进一步援助将需要在国会达成协议，但达成协议的前景尚不确定。]]></description>
+      <guid>https://www.reuters.com/world/us/white-house-plans-one-more-ukraine-aid-package-then-up-congress-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 00:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合巡逻以保护船只，以应对支持巴勒斯坦人的胡塞武装的袭击</title>
+      <link>https://www.reuters.com/world/middle-east/joint-patrols-guard-ships-response-attacks-by-houthis-backing-palestinians-2023-12-18/</link>
+      <description><![CDATA[几个国家已同意在红海南部和亚丁湾联合巡逻，以保护商业航运免受也门胡塞叛军的袭击，胡塞叛军称他们正在支持加沙地带被以色列围困的巴勒斯坦人。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/joint-patrols-guard-ships-response-attacks-by-houthis-backing-palestinians-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 23:52:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着救援工作的加强，澳大利亚人评估飓风造成的洪水损失</title>
+      <link>https://www.reuters.com/world/asia-pacific/australians-assess-flood-damages-cyclone-rescue-efforts-ramp-up-2023-12-18/</link>
+      <description><![CDATA[周二，澳大利亚东北部的居民评估了前热带气旋贾斯珀造成的洪水损失，由于河流水位保持在危险水位以上，当局加快了救援被困在偏远城镇的人们的努力。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/australians-assess-flood-damages-cyclone-rescue-efforts-ramp-up-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>朝鲜称火星18洲际弹道导弹演习是对美国敌意的回应</title>
+      <link>https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-hwasong-18-icbm-monday-yonhap-2023-12-18/</link>
+      <description><![CDATA[朝鲜周二表示，周一发射了一枚火星18洲际弹道导弹（ICBM），作为一次演习，以确认其核威慑力量在面对美国日益加剧的敌意时已做好战备状态。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-hwasong-18-icbm-monday-yonhap-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰岛火山在地震活动数周后喷发</title>
+      <link>https://www.reuters.com/world/europe/iceland-volcano-erupts-after-weeks-quake-activity-2023-12-18/</link>
+      <description><![CDATA[冰岛气象局表示，经过数周的强烈地震活动后，冰岛西南部一座火山于周一喷发，向大片地区喷出熔岩和烟雾。]]></description>
+      <guid>https://www.reuters.com/world/europe/iceland-volcano-erupts-after-weeks-quake-activity-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>民事欺诈审判法官称特朗普的百万美元专家“失去了所有可信度”</title>
+      <link>https://www.reuters.com/legal/trumps-million-dollar-expert-lost-all-credibility-judge-ny-civil-fraud-trial-2023-12-18/</link>
+      <description><![CDATA[负责此案的法官周一表示，唐纳德·特朗普支付了近 100 万美元在纽约民事欺诈审判中作证的专家证人“顽固地”为美国前总统的商业记录辩护，“失去了所有可信度”。]]></description>
+      <guid>https://www.reuters.com/legal/trumps-million-dollar-expert-lost-all-credibility-judge-ny-civil-fraud-trial-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>穆迪和惠誉表示，宪法投票后智利的两极分化和社会需求依然存在</title>
+      <link>https://www.reuters.com/world/americas/moodys-fitch-say-chiles-polarization-social-demands-persist-after-constitution-2023-12-18/</link>
+      <description><![CDATA[评级机构周一表示，智利周日投票否决了新宪法，减少了监管不确定性，但并未解决社会不满或政治分歧。]]></description>
+      <guid>https://www.reuters.com/world/americas/moodys-fitch-say-chiles-polarization-social-demands-persist-after-constitution-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:20:20 GMT</pubDate>
     </item>
     <item>
       <title>德克萨斯州将根据新州法律逮捕非法越境移民</title>
       <link>https://www.reuters.com/world/us/texas-arrest-migrants-crossing-border-illegally-under-new-state-law-2023-12-18/</link>
-      <description><![CDATA[德克萨斯州州长预计将于周一签署一项法律，允许州执法部门逮捕涉嫌非法越过美墨边境的人，赋予当地官员长期授予联邦政府的权力，此举可能会引发权利的法律挑战组。]]></description>
+      <description><![CDATA[德克萨斯州州长格雷格·阿博特周一签署了一项法律，允许州执法部门逮捕涉嫌非法越过美墨边境的人，赋予当地官员长期授予美国政府的权力，此举可能会引发法律挑战。]]></description>
       <guid>https://www.reuters.com/world/us/texas-arrest-migrants-crossing-border-illegally-under-new-state-law-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 19:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>商船仍在索马里海岸被劫持——消息人士</title>
-      <link>https://www.reuters.com/world/africa/commercial-ship-still-hijacked-off-somali-coast-sources-2023-12-18/</link>
-      <description><![CDATA[海事安全消息人士周一表示，一艘被身份不明的袭击者劫持的商船仍在索马里海岸附近，随着红海袭击升级，人们担心全球航运进一步不稳定。]]></description>
-      <guid>https://www.reuters.com/world/africa/commercial-ship-still-hijacked-off-somali-coast-sources-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 19:05:40 GMT</pubDate>
     </item>
     <item>
       <title>随着航线撤出和红海袭击加剧，以色列航运成本上升</title>
@@ -34,13 +97,6 @@
       <pubDate>Mon, 18 Dec 2023 18:52:21 GMT</pubDate>
     </item>
     <item>
-      <title>七个欧洲国家承诺到 2035 年实现无二氧化碳电力系统</title>
-      <link>https://www.reuters.com/business/energy/seven-european-countries-pledge-co2-free-power-systems-by-2035-2023-12-18/</link>
-      <description><![CDATA[德国、荷兰和法国等七个国家周一承诺，到 2035 年，将在其电力系统中消除二氧化碳排放发电厂。]]></description>
-      <guid>https://www.reuters.com/business/energy/seven-european-countries-pledge-co2-free-power-systems-by-2035-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:51:10 GMT</pubDate>
-    </item>
-    <item>
       <title>加沙祖父描述他的家人被以色列士兵杀害</title>
       <link>https://www.reuters.com/world/middle-east/gaza-grandfather-describes-killing-his-family-by-israeli-soldiers-2023-12-18/</link>
       <description><![CDATA[当以色列士兵进入加沙学校时，尤瑟夫·哈利勒正在他家人旁边睡觉，他们开始肆意开枪，杀死了包括儿童在内的九人，他指着布满弹孔、血迹斑斑的墙壁说。]]></description>
@@ -48,81 +104,25 @@
       <pubDate>Mon, 18 Dec 2023 18:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>前美国和北约官员呼吁国会通过新的乌克兰援助</title>
-      <link>https://www.reuters.com/world/ex-us-nato-officials-call-congress-pass-new-ukraine-aid-2023-12-18/</link>
-      <description><![CDATA[40多名美国和北约前高级外交官和国防官员周一敦促国会批准对乌克兰的新援助，并警告说，输掉与俄罗斯的战争将给乌克兰带来灾难性的后果，并威胁美国及其盟国的安全。]]></description>
-      <guid>https://www.reuters.com/world/ex-us-nato-officials-call-congress-pass-new-ukraine-aid-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>波斯尼亚最高法院院长、前间谍负责人因涉嫌腐败被捕</title>
-      <link>https://www.reuters.com/world/europe/bosnia-top-court-president-ex-spy-chief-arrested-suspected-corruption-2023-12-18/</link>
-      <description><![CDATA[波斯尼亚检察官办公室在一份声明中表示，波斯尼亚警方周一以涉嫌滥用职权和其他犯罪行为逮捕了国家法院院长和间谍机构前负责人。]]></description>
-      <guid>https://www.reuters.com/world/europe/bosnia-top-court-president-ex-spy-chief-arrested-suspected-corruption-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙法院暂停从佛朗哥陵墓挖掘内战死者遗骸</title>
-      <link>https://www.reuters.com/world/europe/spanish-court-halts-exhumations-civil-war-dead-francoist-mausoleum-2023-12-18/</link>
-      <description><![CDATA[西班牙高等法院周一下令暂时停止从佛朗哥陵墓中挖掘西班牙内战受害者的工作，因为一名受害者的孙女表示，挖掘工作可能会导致对其祖先遗骸的亵渎。]]></description>
-      <guid>https://www.reuters.com/world/europe/spanish-court-halts-exhumations-civil-war-dead-francoist-mausoleum-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯发布三名以色列老年人质的视频</title>
-      <link>https://www.reuters.com/world/middle-east/hamas-armed-wing-posts-video-showing-israeli-hostages-pleading-release-2023-12-18/</link>
-      <description><![CDATA[哈马斯周一发布了一段短视频，显示该伊斯兰组织在 10 月 7 日的暴乱中扣押了三名人质。以色列谴责其为“犯罪、恐怖视频”。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/hamas-armed-wing-posts-video-showing-israeli-hostages-pleading-release-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:10:15 GMT</pubDate>
-    </item>
-    <item>
       <title>被定罪的红衣主教想“向世界喊叫”他是无辜的</title>
       <link>https://www.reuters.com/world/europe/convicted-cardinal-wants-shout-world-he-is-innocent-2023-12-18/</link>
-      <description><![CDATA[安杰洛·贝丘红衣主教是梵蒂冈刑事法庭有史以来受审的最高级罗马天主教会官员，周一，他在被判犯有贪污和欺诈罪后首次公开发表评论，声称自己无罪。]]></description>
+      <description><![CDATA[安杰洛·贝丘枢机主教是梵蒂冈刑事法庭有史以来受审的最高级罗马天主教会官员，周一，他在被判犯有贪污和欺诈罪后首次公开发表评论，声称自己无罪。]]></description>
       <guid>https://www.reuters.com/world/europe/convicted-cardinal-wants-shout-world-he-is-innocent-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 18:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰最高将军批评总统解雇招募负责人-媒体</title>
-      <link>https://www.reuters.com/world/europe/ukraines-top-general-criticizes-presidents-firing-recruitment-chiefs-media-2023-12-18/</link>
-      <description><![CDATA[据乌克兰国际文传电讯社报道，乌克兰最高将领周一对总统此前解雇地区军事征兵办公室负责人的决定提出了迄今为止最强烈​​的批评。]]></description>
-      <guid>https://www.reuters.com/world/europe/ukraines-top-general-criticizes-presidents-firing-recruitment-chiefs-media-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 15:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙战争中出生的婴儿没有洗澡、营养不良，在帐篷里面临困境</title>
-      <link>https://www.reuters.com/world/middle-east/unwashed-underfed-babies-born-into-gaza-war-face-hardship-tents-2023-12-18/</link>
-      <description><![CDATA[祖母对她的双胞胎小孙女阿尔玛和萨尔玛有一个简单的愿望：她们应该在一个干净、安全的房间里洗澡。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/unwashed-underfed-babies-born-into-gaza-war-face-hardship-tents-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 13:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>红海袭击迫使船只改道，扰乱供应链</title>
-      <link>https://www.reuters.com/world/middle-east/red-sea-attacks-force-rerouting-vessels-disrupting-supply-chains-2023-12-18/</link>
-      <description><![CDATA[也门与伊朗结盟的胡塞武装分子对红海船只的袭击正在扰乱海上贸易，并促使美国努力建立一个联盟来应对这一威胁，货运公司绕道好望角避开苏伊士运河。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/red-sea-attacks-force-rerouting-vessels-disrupting-supply-chains-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 12:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰军队面临火炮短缺，缩减部分行动——指挥官</title>
-      <link>https://www.reuters.com/world/europe/ukrainian-troops-face-artillery-shortages-scale-back-some-operations-commander-2023-12-18/</link>
-      <description><![CDATA[一名高级陆军将军告诉路透社，乌克兰前线部队面临炮弹短缺的问题，并因外国援助不足而缩减了一些军事行动。]]></description>
-      <guid>https://www.reuters.com/world/europe/ukrainian-troops-face-artillery-shortages-scale-back-some-operations-commander-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 11:31:00 GMT</pubDate>
+      <title>官方媒体报道中国甘肃地震死亡人数上升至 111 人</title>
+      <link>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</link>
+      <description><![CDATA[据官方媒体报道，周二中国甘青边境地区发生地震，造成至少 111 人死亡、230 多人受伤。]]></description>
+      <guid>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 16:15:04 GMT</pubDate>
     </item>
     <item>
       <title>埃及塞西以89.6%的得票率连任总统</title>
       <link>https://www.reuters.com/world/africa/results-due-egypt-election-with-sisi-expected-sweep-third-term-2023-12-18/</link>
-      <description><![CDATA[选举当局周一表示，阿卜杜勒·法塔赫·塞西在埃及总统选举中第三次连任，他没有遇到任何严峻的挑战，他称这次投票是对邻国加沙“不人道战争”的拒绝。]]></description>
+      <description><![CDATA[阿卜杜勒·法塔赫·塞西周一在埃及总统选举中大获全胜，第三次连任，他没有遇到任何严峻的挑战，他称这次投票是对邻国加沙“不人道战争”的拒绝。]]></description>
       <guid>https://www.reuters.com/world/africa/results-due-egypt-election-with-sisi-expected-sweep-third-term-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 11:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争提高了美国国防工业 2024 年的利润前景</title>
-      <link>https://www.reuters.com/business/aerospace-defense/wars-raise-profit-outlook-us-defense-industry-2024-2023-12-18/</link>
-      <description><![CDATA[据报道，当五角大楼召集世界上最大的国防承包商开会，要求他们在俄罗斯入侵乌克兰后不久提高产量时，一位首席执行官犹豫了，称他们不想在战斗停止时被困在装满火箭的仓库里。三个熟悉的人讨论。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/wars-raise-profit-outlook-us-defense-industry-2024-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 11:06:45 GMT</pubDate>
     </item>
     <item>
       <title>特朗普将任命效忠者来重塑美国对中国、北约和乌克兰的外交政策</title>
@@ -132,9 +132,9 @@
       <pubDate>Mon, 18 Dec 2023 11:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>美国国防部长敦促以色列采取更多措施保护加沙平民</title>
+      <title>美国领导的部队在红海巡逻，应对支持巴勒斯坦人的胡塞武装袭击</title>
       <link>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</link>
-      <description><![CDATA[美国国防部长劳埃德·奥斯汀周一表示，华盛顿对以色列的支持是“不可动摇的”，但他敦促其盟友采取更多措施保护平民，因为以色列针对哈马斯的战争给加沙地带的巴勒斯坦人带来了更多的死亡和破坏。]]></description>
+      <description><![CDATA[美国国防部长劳埃德·奥斯汀表示，多个国家已同意在红海南部和亚丁湾联合巡逻，以保护商业航运免受也门胡塞叛军的袭击。]]></description>
       <guid>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 02:53:18 GMT</pubDate>
     </item>
