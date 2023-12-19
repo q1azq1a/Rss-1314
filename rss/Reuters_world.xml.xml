@@ -3,12 +3,33 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Dec 2023 01:21:59 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Dec 2023 03:20:42 GMT</lastBuildDate>
     <item>
-      <title>东京检察官因资金丑闻突击搜查自民党执政派别办公室</title>
+      <title>菲律宾总统称与中国的外交努力“走向不良方向”</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</link>
+      <description><![CDATA[菲律宾总统小费迪南德·马科斯表示，菲律宾处理南海问题的方式需要“范式转​​变”，因为与北京的外交努力“朝着糟糕的方向发展”。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 03:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯在与沙特外长通话时谴责胡塞武装发动红海袭击</title>
+      <link>https://www.reuters.com/world/middle-east/blinken-call-with-saudi-counterpart-condemns-houthis-red-sea-attacks-2023-12-19/</link>
+      <description><![CDATA[美国国务院周一表示，美国国务卿安东尼·布林肯周一与沙特阿拉伯外交大臣费萨尔·本·法尔汉亲王通电话，谴责也门胡塞运动在红海国际水域对商船的袭击。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/blinken-call-with-saudi-counterpart-condemns-houthis-red-sea-attacks-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾报告另一个疑似中国气象气球穿越台湾海峡</title>
+      <link>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-suspected-chinese-weather-balloon-crossing-taiwan-strait-2023-12-19/</link>
+      <description><![CDATA[台湾国防部周二表示，一个疑似中国气象气球周一飞越敏感的台湾海峡，但仍停留在台湾以北的地方，这是本月台北第三次报告称气球在附近。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-suspected-chinese-weather-balloon-crossing-taiwan-strait-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:30:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>东京检方搜查执政党主要派别办公室</title>
       <link>https://www.reuters.com/world/asia-pacific/tokyo-prosecutors-raid-offices-ruling-ldp-factions-over-funds-scandal-2023-12-19/</link>
-      <description><![CDATA[据公共广播公司 NHK 报道，东京检察官周二突击搜查了执政的自民党 (LDP) 内两个强大政治派别的办公室，原因是该党与筹款丑闻有关。]]></description>
+      <description><![CDATA[据公共广播公司 NHK 报道，东京检察官周二搜查了执政的自民党 (LDP) 内一个强大政治派系的总部，原因是该党陷入数十年来最大的筹款丑闻。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/tokyo-prosecutors-raid-offices-ruling-ldp-factions-over-funds-scandal-2023-12-19/</guid>
       <pubDate>Tue, 19 Dec 2023 01:15:26 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>英国卡梅伦在巴黎呼吁欧洲在加沙问题上加强协调</title>
       <link>https://www.reuters.com/world/europe/paris-uks-cameron-call-stronger-european-coordination-gaza-2023-12-19/</link>
-      <description><![CDATA[英国外交大臣戴维·卡梅伦办公室表示，他将在周二访问巴黎和罗马期间呼吁盟国加强协调，以解决加沙“绝望”的人道主义局势。]]></description>
+      <description><![CDATA[英国外交大臣戴维·卡梅伦办公室表示，他的办公室表示，他将在周二访问巴黎和罗马期间呼吁盟国加强协调，以解决加沙“绝望”的人道主义局势。]]></description>
       <guid>https://www.reuters.com/world/europe/paris-uks-cameron-call-stronger-european-coordination-gaza-2023-12-19/</guid>
       <pubDate>Tue, 19 Dec 2023 00:07:00 GMT</pubDate>
     </item>
@@ -41,9 +62,9 @@
       <pubDate>Tue, 19 Dec 2023 00:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>联合巡逻以保护船只，以应对支持巴勒斯坦人的胡塞武装的袭击</title>
+      <title>美国领导的红海巡逻队应对胡塞武装袭击</title>
       <link>https://www.reuters.com/world/middle-east/joint-patrols-guard-ships-response-attacks-by-houthis-backing-palestinians-2023-12-18/</link>
-      <description><![CDATA[几个国家已同意在红海南部和亚丁湾联合巡逻，以保护商业航运免受也门胡塞叛军的袭击，胡塞叛军称他们正在支持加沙地带被以色列围困的巴勒斯坦人。]]></description>
+      <description><![CDATA[多个国家已同意在红海南部和亚丁湾联合进行巡逻，以保护商业航运免受也门胡塞叛军的袭击。]]></description>
       <guid>https://www.reuters.com/world/middle-east/joint-patrols-guard-ships-response-attacks-by-houthis-backing-palestinians-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 23:52:02 GMT</pubDate>
     </item>
@@ -55,16 +76,16 @@
       <pubDate>Mon, 18 Dec 2023 22:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>朝鲜称火星18洲际弹道导弹演习是对美国敌意的回应</title>
+      <title>朝鲜称火星18洲际弹道导弹试验是对美国敌意的回应</title>
       <link>https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-hwasong-18-icbm-monday-yonhap-2023-12-18/</link>
-      <description><![CDATA[朝鲜周二表示，周一发射了一枚火星18洲际弹道导弹（ICBM），作为一次演习，以确认其核威慑力量在面对美国日益加剧的敌意时已做好战备状态。]]></description>
+      <description><![CDATA[朝鲜周二表示，在华盛顿及其盟友开始运行实时导弹数据共享系统之际，该国已于周一测试了该孤立国家最新的洲际弹道导弹，以评估其核力量针对美国日益加剧的敌意的战备情况。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-hwasong-18-icbm-monday-yonhap-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 22:51:13 GMT</pubDate>
     </item>
     <item>
-      <title>冰岛火山在地震活动数周后喷发</title>
+      <title>冰岛火山在地震活动数周后在城镇附近喷发</title>
       <link>https://www.reuters.com/world/europe/iceland-volcano-erupts-after-weeks-quake-activity-2023-12-18/</link>
-      <description><![CDATA[冰岛气象局表示，经过数周的强烈地震活动后，冰岛西南部一座火山于周一喷发，向大片地区喷出熔岩和烟雾。]]></description>
+      <description><![CDATA[冰岛气象局表示，经过数周的强烈地震活动，冰岛西南部一座火山于周一晚间喷发，向大片地区喷出熔岩和烟雾，威胁到附近的一座城镇。]]></description>
       <guid>https://www.reuters.com/world/europe/iceland-volcano-erupts-after-weeks-quake-activity-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 22:48:16 GMT</pubDate>
     </item>
@@ -74,13 +95,6 @@
       <description><![CDATA[负责此案的法官周一表示，唐纳德·特朗普支付了近 100 万美元在纽约民事欺诈审判中作证的专家证人“顽固地”为美国前总统的商业记录辩护，“失去了所有可信度”。]]></description>
       <guid>https://www.reuters.com/legal/trumps-million-dollar-expert-lost-all-credibility-judge-ny-civil-fraud-trial-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 22:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆迪和惠誉表示，宪法投票后智利的两极分化和社会需求依然存在</title>
-      <link>https://www.reuters.com/world/americas/moodys-fitch-say-chiles-polarization-social-demands-persist-after-constitution-2023-12-18/</link>
-      <description><![CDATA[评级机构周一表示，智利周日投票否决了新宪法，减少了监管不确定性，但并未解决社会不满或政治分歧。]]></description>
-      <guid>https://www.reuters.com/world/americas/moodys-fitch-say-chiles-polarization-social-demands-persist-after-constitution-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 22:20:20 GMT</pubDate>
     </item>
     <item>
       <title>德克萨斯州将根据新州法律逮捕非法越境移民</title>
@@ -104,16 +118,9 @@
       <pubDate>Mon, 18 Dec 2023 18:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>被定罪的红衣主教想“向世界喊叫”他是无辜的</title>
-      <link>https://www.reuters.com/world/europe/convicted-cardinal-wants-shout-world-he-is-innocent-2023-12-18/</link>
-      <description><![CDATA[安杰洛·贝丘枢机主教是梵蒂冈刑事法庭有史以来受审的最高级罗马天主教会官员，周一，他在被判犯有贪污和欺诈罪后首次公开发表评论，声称自己无罪。]]></description>
-      <guid>https://www.reuters.com/world/europe/convicted-cardinal-wants-shout-world-he-is-innocent-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 18:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>官方媒体报道中国甘肃地震死亡人数上升至 111 人</title>
+      <title>中国偏远西北地区地震死亡人数上升至111人</title>
       <link>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</link>
-      <description><![CDATA[据官方媒体报道，周二中国甘青边境地区发生地震，造成至少 111 人死亡、230 多人受伤。]]></description>
+      <description><![CDATA[午夜时分，青藏高原北部边缘的一个偏远县发生里氏6.2级地震，造成至少111人死亡、230多人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 16:15:04 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>特朗普将任命效忠者来重塑美国对中国、北约和乌克兰的外交政策</title>
       <link>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</link>
-      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他比第一任总统有更多的自由来制定孤立主义政策和突发奇想。]]></description>
+      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他有更多的自由来制定孤立主义政策和突发奇想。]]></description>
       <guid>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 11:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>美国领导的部队在红海巡逻，应对支持巴勒斯坦人的胡塞武装袭击</title>
+      <title>美国领导的部队在红海巡逻，以应对支持巴勒斯坦人的胡塞武装的袭击</title>
       <link>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</link>
       <description><![CDATA[美国国防部长劳埃德·奥斯汀表示，多个国家已同意在红海南部和亚丁湾联合巡逻，以保护商业航运免受也门胡塞叛军的袭击。]]></description>
       <guid>https://www.reuters.com/world/middle-east/israeli-forces-launch-strikes-up-down-gaza-strip-hospital-hit-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 02:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝鲜在谴责美国“战争”举动后发射洲际弹道导弹</title>
-      <link>https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-south-korea-says-2023-12-17/</link>
-      <description><![CDATA[韩国和日本表示，朝鲜周一发射了一枚洲际弹道导弹，射程可覆盖美国任何地方，这是几小时内的第二次发射，平壤谴责美国主导的武力展示是“战争”的举动。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-south-korea-says-2023-12-17/</guid>
-      <pubDate>Sun, 17 Dec 2023 23:37:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

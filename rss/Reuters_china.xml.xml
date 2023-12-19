@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Dec 2023 01:22:08 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Dec 2023 03:20:52 GMT</lastBuildDate>
+    <item>
+      <title>菲律宾总统称与中国的外交努力“走向不良方向”</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</link>
+      <description><![CDATA[菲律宾总统小费迪南德·马科斯表示，菲律宾处理南海问题的方式需要“范式转​​变”，因为与北京的外交努力“朝着糟糕的方向发展”。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-president-says-diplomatic-efforts-with-china-heading-poor-direction-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 03:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾报告另一个疑似中国气象气球穿越台湾海峡</title>
+      <link>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-suspected-chinese-weather-balloon-crossing-taiwan-strait-2023-12-19/</link>
+      <description><![CDATA[台湾国防部周二表示，一个疑似中国气象气球周一飞越敏感的台湾海峡，但仍停留在台湾以北的地方，这是本月台北第三次报告称气球在附近。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-suspected-chinese-weather-balloon-crossing-taiwan-strait-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:30:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>日元等待日本央行关键结果；美元漂流</title>
+      <link>https://www.reuters.com/markets/currencies/yen-awaits-critical-boj-outcome-dollar-adrift-2023-12-19/</link>
+      <description><![CDATA[周二，在日本央行(BOJ)做出政策决定之前，日元普遍上涨，一些交易员希望该决定对于决定央行是否以及何时摆脱负利率至关重要。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-awaits-critical-boj-outcome-dollar-adrift-2023-12-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:27:20 GMT</pubDate>
+    </item>
     <item>
       <title>日本央行决定前日元和亚洲股市持谨慎态度</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-19/</link>
-      <description><![CDATA[亚洲股市和日元周二早盘企稳，交易者的注意力转向日本央行以及日本央行是否可能进一步远离超宽松货币政策，而全球股市继续看好美国降息的前景。]]></description>
+      <description><![CDATA[亚洲股市和日元周二早盘企稳，交易者的注意力转向日本央行以及日本央行是否可能进一步偏离超宽松货币政策，而全球股市继续看好美国降息的前景。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-19/</guid>
       <pubDate>Tue, 19 Dec 2023 01:11:18 GMT</pubDate>
     </item>
@@ -43,28 +64,28 @@
     <item>
       <title>世贸组织改革计划上诉法院问题未得到解答</title>
       <link>https://www.reuters.com/business/wto-reform-plans-leave-question-appeals-court-unanswered-2023-12-18/</link>
-      <description><![CDATA[贸易消息人士称，在重大会议召开之前的时间已经不多了，印度和中国等国家周一表达了担忧，认为世界贸易组织的一系列拟议改革在重启最高上诉法院的部分中留下了空白。]]></description>
+      <description><![CDATA[贸易消息人士称，印度和中国等国家周一对世界贸易组织的一系列拟议改革表示担忧，认为在重大会议召开之前的时间已经不多了，其中有关重启最高上诉法院的部分仍是空白。]]></description>
       <guid>https://www.reuters.com/business/wto-reform-plans-leave-question-appeals-court-unanswered-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 18:57:09 GMT</pubDate>
     </item>
     <item>
       <title>立法者希望拜登拒绝向中国无人机制造商大疆创新颁发出口许可证</title>
       <link>https://www.reuters.com/world/us/lawmakers-want-biden-reject-export-licenses-chinese-drone-maker-dji-2023-12-18/</link>
-      <description><![CDATA[由 15 名共和党议员组成的小组周一以国家安全为由，要求五角大楼阻止向中国无人机制造商大疆创新发放美国零部件的出口许可证。]]></description>
+      <description><![CDATA[周一，由 15 名共和党议员组成的团体以国家安全为由，要求五角大楼阻止向中国无人机制造商大疆创新发放美国零部件的出口许可证。]]></description>
       <guid>https://www.reuters.com/world/us/lawmakers-want-biden-reject-export-licenses-chinese-drone-maker-dji-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 18:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>得益于 AI-CEO，Forvia 计划到 2028 年将研发成本减半</title>
+      <title>Forvia 计划在 AI-CEO 的帮助下，到 2028 年将研发成本减半</title>
       <link>https://www.reuters.com/business/autos-transportation/forvia-aims-halve-its-rd-costs-by-2028-thanks-ai-ceo-2023-12-18/</link>
       <description><![CDATA[法国汽车零部件制造商 Forvia 希望到 2028 年将其研发 (R&amp;D) 成本削减一半，这主要归功于生成式人工智能 (AI)，以应对电气化挑战和亚洲汽车行业的竞争。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/forvia-aims-halve-its-rd-costs-by-2028-thanks-ai-ceo-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 16:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>官方媒体报道中国甘肃地震死亡人数上升至 111 人</title>
+      <title>中国偏远西北地区地震死亡人数上升至111人</title>
       <link>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</link>
-      <description><![CDATA[据官方媒体报道，周二中国甘青边境地区发生地震，造成至少 111 人死亡、230 多人受伤。]]></description>
+      <description><![CDATA[午夜时分，青藏高原北部边缘的一个偏远县发生里氏6.2级地震，造成至少111人死亡、230多人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 16:15:04 GMT</pubDate>
     </item>
@@ -113,30 +134,9 @@
     <item>
       <title>特朗普将任命效忠者来重塑美国对中国、北约和乌克兰的外交政策</title>
       <link>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</link>
-      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他比第一任总统有更多的自由来制定孤立主义政策和突发奇想。]]></description>
+      <description><![CDATA[唐纳德·特朗普在第二个任期内可能会在五角大楼、国务院和中央情报局的关键职位上任​​命忠诚者，他们的主要效忠对象是他，这让他有更多的自由来制定孤立主义政策和突发奇想。]]></description>
       <guid>https://www.reuters.com/world/us/trump-install-loyalists-reshape-us-foreign-policy-diplomats-gird-doomsday-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 11:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的外交政策：重新思考北约、向墨西哥增兵、提高关税</title>
-      <link>https://www.reuters.com/world/us/trumps-foreign-policy-rethink-nato-troops-mexico-boost-tariffs-2023-12-18/</link>
-      <description><![CDATA[共和党前总统唐纳德·特朗普计划如果赢得连任，将从根本上改变美国与欧洲的关系。在竞选过程中，他还提出派遣武装部队进入墨西哥打击贩毒集团，并对朋友和敌人征收高额关税。]]></description>
-      <guid>https://www.reuters.com/world/us/trumps-foreign-policy-rethink-nato-troops-mexico-boost-tariffs-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 10:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国蔚来汽车将获得阿布扎比 CYVN 22 亿美元投资</title>
-      <link>https://www.reuters.com/business/autos-transportation/nio-signs-receive-22-bln-abu-dhabi-investor-cyvn-2023-12-18/</link>
-      <description><![CDATA[电动汽车制造商蔚来汽车周一表示，该公司已与总部位于阿布扎比的投资公司 CYVN Holdings 签署了 22 亿美元的投资协议。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/nio-signs-receive-22-bln-abu-dhabi-investor-cyvn-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 10:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟寻找关键矿物</title>
-      <link>https://www.reuters.com/markets/commodities/eus-hunt-critical-minerals-2023-12-18/</link>
-      <description><![CDATA[欧盟旨在保障对其绿色和数字化转型至关重要的矿产供应并结束对中国供应依赖的法律将于本月获得最终批准后于明年初生效。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/eus-hunt-critical-minerals-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 09:01:18 GMT</pubDate>
     </item>
     <item>
       <title>朝鲜在谴责美国“战争”举动后发射洲际弹道导弹</title>
