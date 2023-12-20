@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Dec 2023 06:20:16 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Dec 2023 09:15:36 GMT</lastBuildDate>
+    <item>
+      <title>亚洲感受到印度洋葱出口禁令的刺痛</title>
+      <link>https://www.reuters.com/world/asia-pacific/asia-feels-sting-indias-onion-export-ban-2023-12-20/</link>
+      <description><![CDATA[印度对洋葱出口的禁令推高了亚洲买家的蔬菜价格，他们正在争相寻找更便宜的替代品，特别是因为新德里不太可能在明年大选前解除限制。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/asia-feels-sting-indias-onion-export-ban-2023-12-20/</guid>
+      <pubDate>Wed, 20 Dec 2023 09:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>极涡减弱可能是中国大寒的罪魁祸首</title>
+      <link>https://www.reuters.com/world/china/weakened-polar-vortex-seen-likely-culprit-behind-chinas-big-chill-2023-12-20/</link>
+      <description><![CDATA[一波刺骨的冷空气席卷中国并改写季节性低温记录的原因可能在更北的地方——通常会阻挡来自北极的疾风的快速移动的气流墙可能会减弱。]]></description>
+      <guid>https://www.reuters.com/world/china/weakened-polar-vortex-seen-likely-culprit-behind-chinas-big-chill-2023-12-20/</guid>
+      <pubDate>Wed, 20 Dec 2023 07:24:12 GMT</pubDate>
+    </item>
     <item>
       <title>美国和中国仍是 2024 年最值得关注的信用评级</title>
       <link>https://www.reuters.com/markets/us-china-remain-top-credit-ratings-watch-2024-2023-12-20/</link>
-      <description><![CDATA[美国和中国发出评级下调警告，土耳其希望十年来首次升级，以色列面临首次下调，再加上 50 多场选举需要进行，意味着 2024 年一些主权信用评级可能会发生关键性变化。]]></description>
+      <description><![CDATA[美国和中国发出评级下调警告，土耳其希望十年来首次升级，以色列面临首次下调，再加上 50 多场选举需要进行，这意味着 2024 年一些主权信用评级可能会发生关键性变化。]]></description>
       <guid>https://www.reuters.com/markets/us-china-remain-top-credit-ratings-watch-2024-2023-12-20/</guid>
       <pubDate>Wed, 20 Dec 2023 06:14:29 GMT</pubDate>
     </item>
@@ -29,21 +43,21 @@
     <item>
       <title>尼加拉瓜升级与中国关系，在西方制裁中寻求财政支持</title>
       <link>https://www.reuters.com/world/nicaragua-upgrades-ties-with-china-seeks-financial-support-amid-western-2023-12-20/</link>
-      <description><![CDATA[中国外交部表示，中国和尼加拉瓜周三升级了双边关系，向受制裁的中美洲政府提供经济支持，并进一步推进北京在美国后院的战略野心。]]></description>
+      <description><![CDATA[中国和尼加拉瓜周三升级了双边关系，为这个亚洲巨人向这个受制裁的中美洲国家提供更多经济支持奠定了基础，并进一步推进了北京在美国后院的战略野心。]]></description>
       <guid>https://www.reuters.com/world/nicaragua-upgrades-ties-with-china-seeks-financial-support-amid-western-2023-12-20/</guid>
       <pubDate>Wed, 20 Dec 2023 04:31:15 GMT</pubDate>
     </item>
     <item>
-      <title>中国救援人员冒着严寒寻找地震幸存者</title>
+      <title>中国地震灾民在零度以下的天气下被安全救出</title>
       <link>https://www.reuters.com/world/china/chinese-rescuers-brave-freezing-cold-find-earthquake-survivors-2023-12-20/</link>
-      <description><![CDATA[当局称，截至周三上午 9 点，甘肃已发现 113 人死亡、782 人受伤。]]></description>
+      <description><![CDATA[救援人员冒着低于冰点的条件，将地震灾民救至安全地带，而幸存者则面临着未来数月的不确定性，没有永久的住所。]]></description>
       <guid>https://www.reuters.com/world/china/chinese-rescuers-brave-freezing-cold-find-earthquake-survivors-2023-12-20/</guid>
       <pubDate>Wed, 20 Dec 2023 03:04:30 GMT</pubDate>
     </item>
     <item>
       <title>李氏家族将通过交易走出价值陷阱</title>
       <link>https://www.reuters.com/breakingviews/li-clan-will-deal-their-way-out-value-trap-2023-12-20/</link>
-      <description><![CDATA[亚洲最初的大亨李嘉诚在近十年前瓜分其香港帝国时就皈依了股东信仰。尽管投资者支持这笔交易，但随着中美紧张局势加剧，他们很快对该公司失去了信心。解决价值难题将是他的儿子李泽钜2024年的首要任务。]]></description>
+      <description><![CDATA[亚洲最初的大亨李嘉诚在近十年前瓜分其香港帝国时皈依了股东信仰。尽管投资者支持这笔交易，但随着中美紧张局势加剧，他们很快对该公司失去了信心。解决价值难题将是他的儿子李泽钜2024年的首要任务。]]></description>
       <guid>https://www.reuters.com/breakingviews/li-clan-will-deal-their-way-out-value-trap-2023-12-20/</guid>
       <pubDate>Wed, 20 Dec 2023 02:02:25 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>美国将13家中国企业列入未经核实名单</title>
       <link>https://www.reuters.com/markets/us-adds-13-companies-china-unverified-list-2023-12-19/</link>
-      <description><![CDATA[根据周二发布的政府通知，美国已将 13 家中国公司列入接收美国出口产品的实体名单，但官员无法对其进行检查。]]></description>
+      <description><![CDATA[根据周二发布的政府通知，美国已将 13 家中国公司添加到接收美国出口产品的实体名单中，但官员无法对其进行检查。]]></description>
       <guid>https://www.reuters.com/markets/us-adds-13-companies-china-unverified-list-2023-12-19/</guid>
       <pubDate>Tue, 19 Dec 2023 14:21:25 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>立法者希望拜登拒绝向中国无人机制造商大疆创新颁发出口许可证</title>
       <link>https://www.reuters.com/world/us/lawmakers-want-biden-reject-export-licenses-chinese-drone-maker-dji-2023-12-18/</link>
-      <description><![CDATA[周一，由 15 名共和党议员组成的团体以国家安全为由，要求五角大楼阻止向中国无人机制造商大疆创新发放美国零部件的出口许可证。]]></description>
+      <description><![CDATA[由 15 名共和党议员组成的团体周一以国家安全为由，要求五角大楼阻止向中国无人机制造商大疆创新发放美国零部件的出口许可证。]]></description>
       <guid>https://www.reuters.com/world/us/lawmakers-want-biden-reject-export-licenses-chinese-drone-maker-dji-2023-12-18/</guid>
       <pubDate>Mon, 18 Dec 2023 18:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forvia 计划在 AI-CEO 的帮助下，到 2028 年将研发成本减半</title>
-      <link>https://www.reuters.com/business/autos-transportation/forvia-aims-halve-its-rd-costs-by-2028-thanks-ai-ceo-2023-12-18/</link>
-      <description><![CDATA[法国汽车零部件制造商 Forvia 希望到 2028 年将其研发 (R&amp;D) 成本削减一半，这主要归功于生成式人工智能 (AI)，以应对电气化挑战和亚洲汽车行业的竞争。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/forvia-aims-halve-its-rd-costs-by-2028-thanks-ai-ceo-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 16:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国央行发现德国企业对中国的担忧推高了成本</title>
-      <link>https://www.reuters.com/markets/europe/german-firms-china-worries-pushing-up-costs-bundesbank-finds-2023-12-18/</link>
-      <description><![CDATA[德国央行在对 8400 家企业进行调查后周一表示，德国企业多年来为实现供应链多元化所做的努力正在推高成本，而且进一步的上涨仍在酝酿之中，尤其是与中国有联系的企业。]]></description>
-      <guid>https://www.reuters.com/markets/europe/german-firms-china-worries-pushing-up-costs-bundesbank-finds-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 11:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
