@@ -3,8 +3,43 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 21 Dec 2023 09:18:43 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 21 Dec 2023 12:35:35 GMT</lastBuildDate>
+    <item>
+      <title>捷克亿万富翁蒂卡奇从中国中信集团手中收购布拉格斯拉维亚足球俱乐部 - 报道</title>
+      <link>https://www.reuters.com/sports/soccer/czech-billionaire-tykac-buying-soccer-club-slavia-prague-chinas-citic-report-2023-12-21/</link>
+      <description><![CDATA[新闻网站 Seznamzpravy.cz 周四报道称，捷克能源投资者 Pavel Tykac 将从中国投资集团中信集团手中收购顶级国内足球俱乐部布拉格斯拉维亚队，但未援引消息来源。]]></description>
+      <guid>https://www.reuters.com/sports/soccer/czech-billionaire-tykac-buying-soccer-club-slavia-prague-chinas-citic-report-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 12:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>解说：中菲关系还能恶化到什么程度？</title>
+      <link>https://www.reuters.com/world/asia-pacific/how-far-could-china-philippines-relations-worsen-2023-12-21/</link>
+      <description><![CDATA[尽管中国和菲律宾都呼吁通过对话解决该战略航道的紧张局势，但两国在捍卫南海领土主张方面加大了言论力度。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/how-far-could-china-philippines-relations-worsen-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 11:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morning Bid：这是为了圣诞节欢呼吗？</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2023-12-21/</link>
+      <description><![CDATA[Alun John 对美国和全球市场未来一天的展望。]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 11:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国以国家安全为由禁止出口稀土加工技术</title>
+      <link>https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/</link>
+      <description><![CDATA[作为全球最大的稀土加工国，中国周四禁止出口提取和分离战略金属的技术，进一步保护其在几种战略金属中的主导地位。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 10:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>缅甸军政府因应对叛军进攻而被指控犯有战争罪</title>
+      <link>https://www.reuters.com/world/asia-pacific/myanmar-junta-accused-war-crimes-over-response-rebel-offensive-2023-12-21/</link>
+      <description><![CDATA[国际特赦组织周四表示，缅甸军方在打击少数民族叛乱分子的过程中可能对平民进行了不分青红皂白的袭击，并使用了违禁的集束弹药，并呼吁对涉嫌战争罪进行调查。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/myanmar-junta-accused-war-crimes-over-response-rebel-offensive-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 09:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>惠誉将万达商业评级下调至“限制性违约”，随后升级至“CC”</title>
       <link>https://www.reuters.com/markets/asia/fitch-downgrades-wanda-commercial-restricted-default-then-upgrades-cc-2023-12-21/</link>
@@ -50,14 +85,14 @@
     <item>
       <title>中国警告菲律宾不要在南海问题上“误算”</title>
       <link>https://www.reuters.com/world/asia-pacific/china-warns-philippines-resolve-south-china-sea-tensions-via-dialogue-2023-12-21/</link>
-      <description><![CDATA[中国外交部长王毅告诉菲律宾，通过对话解决两国关系在南海问题上的严重困难，并警告说，任何误判都会促使北京为自己辩护并“坚决回应”。]]></description>
+      <description><![CDATA[中国外交部长王毅警告菲律宾，南海争端升级中的任何误判都将招致坚决回应，并敦促通过对话解决两个邻国之间的“严重困难”。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-warns-philippines-resolve-south-china-sea-tensions-via-dialogue-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 03:14:31 GMT</pubDate>
     </item>
     <item>
       <title>台湾指责中国在取消关税后实施经济胁迫</title>
       <link>https://www.reuters.com/markets/asia/china-keeps-up-pre-election-trade-pressure-taiwan-with-tariff-cut-removals-2023-12-21/</link>
-      <description><![CDATA[台湾周四指责中国进行经济胁迫和选举干涉，此前北京宣布结束对台湾部分化学品进口的关税削减，并称台北违反了一项贸易协议，就在台湾大选之前。]]></description>
+      <description><![CDATA[台湾周四指责中国经济胁迫和选举干涉，此前北京宣布结束对台湾部分化学品进口的关税削减，并称台北违反了一项贸易协议，就在台湾大选之前。]]></description>
       <guid>https://www.reuters.com/markets/asia/china-keeps-up-pre-election-trade-pressure-taiwan-with-tariff-cut-removals-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 03:07:31 GMT</pubDate>
     </item>
@@ -69,9 +104,9 @@
       <pubDate>Thu, 21 Dec 2023 02:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>寒流袭上海 迎来40年来最冷年末</title>
+      <title>上海遭遇40年来最严重寒流</title>
       <link>https://www.reuters.com/world/china/chinas-cold-snap-reaches-shanghai-with-chilliest-year-end-40-years-2023-12-21/</link>
-      <description><![CDATA[中国金融中心上海将在12月创下四十年来最寒冷的时期，促使当局发布低温和大风警告，而北方城市则在与冰冻天气作斗争，预计下周才会缓解。]]></description>
+      <description><![CDATA[中国的金融中心将在12月创下四十年来最寒冷的时期，促使当局发布低温和大风警告，而北方城市则在与冰冷的环境作斗争。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-cold-snap-reaches-shanghai-with-chilliest-year-end-40-years-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 02:29:40 GMT</pubDate>
     </item>
@@ -83,9 +118,16 @@
       <pubDate>Thu, 21 Dec 2023 02:18:07 GMT</pubDate>
     </item>
     <item>
+      <title>华尔街动荡后股票陷入困境，债券继续上涨</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-21/</link>
+      <description><![CDATA[周四股市出现年底波动，而债券市场则完成了今年引人注目的往返，因为市场普遍认为世界大部分地区将在 2024 年降息。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-21/</guid>
+      <pubDate>Thu, 21 Dec 2023 02:09:41 GMT</pubDate>
+    </item>
+    <item>
       <title>中国将妈祖“和平女神”宗教作为台湾选举的武器</title>
       <link>https://www.reuters.com/world/asia-pacific/china-wields-peace-goddess-religion-weapon-taiwan-election-2023-12-21/</link>
-      <description><![CDATA[台湾政府文件显示，中国共产党正在加强与台湾农村民间宗教团体的交流，试图在下个月的选举前操纵政治舆论，使之有利于北京。]]></description>
+      <description><![CDATA[台湾政府文件和安全官员称，中国共产党正在加强与台湾农村民间宗教团体的交流，试图在下个月的选举前操纵政治舆论，使之有利于北京。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-wields-peace-goddess-religion-weapon-taiwan-election-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 02:08:08 GMT</pubDate>
     </item>
@@ -95,48 +137,6 @@
       <description><![CDATA[代购翻译为“代表购买”。在大流行之前，数百万中国人通过购买海外更便宜的商品然后在国内转售来谋生。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/daigou-goes-corporate-retailers-seek-new-ways-reach-chinese-shoppers-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 01:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国参议员马可·卢比奥呼吁拜登制裁中国芯片公司灿芯半导体</title>
-      <link>https://www.reuters.com/world/us-senator-marco-rubio-calls-biden-sanction-chinese-chip-firm-brite-2023-12-21/</link>
-      <description><![CDATA[共和党议员马可·卢比奥周三敦促拜登政府制裁中国芯片设计公司灿芯半导体，因为该公司与中国最受制裁的芯片制造商有联系，并为中国军事供应商提供服务。]]></description>
-      <guid>https://www.reuters.com/world/us-senator-marco-rubio-calls-biden-sanction-chinese-chip-firm-brite-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 01:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>监管机构批准后波音接近恢复中国 737 MAX 交付 - 报告</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-wins-key-clearance-chinas-aviation-regulator-737-max-deliveries-report-2023-12-21/</link>
-      <description><![CDATA[贸易出版物《气流》周三表示，波音公司已获得中国航空监管机构的重要许可，使其在四年多的冻结之后恢复向中国交付 737 MAX 飞机又近了一步。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-wins-key-clearance-chinas-aviation-regulator-737-max-deliveries-report-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 00:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟将对中国生物柴油倾销指控展开调查</title>
-      <link>https://www.reuters.com/markets/commodities/eu-investigate-chinese-biodiesel-dumping-allegation-2023-12-20/</link>
-      <description><![CDATA[欧盟周三表示，将对从中国进口的生物柴油展开反倾销调查，欧盟业界称中国生产的生物柴油已大幅削减国内产量。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/eu-investigate-chinese-biodiesel-dumping-allegation-2023-12-20/</guid>
-      <pubDate>Wed, 20 Dec 2023 17:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾总统候选人称，在中国眼中，我们都是分裂分子</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-eyes-were-all-separatists-taiwan-presidential-frontrunner-says-2023-12-20/</link>
-      <description><![CDATA[台湾下一任领导人的领跑者周三在与其他竞争者的联合电视讲话中表示，在中国眼中，所有三位台湾总统候选人都是分裂分子。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinas-eyes-were-all-separatists-taiwan-presidential-frontrunner-says-2023-12-20/</guid>
-      <pubDate>Wed, 20 Dec 2023 14:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美中关系：预计2024年将出现更多动荡</title>
-      <link>https://www.reuters.com/world/expect-more-turbulence-us-china-2024-2023-12-20/</link>
-      <description><![CDATA[经过一年的间谍气球恐慌、半导体之争以及日益激烈的军事竞争，中国和美国将以令人不安的缓和局势结束这一年。]]></description>
-      <guid>https://www.reuters.com/world/expect-more-turbulence-us-china-2024-2023-12-20/</guid>
-      <pubDate>Wed, 20 Dec 2023 11:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>极涡减弱可能是中国大寒的罪魁祸首</title>
-      <link>https://www.reuters.com/world/china/weakened-polar-vortex-seen-likely-culprit-behind-chinas-big-chill-2023-12-20/</link>
-      <description><![CDATA[一股刺骨的冷空气席卷中国并改写了季节性低温记录，原因可能在更北的地方。]]></description>
-      <guid>https://www.reuters.com/world/china/weakened-polar-vortex-seen-likely-culprit-behind-chinas-big-chill-2023-12-20/</guid>
-      <pubDate>Wed, 20 Dec 2023 07:24:12 GMT</pubDate>
     </item>
     <item>
       <title>中国地震灾民在零下严寒中被安全救出</title>
