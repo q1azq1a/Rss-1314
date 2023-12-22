@@ -3,14 +3,49 @@
   <channel>
     <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 22 Dec 2023 03:19:29 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 22 Dec 2023 06:24:43 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉启动上海megapack电池项目 - 中国官方媒体</title>
+      <link>https://www.reuters.com/technology/tesla-launches-shanghai-megapack-battery-project-chinese-state-media-2023-12-22/</link>
+      <description><![CDATA[据中国官方媒体报道，特斯拉周五在上海启动了其新的大型电池制造工厂，并举行了该项目土地购买仪式。]]></description>
+      <guid>https://www.reuters.com/technology/tesla-launches-shanghai-megapack-battery-project-chinese-state-media-2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 04:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音自2019年以来首架交付中国的梦想客机将于周五降落</title>
+      <link>https://www.reuters.com/business/aerospace-defense/boeings-first-dreamliner-delivery-china-since-2019-land-friday-2023-12-22/</link>
+      <description><![CDATA[波音自 2019 年以来向中国直接交付的首架 787 梦想客机将于周五降落在上海，此举可能会加速中国结束四年多以来对该公司盈利的 737 MAX 交付的冻结。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/boeings-first-dreamliner-delivery-china-since-2019-land-friday-2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 04:20:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着中国气温攀升，刺骨的寒冷放松了控制</title>
+      <link>https://www.reuters.com/world/china/biting-cold-loosen-grip-temperatures-creep-higher-china-2023-12-22/</link>
+      <description><![CDATA[寒潮席卷中国大部分地区，带来近两周零度以下的天气，从周末开始，一轮暖空气将开始从中国北部向南部流动，气温将升高。]]></description>
+      <guid>https://www.reuters.com/world/china/biting-cold-loosen-grip-temperatures-creep-higher-china-2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 04:08:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港法院驳回撤销黎智英煽动叛乱指控的请求</title>
+      <link>https://www.reuters.com/world/china/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-2023-12-22/</link>
+      <description><![CDATA[香港一家法院周五驳回了法律团队要求撤销对民主大亨黎智英煽动叛乱指控的请求。]]></description>
+      <guid>https://www.reuters.com/world/china/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 03:26:15 GMT</pubDate>
+    </item>
     <item>
       <title>中国解除对台湾石斑鱼的进口禁令，胡萝卜加大棒外交</title>
       <link>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</link>
       <description><![CDATA[中国政府宣布，中国将从周五开始恢复从台湾进口石斑鱼。就在一天前，距离台湾大选不到一个月，中国政府终止了对部分化学品进口的关税削减，激怒了台北。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 02:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国汽车制造商将反抗巨大的脱钩</title>
+      <link>https://www.reuters.com/breakingviews/chinas-automakers-will-defy-great-uncoupling-2023-12-22/</link>
+      <description><![CDATA[中美大脱钩已成为不言而喻的事实。在从微芯片到电信设备等战略敏感领域，两个超级大国之间已经产生了分歧。但汽车公司 — — 特别是电动汽车 — — 可以勾勒出美国保护主义的界限。]]></description>
+      <guid>https://www.reuters.com/breakingviews/chinas-automakers-will-defy-great-uncoupling-2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 01:09:25 GMT</pubDate>
     </item>
     <item>
       <title>中美气候关系为美国大选和特使更换做好准备</title>
@@ -57,7 +92,7 @@
     <item>
       <title>中国以国家安全为由禁止出口稀土加工技术</title>
       <link>https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/</link>
-      <description><![CDATA[作为世界最大的稀土加工国，中国周四禁止出口提取和分离关键材料的技术，这是该国保护其对几种战略金属主导地位的最新举措。]]></description>
+      <description><![CDATA[作为全球最大的稀土加工国，中国周四禁止出口提取和分离关键材料的技术，这是该国保护其对几种战略金属主导地位的最新举措。]]></description>
       <guid>https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 10:53:34 GMT</pubDate>
     </item>
@@ -83,46 +118,11 @@
       <pubDate>Thu, 21 Dec 2023 06:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国考虑提高中国电动汽车关税 - 华尔街日报</title>
-      <link>https://www.reuters.com/world/us/biden-administration-explores-raising-tariffs-chinese-evs-wsj-2023-12-21/</link>
-      <description><![CDATA[《华尔街日报》周三援引知情人士的话称，美国拜登政府正在讨论提高对包括电动汽车在内的部分中国商品的关税。]]></description>
-      <guid>https://www.reuters.com/world/us/biden-administration-explores-raising-tariffs-chinese-evs-wsj-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 04:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港法院判处资深劳工活动人士的妹妹监禁六个月</title>
-      <link>https://www.reuters.com/world/china/hong-kong-court-jails-sister-veteran-labour-activist-six-months-2023-12-21/</link>
-      <description><![CDATA[香港一家法院周四判处一名亲民主工会领导人的妹妹六个月监禁，原因是在这座中国统治的城市正在进行的安全镇压期间，她从后者的家中带走了证据。]]></description>
-      <guid>https://www.reuters.com/world/china/hong-kong-court-jails-sister-veteran-labour-activist-six-months-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 04:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国警告菲律宾不要在南海问题上“误算”</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-warns-philippines-resolve-south-china-sea-tensions-via-dialogue-2023-12-21/</link>
-      <description><![CDATA[中国外交部长王毅警告菲律宾，南海争端升级中的任何误判都将招致坚决回应，并敦促通过对话解决两个邻国之间的“严重困难”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/china-warns-philippines-resolve-south-china-sea-tensions-via-dialogue-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 03:14:31 GMT</pubDate>
-    </item>
-    <item>
       <title>台湾指责中国在取消关税后实施经济胁迫</title>
       <link>https://www.reuters.com/markets/asia/china-keeps-up-pre-election-trade-pressure-taiwan-with-tariff-cut-removals-2023-12-21/</link>
-      <description><![CDATA[台湾周四指责中国经济胁迫和选举干涉，此前北京宣布结束对台湾部分化学品进口的关税削减，并称台北违反了一项贸易协议，就在台湾大选之前。]]></description>
+      <description><![CDATA[台湾周四指责中国进行经济胁迫和选举干涉，此前北京宣布结束对台湾部分化学品进口的关税削减，并称台北违反了一项贸易协议，就在台湾大选之前。]]></description>
       <guid>https://www.reuters.com/markets/asia/china-keeps-up-pre-election-trade-pressure-taiwan-with-tariff-cut-removals-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 03:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国和日本在关系改善的情况下恢复高层经济会谈</title>
-      <link>https://www.reuters.com/world/asia-pacific/south-korea-japan-resume-high-level-economic-talks-amid-improved-ties-2023-12-21/</link>
-      <description><![CDATA[韩国和日本周四举行了八年来的首次高层经济会谈，这进一步表明随着两国因共同的地缘政治担忧而走得更近，两国关系正在改善。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/south-korea-japan-resume-high-level-economic-talks-amid-improved-ties-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 02:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>上海遭遇40年来最严重寒流</title>
-      <link>https://www.reuters.com/world/china/chinas-cold-snap-reaches-shanghai-with-chilliest-year-end-40-years-2023-12-21/</link>
-      <description><![CDATA[中国的金融中心将在12月创下四十年来最寒冷的时期，促使当局发布低温和大风警告，而北方城市则在与冰冷的环境作斗争。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-cold-snap-reaches-shanghai-with-chilliest-year-end-40-years-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 02:29:40 GMT</pubDate>
     </item>
     <item>
       <title>中国地震后仍有12人失踪，137人死亡</title>
