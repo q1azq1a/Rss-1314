@@ -3,8 +3,8 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 23 Dec 2023 03:19:11 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 23 Dec 2023 06:22:59 GMT</lastBuildDate>
     <item>
       <title>乌克兰声称击落三架俄罗斯战斗轰炸机</title>
       <link>https://www.reuters.com/world/europe/ukraine-claims-down-three-russian-fighter-bomber-jets-2023-12-23/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>乌克兰调查人员称他们发现了武器采购中的欺诈行为</title>
       <link>https://www.reuters.com/world/europe/ukrainian-investigators-say-they-uncover-fraud-arms-procurement-2023-12-22/</link>
-      <description><![CDATA[乌克兰SBU安全部门和国防部周五表示，他们发现了一起欺诈性购买炮弹的计划，该计划涉及挪用近4000万美元的资金。]]></description>
+      <description><![CDATA[乌克兰SBU安全部门和国防部周五表示，他们发现了一起欺诈性购买炮弹的计划，涉及挪用近4000万美元的资金。]]></description>
       <guid>https://www.reuters.com/world/europe/ukrainian-investigators-say-they-uncover-fraud-arms-procurement-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 21:26:16 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 22 Dec 2023 20:54:16 GMT</pubDate>
     </item>
     <item>
-      <title>更多运油船只避开红海航线</title>
+      <title>更多运载石油的船只避开红海航线</title>
       <link>https://www.reuters.com/business/energy/more-ships-carrying-oil-avoid-red-sea-route-2023-12-22/</link>
       <description><![CDATA[根据船只跟踪数据，周五至少有两艘在美国墨西哥湾沿岸和印度之间运输石油或石油产品的船只从红海改道，以美国为首的联盟正准备帮助保护船只免受也门胡塞武装的袭击武装分子。]]></description>
       <guid>https://www.reuters.com/business/energy/more-ships-carrying-oil-avoid-red-sea-route-2023-12-22/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>西班牙马德里地区部分废除跨性别者、LGBTQ 权利法</title>
       <link>https://www.reuters.com/world/europe/spains-madrid-region-partially-revokes-trans-lgbtq-rights-laws-2023-12-22/</link>
-      <description><![CDATA[周五，马德里地区议会通过了西班牙首都执政保守派人民党（PP）提出的一项提案，旨在取消对跨性别者的保护，引发反对派和 LGBTQ 活动人士的强烈抗议。]]></description>
+      <description><![CDATA[周五，马德里地区议会通过了西班牙首都执政保守派人民党（PP）提出的一项提议，旨在取消对跨性别者的保护，引发反对派和 LGBTQ 活动人士的强烈抗议。]]></description>
       <guid>https://www.reuters.com/world/europe/spains-madrid-region-partially-revokes-trans-lgbtq-rights-laws-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 18:28:45 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>特朗普记录向密歇根州官员施压，要求其放弃拜登 2020 年获胜报告</title>
       <link>https://www.reuters.com/world/us/trump-pressured-michigan-officials-throw-out-bidens-2020-win-report-2023-12-22/</link>
-      <description><![CDATA[据《底特律新闻》报道，唐纳德·特朗普敦促两名密歇根州选举官员不要在 2020 年总统选举后证明民主党人乔·拜登在该州获胜，并亲自称他们是在向他们施压，这让人想起他在佐治亚州的策略。]]></description>
+      <description><![CDATA[据《底特律新闻》报道，唐纳德·特朗普敦促两名密歇根州选举官员不要在 2020 年总统大选后证明民主党人乔·拜登在该州获胜，并亲自称他们是在向他们施压，这让人想起他在佐治亚州的策略。]]></description>
       <guid>https://www.reuters.com/world/us/trump-pressured-michigan-officials-throw-out-bidens-2020-win-report-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 15:26:57 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>乌克兰称其击落了28架俄罗斯无人机中的24架，碎片损坏了粮仓</title>
       <link>https://www.reuters.com/world/europe/ukraine-says-it-downs-24-28-russian-drones-debris-damages-granary-2023-12-22/</link>
-      <description><![CDATA[官员称，乌克兰在一次夜间袭击中击落了俄罗斯发射的 28 架 Shahed 无人机中的 24 架，这场袭击损坏了基辅的住宅楼以及南部地区的基础设施和粮食仓库。]]></description>
+      <description><![CDATA[官员称，乌克兰在夜间袭击中击落了俄罗斯发射的 28 架“沙赫德”无人机中的 24 架，袭击摧毁了基辅的住宅楼以及南部地区的基础设施和粮食仓库。]]></description>
       <guid>https://www.reuters.com/world/europe/ukraine-says-it-downs-24-28-russian-drones-debris-damages-granary-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 12:15:15 GMT</pubDate>
     </item>
