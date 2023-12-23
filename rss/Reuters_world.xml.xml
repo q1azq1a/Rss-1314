@@ -3,10 +3,38 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 23 Dec 2023 18:22:12 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 23 Dec 2023 21:15:23 GMT</lastBuildDate>
     <item>
-      <title>乌克兰天主教堂称祝福同性婚姻的文件不适用</title>
+      <title>伊朗否认帮助胡塞武装策划袭击与以色列有关的船只</title>
+      <link>https://www.reuters.com/world/middle-east/iran-denies-helping-houthis-plan-attacks-israel-linked-ships-2023-12-23/</link>
+      <description><![CDATA[据半官方的迈赫尔通讯社报道，伊朗周六否认了美国的指控，即伊朗参与了与德黑兰结盟的也门胡塞运动策划对红海商船的袭击。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/iran-denies-helping-houthis-plan-attacks-israel-linked-ships-2023-12-23/</guid>
+      <pubDate>Sat, 23 Dec 2023 20:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿根廷总统呼吁召开国会特别会议加快改革</title>
+      <link>https://www.reuters.com/world/americas/argentine-president-calls-extraordinary-sessions-congress-speed-up-reforms-2023-12-23/</link>
+      <description><![CDATA[阿根廷总统哈维尔·米莱颁布法令，呼吁召开特别会议加快改革，恢复上届政府废除的工资税，并使选举程序现代化。]]></description>
+      <guid>https://www.reuters.com/world/americas/argentine-president-calls-extraordinary-sessions-congress-speed-up-reforms-2023-12-23/</guid>
+      <pubDate>Sat, 23 Dec 2023 19:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>科索沃称塞尔维亚枪手正计划发动更多袭击</title>
+      <link>https://www.reuters.com/world/kosovo-says-gunmen-serbia-are-planning-more-attacks-2023-12-23/</link>
+      <description><![CDATA[科索沃总理阿尔宾·库尔蒂周六表示，塞尔维亚安全机构支持的武装人员正在接受训练，准备在科索沃发动新的袭击，此前该国发生了九月份的袭击事件，造成四人死亡。塞尔维亚否认有任何此类计划。]]></description>
+      <guid>https://www.reuters.com/world/kosovo-says-gunmen-serbia-are-planning-more-attacks-2023-12-23/</guid>
+      <pubDate>Sat, 23 Dec 2023 19:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>萨尔瓦多法院以掩盖大屠杀为由下令逮捕前总统</title>
+      <link>https://www.reuters.com/world/americas/el-salvador-court-orders-arrest-former-president-cover-up-massacre-2023-12-23/</link>
+      <description><![CDATA[萨尔瓦多当地法院下令逮捕前总统阿尔弗雷多·克里斯蒂亚尼，原因是他涉嫌在这个中美洲国家持续十二年的内战期间掩盖 1981 年埃尔莫佐特大屠杀。]]></description>
+      <guid>https://www.reuters.com/world/americas/el-salvador-court-orders-arrest-former-president-cover-up-massacre-2023-12-23/</guid>
+      <pubDate>Sat, 23 Dec 2023 19:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰天主教会拒绝梵蒂冈关于同性婚姻的文件</title>
       <link>https://www.reuters.com/world/europe/ukrainian-catholic-church-says-document-blessing-same-sex-marriage-does-not-2023-12-23/</link>
       <description><![CDATA[乌克兰东方天主教堂负责人周六表示，教皇方济各本周批准的一份允许同性伴侣祝福的文件并不适用于他的教会及其教义。]]></description>
       <guid>https://www.reuters.com/world/europe/ukrainian-catholic-church-says-document-blessing-same-sex-marriage-does-not-2023-12-23/</guid>
@@ -27,23 +55,23 @@
       <pubDate>Sat, 23 Dec 2023 16:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>土耳其称12名士兵在与库尔德武装的冲突中丧生</title>
+      <title>土耳其空袭伊拉克北部和叙利亚，造成12名士兵死亡</title>
       <link>https://www.reuters.com/world/middle-east/turkey-says-12-soldiers-killed-clashes-with-kurdish-militants-2023-12-23/</link>
-      <description><![CDATA[土耳其国防部周六表示，过去两天，12 名土耳其士兵在伊拉克北部与库尔德工人党 (PKK) 武装分子的冲突中丧生。]]></description>
+      <description><![CDATA[土耳其国防部周六表示，土耳其空军周六对伊拉克北部和叙利亚进行了空袭，摧毁了非法库尔德工人党（PKK）的29个目标，此前两天在伊拉克北部造成12名士兵死亡。]]></description>
       <guid>https://www.reuters.com/world/middle-east/turkey-says-12-soldiers-killed-clashes-with-kurdish-militants-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 16:27:50 GMT</pubDate>
     </item>
     <item>
-      <title>联合国特使称也门交战各方承诺采取停火措施</title>
+      <title>联合国特使：也门交战各方承诺采取停火措施</title>
       <link>https://www.reuters.com/world/middle-east/yemens-warring-parties-commit-ceasefire-steps-un-special-envoy-2023-12-23/</link>
       <description><![CDATA[联合国也门问题特使周六表示，沙特支持的也门政府和与伊朗结盟的胡塞武装都承诺采取停火措施。]]></description>
       <guid>https://www.reuters.com/world/middle-east/yemens-warring-parties-commit-ceasefire-steps-un-special-envoy-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 16:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>法国机场为停飞航班的印度人提供临时基地</title>
+      <title>法国停飞航班上印度乘客中有无人陪伴的未成年人</title>
       <link>https://www.reuters.com/world/india/french-airport-provides-makeshift-base-indians-grounded-flight-2023-12-23/</link>
-      <description><![CDATA[当地官员称，周六，一架因涉嫌人口贩运而在法国停飞的飞机上约有 300 名印度公民在马恩东部地区的一个机场大厅接受照顾，同时调查仍在进行中。]]></description>
+      <description><![CDATA[周六，一位接近巴黎检察官办公室的消息人士称，对涉嫌人口贩运的调查仍在继续，一架在法国停飞的飞机上的 303 名印度乘客中有 11 名无人陪伴的未成年人。]]></description>
       <guid>https://www.reuters.com/world/india/french-airport-provides-makeshift-base-indians-grounded-flight-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 14:14:21 GMT</pubDate>
     </item>
@@ -78,14 +106,14 @@
     <item>
       <title>叶卡捷琳娜·邓佐娃被禁止在选举中与普京竞争</title>
       <link>https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/</link>
-      <description><![CDATA[周六，前电视记者叶卡捷琳娜·邓佐娃(Yekateina Duntsova)被取消了俄罗斯下一届总统选举候选人的资格，这使她无法以反对乌克兰战争的纲领与弗拉基米尔·普京(Vladimir Putin)竞选。]]></description>
+      <description><![CDATA[周六，前电视记者叶卡捷琳娜·邓佐娃(Yekateina Duntsova)被取消了俄罗斯下届总统选举候选人的资格，这使她无法以反对乌克兰战争的纲领与弗拉基米尔·普京(Vladimir Putin)竞选。]]></description>
       <guid>https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 10:00:46 GMT</pubDate>
     </item>
     <item>
       <title>伊朗威胁关闭地中海加沙地带，但没有透露如何实施</title>
       <link>https://www.reuters.com/world/middle-east/iran-threatens-mediterranean-closure-over-gaza-without-saying-how-2023-12-23/</link>
-      <description><![CDATA[伊朗媒体周六报道称，一名伊朗革命卫队指挥官表示，如果美国及其盟国继续在加沙犯下“罪行”，地中海可能会被关闭，但没有解释这将如何发生。]]></description>
+      <description><![CDATA[伊朗媒体周六报道称，一名伊朗革命卫队指挥官表示，如果美国及其盟友继续在加沙犯下“罪行”，地中海可能会被关闭，但没有解释这将如何发生。]]></description>
       <guid>https://www.reuters.com/world/middle-east/iran-threatens-mediterranean-closure-over-gaza-without-saying-how-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 09:57:47 GMT</pubDate>
     </item>
@@ -99,16 +127,9 @@
     <item>
       <title>随着选举临近，台湾报道更多中国军事活动</title>
       <link>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</link>
-      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围飞行，其中包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
+      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围，包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
       <guid>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 07:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰声称击落三架俄罗斯战斗轰炸机</title>
-      <link>https://www.reuters.com/world/europe/ukraine-claims-down-three-russian-fighter-bomber-jets-2023-12-23/</link>
-      <description><![CDATA[乌克兰总统泽连斯基和军方官员表示，该国军队周五在南部战线击落了三架俄罗斯 Su-34 战斗轰炸机，并称赞这是这场持续 22 个月战争的胜利。]]></description>
-      <guid>https://www.reuters.com/world/europe/ukraine-claims-down-three-russian-fighter-bomber-jets-2023-12-23/</guid>
-      <pubDate>Sat, 23 Dec 2023 02:06:38 GMT</pubDate>
     </item>
     <item>
       <title>哈马斯称与负责五名人质的组织失去联系</title>
@@ -118,21 +139,7 @@
       <pubDate>Fri, 22 Dec 2023 21:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普记录向密歇根州官员施压，要求其放弃拜登 2020 年获胜报告</title>
-      <link>https://www.reuters.com/world/us/trump-pressured-michigan-officials-throw-out-bidens-2020-win-report-2023-12-22/</link>
-      <description><![CDATA[据《底特律新闻》报道，唐纳德·特朗普敦促两名密歇根州选举官员不要在 2020 年总统选举后证明民主党人乔·拜登在该州获胜，并亲自称他们是在向他们施压，这让人想起他在佐治亚州的策略。]]></description>
-      <guid>https://www.reuters.com/world/us/trump-pressured-michigan-officials-throw-out-bidens-2020-win-report-2023-12-22/</guid>
-      <pubDate>Fri, 22 Dec 2023 15:26:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚果在混乱的投票后公布第一个临时选举结果</title>
-      <link>https://www.reuters.com/world/africa/congo-awaits-first-provisional-election-results-after-messy-vote-2023-12-22/</link>
-      <description><![CDATA[刚果民主共和国周五公布了大选的一些初步结果，此前，投票延长了一天，这促使一些反对派候选人大声疾呼并要求重新选举。]]></description>
-      <guid>https://www.reuters.com/world/africa/congo-awaits-first-provisional-election-results-after-messy-vote-2023-12-22/</guid>
-      <pubDate>Fri, 22 Dec 2023 10:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国未达成停火呼吁后，加沙北部战事愈演愈烈</title>
+      <title>加沙北部战事激烈；拜登与内塔尼亚胡通话</title>
       <link>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</link>
       <description><![CDATA[加沙最大难民营所在的贾巴利亚镇上空笼罩着浓烟，居民报告称以色列坦克持续进行空中轰炸和炮击，他们说以色列坦克已进一步深入该镇。]]></description>
       <guid>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</guid>
