@@ -4,7 +4,14 @@
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
     <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 24 Dec 2023 01:25:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 03:19:16 GMT</lastBuildDate>
+    <item>
+      <title>台湾称八架中国战斗机越过海峡中线</title>
+      <link>https://www.reuters.com/world/asia-pacific/taiwan-says-eight-chinese-fighter-jets-crossed-straits-median-line-2023-12-24/</link>
+      <description><![CDATA[台湾国防部周日表示，在过去的 24 小时内，它发现了 8 架中国战斗机以及 1 个中国气球飞越台湾海峡中线。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-eight-chinese-fighter-jets-crossed-straits-median-line-2023-12-24/</guid>
+      <pubDate>Sun, 24 Dec 2023 01:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>澳大利亚大部分地区遭遇热浪，丛林火灾风险增加</title>
       <link>https://www.reuters.com/world/asia-pacific/large-parts-australia-endure-heat-wave-lifting-bushfire-risk-2023-12-24/</link>
@@ -20,9 +27,9 @@
       <pubDate>Sun, 24 Dec 2023 00:10:35 GMT</pubDate>
     </item>
     <item>
-      <title>无人机在曼德海峡附近的船只附近爆炸；英国机构报告称船员安全</title>
+      <title>美国击落四架从胡塞武装控制区发射的无人机 - CENTCOM</title>
       <link>https://www.reuters.com/world/middle-east/drone-explodes-near-vessel-bab-al-mandab-crew-reported-safe-ukmto-2023-12-23/</link>
-      <description><![CDATA[英国海事贸易运营机构 (UKMTO) 周六报告称，也门萨利夫西南 45 海里处的曼德海峡，一架无人飞行系统 (UAS) 在一艘船只附近爆炸。]]></description>
+      <description><![CDATA[美国中央司令部（CENTCOM）表示，美国周六在红海南部击落了四架从也门胡塞武装控制地区飞往美国驱逐舰的无人机。]]></description>
       <guid>https://www.reuters.com/world/middle-east/drone-explodes-near-vessel-bab-al-mandab-crew-reported-safe-ukmto-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 23:28:59 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>伊朗否认帮助胡塞武装策划袭击与以色列有关的船只</title>
       <link>https://www.reuters.com/world/middle-east/iran-denies-helping-houthis-plan-attacks-israel-linked-ships-2023-12-23/</link>
-      <description><![CDATA[据半官方的迈赫尔通讯社报道，伊朗周六否认了美国的指控，即伊朗参与了与德黑兰结盟的也门胡塞运动策划对红海商船的袭击。]]></description>
+      <description><![CDATA[据半官方的梅尔通讯社报道，伊朗周六否认了美国的指控，即伊朗参与了与德黑兰结盟的也门胡塞运动策划对红海商船的袭击。]]></description>
       <guid>https://www.reuters.com/world/middle-east/iran-denies-helping-houthis-plan-attacks-israel-linked-ships-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 20:02:44 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Sat, 23 Dec 2023 18:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>布隆迪西部武装分子杀害至少20人</title>
-      <link>https://www.reuters.com/world/africa/gunmen-kill-least-20-people-western-burundi-govt-2023-12-23/</link>
-      <description><![CDATA[政府周六告诉记者，武装分子在布隆迪西部与刚果民主共和国接壤的边境附近造成至少 20 人死亡，另有 9 人受伤，红色塔巴拉叛乱组织声称对这起袭击负责。]]></description>
-      <guid>https://www.reuters.com/world/africa/gunmen-kill-least-20-people-western-burundi-govt-2023-12-23/</guid>
-      <pubDate>Sat, 23 Dec 2023 16:51:45 GMT</pubDate>
-    </item>
-    <item>
       <title>联合国特使称也门交战各方承诺采取停火措施</title>
       <link>https://www.reuters.com/world/middle-east/yemens-warring-parties-commit-ceasefire-steps-un-special-envoy-2023-12-23/</link>
       <description><![CDATA[联合国也门问题特使周六表示，沙特支持的也门政府和与伊朗结盟的胡塞武装都承诺采取停火措施。]]></description>
@@ -118,7 +118,7 @@
       <pubDate>Sat, 23 Dec 2023 13:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>捷克共和国各地敲响钟声哀悼大规模枪击事件的受害者</title>
+      <title>捷克共和国各地敲响钟声哀悼大规模枪击事件的遇难者</title>
       <link>https://www.reuters.com/world/europe/bells-ring-across-czech-republic-mourn-victims-mass-shooting-2023-12-23/</link>
       <description><![CDATA[人们哀悼在布拉格一所大学枪击事件中丧生的 14 人，下半旗致哀。]]></description>
       <guid>https://www.reuters.com/world/europe/bells-ring-across-czech-republic-mourn-victims-mass-shooting-2023-12-23/</guid>
@@ -134,14 +134,14 @@
     <item>
       <title>随着选举临近，台湾报道更多中国军事活动</title>
       <link>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</link>
-      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围，包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
+      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围飞行，其中包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
       <guid>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 07:30:17 GMT</pubDate>
     </item>
     <item>
       <title>加沙北部战事激烈；拜登与内塔尼亚胡通话</title>
       <link>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</link>
-      <description><![CDATA[加沙最大难民营所在的贾巴利亚镇上空笼罩着浓烟，居民报告称以色列坦克持续进行空中轰炸和炮击，他们说以色列坦克已进一步深入该镇。]]></description>
+      <description><![CDATA[加沙最大难民营所在的贾巴利亚镇上空笼罩着浓烟，居民报告称，以色列坦克持续进行空中轰炸和炮击，他们说以色列坦克已进一步深入该镇。]]></description>
       <guid>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 01:42:25 GMT</pubDate>
     </item>
