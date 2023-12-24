@@ -3,8 +3,22 @@
   <channel>
     <title>世界新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 24 Dec 2023 06:23:14 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 24 Dec 2023 09:17:55 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰称其击落 15 架俄罗斯无人机中的 14 架</title>
+      <link>https://www.reuters.com/world/europe/ukraine-says-it-shoots-down-14-15-russian-drones-2023-12-24/</link>
+      <description><![CDATA[乌克兰军方周日表示，俄罗斯一夜之间向乌克兰发射了 15 架无人机，其中大部分位于该国南部，防空系统摧毁了其中 14 架。]]></description>
+      <guid>https://www.reuters.com/world/europe/ukraine-says-it-shoots-down-14-15-russian-drones-2023-12-24/</guid>
+      <pubDate>Sun, 24 Dec 2023 07:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寒潮过后，河南省冬季供暖短缺</title>
+      <link>https://www.reuters.com/world/china/chinas-henan-province-hit-by-shortage-winter-heating-after-cold-wave-2023-12-24/</link>
+      <description><![CDATA[寒潮席卷大片地区，带来暴风雪，气温降至历史最低水平，中国中部省份河南省的几个城市正面临冬季供暖供应紧张的问题。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-henan-province-hit-by-shortage-winter-heating-after-cold-wave-2023-12-24/</guid>
+      <pubDate>Sun, 24 Dec 2023 06:56:38 GMT</pubDate>
+    </item>
     <item>
       <title>以色列推动对加沙北部的控制；拜登与内塔尼亚胡讨论前景</title>
       <link>https://www.reuters.com/world/middle-east/israel-pushes-control-northern-gaza-biden-netanyahu-discuss-outlook-2023-12-24/</link>
@@ -13,9 +27,9 @@
       <pubDate>Sun, 24 Dec 2023 05:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>印度尼西亚莫罗瓦利镍工业园冶炼炉爆炸造成 12 人死亡 - 媒体</title>
+      <title>印尼镍冶炼炉爆炸造成13名工人死亡、38人受伤</title>
       <link>https://www.reuters.com/world/asia-pacific/smelter-furnace-blast-kills-12-indonesias-morowali-nickel-industrial-park-media-2023-12-24/</link>
-      <description><![CDATA[当地媒体周日称，印度尼西亚莫罗瓦利镍工业园区一座冶炼炉发生爆炸，造成十二人死亡、数十人受伤。]]></description>
+      <description><![CDATA[印度尼西亚青山不锈钢公司（ITSS）位于苏拉威西岛的一座镍冶炼炉发生爆炸，该冶炼厂所在工业园业主表示，周日，该厂发生爆炸，造成13名工人死亡、38人受伤。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/smelter-furnace-blast-kills-12-indonesias-morowali-nickel-industrial-park-media-2023-12-24/</guid>
       <pubDate>Sun, 24 Dec 2023 05:39:58 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>台湾称八架中国战斗机越过海峡中线</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-eight-chinese-fighter-jets-crossed-straits-median-line-2023-12-24/</link>
-      <description><![CDATA[台湾国防部周日表示，在过去的 24 小时内，它发现了 8 架中国战斗机以及 1 个中国气球飞越台湾海峡中线。]]></description>
+      <description><![CDATA[台湾国防部周日表示，在过去 24 小时内，已检测到 8 架中国战斗机以及 1 个中国气球飞越台湾海峡中线。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-eight-chinese-fighter-jets-crossed-straits-median-line-2023-12-24/</guid>
       <pubDate>Sun, 24 Dec 2023 01:38:05 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>美国击落四架从胡塞武装控制区发射的无人机 - CENTCOM</title>
       <link>https://www.reuters.com/world/middle-east/drone-explodes-near-vessel-bab-al-mandab-crew-reported-safe-ukmto-2023-12-23/</link>
-      <description><![CDATA[美国中央司令部（CENTCOM）表示，美国周六在红海南部击落了四架从也门胡塞武装控制地区飞往美国驱逐舰的无人机。]]></description>
+      <description><![CDATA[美国中央司令部（CENTCOM）表示，周六，美国在红海南部击落了四架从也门胡塞武装控制地区飞往美国驱逐舰的无人机。]]></description>
       <guid>https://www.reuters.com/world/middle-east/drone-explodes-near-vessel-bab-al-mandab-crew-reported-safe-ukmto-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 23:28:59 GMT</pubDate>
     </item>
@@ -90,13 +104,6 @@
       <pubDate>Sat, 23 Dec 2023 19:37:13 GMT</pubDate>
     </item>
     <item>
-      <title>萨尔瓦多法院以掩盖大屠杀为由下令逮捕前总统</title>
-      <link>https://www.reuters.com/world/americas/el-salvador-court-orders-arrest-former-president-cover-up-massacre-2023-12-23/</link>
-      <description><![CDATA[萨尔瓦多当地法院下令逮捕前总统阿尔弗雷多·克里斯蒂亚尼，原因是他涉嫌在这个中美洲国家持续十二年的内战期间掩盖 1981 年埃尔莫佐特大屠杀。]]></description>
-      <guid>https://www.reuters.com/world/americas/el-salvador-court-orders-arrest-former-president-cover-up-massacre-2023-12-23/</guid>
-      <pubDate>Sat, 23 Dec 2023 19:06:48 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰天主教会拒绝梵蒂冈关于同性婚姻的文件</title>
       <link>https://www.reuters.com/world/europe/ukrainian-catholic-church-says-document-blessing-same-sex-marriage-does-not-2023-12-23/</link>
       <description><![CDATA[乌克兰东方天主教堂负责人周六表示，教皇方济各本周批准的一份允许同性伴侣祝福的文件并不适用于他的教会及其教义。]]></description>
@@ -118,14 +125,7 @@
       <pubDate>Sat, 23 Dec 2023 16:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>“亵渎”的同性耶稣诞生场景激怒了意大利保守派</title>
-      <link>https://www.reuters.com/world/europe/blasphemous-same-sex-nativity-scene-angers-conservatives-italy-2023-12-23/</link>
-      <description><![CDATA[教堂的耶稣诞生场景以婴儿耶稣的两位母亲为特色，而不是传统的玛丽和约瑟夫雕像，这引发了意大利保守派天主教徒和政界人士的愤怒。]]></description>
-      <guid>https://www.reuters.com/world/europe/blasphemous-same-sex-nativity-scene-angers-conservatives-italy-2023-12-23/</guid>
-      <pubDate>Sat, 23 Dec 2023 13:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>捷克共和国各地敲响钟声哀悼大规模枪击事件的遇难者</title>
+      <title>捷克共和国各地敲响钟声哀悼大规模枪击事件的受害者</title>
       <link>https://www.reuters.com/world/europe/bells-ring-across-czech-republic-mourn-victims-mass-shooting-2023-12-23/</link>
       <description><![CDATA[人们哀悼在布拉格一所大学枪击事件中丧生的 14 人，下半旗致哀。]]></description>
       <guid>https://www.reuters.com/world/europe/bells-ring-across-czech-republic-mourn-victims-mass-shooting-2023-12-23/</guid>
@@ -134,14 +134,14 @@
     <item>
       <title>叶卡捷琳娜·邓佐娃被禁止在选举中与普京竞争</title>
       <link>https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/</link>
-      <description><![CDATA[周六，前电视记者叶卡捷琳娜·邓佐娃(Yekateina Duntsova)被取消了俄罗斯下届总统选举候选人的资格，这使她无法以反对乌克兰战争的纲领与弗拉基米尔·普京(Vladimir Putin)竞选。]]></description>
+      <description><![CDATA[周六，前电视记者叶卡捷琳娜·邓佐娃(Yekateina Duntsova)被取消了俄罗斯下一届总统选举候选人的资格，这使她无法以反对乌克兰战争的纲领与弗拉基米尔·普京(Vladimir Putin)竞选。]]></description>
       <guid>https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 10:00:46 GMT</pubDate>
     </item>
     <item>
       <title>加沙北部战事激烈；拜登与内塔尼亚胡通话</title>
       <link>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</link>
-      <description><![CDATA[加沙最大难民营所在的贾巴利亚镇上空笼罩着浓烟，居民报告称，以色列坦克持续进行空中轰炸和炮击，他们说以色列坦克已进一步深入该镇。]]></description>
+      <description><![CDATA[加沙最大难民营所在的贾巴利亚镇上空笼罩着浓烟，居民报告称以色列坦克持续进行空中轰炸和炮击，他们说以色列坦克已进一步深入该镇。]]></description>
       <guid>https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 01:42:25 GMT</pubDate>
     </item>
