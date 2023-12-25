@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 24 Dec 2023 21:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 01:22:25 GMT</lastBuildDate>
+    <item>
+      <title>中国地震死亡人数上升至149人，一周后仍有两人失踪</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-earthquake-death-toll-rises-149-two-still-missing-after-week-2023-12-25/</link>
+      <description><![CDATA[中国近年来最强烈的地震之一横跨甘肃省和青海省，该地区居住着许多中国回族（一个紧密团结的少数民族）。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-earthquake-death-toll-rises-149-two-still-missing-after-week-2023-12-25/</guid>
+      <pubDate>Mon, 25 Dec 2023 00:28:18 GMT</pubDate>
+    </item>
     <item>
       <title>北京打破七十年来的寒冷天气记录</title>
       <link>https://www.reuters.com/world/china/chinas-henan-province-hit-by-shortage-winter-heating-after-cold-wave-2023-12-24/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>随着选举临近，台湾报道更多中国军事活动</title>
       <link>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</link>
-      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围飞行，其中包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
+      <description><![CDATA[台湾周六报道称，中国战机和军舰在台湾周围，包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
       <guid>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 07:30:17 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>香港法院拒绝撤销黎智英煽动叛乱罪指控</title>
       <link>https://www.reuters.com/world/china/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-2023-12-22/</link>
-      <description><![CDATA[周五，香港一家法院驳回了法律团队要求撤销对民主大亨黎智英煽动叛乱指控的请求。]]></description>
+      <description><![CDATA[香港一家法院周五驳回了法律团队要求撤销对民主大亨黎智英煽动叛乱指控的请求。]]></description>
       <guid>https://www.reuters.com/world/china/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 03:26:15 GMT</pubDate>
     </item>
     <item>
       <title>中国解除对台湾石斑鱼的进口禁令，胡萝卜加大棒外交</title>
       <link>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</link>
-      <description><![CDATA[中国政府宣布，中国将从周五起恢复从台湾进口石斑鱼。一天前，距离台湾大选不到一个月，中国政府终止了对部分化学品进口的关税削减，激怒了台北。]]></description>
+      <description><![CDATA[中国政府宣布，中国将从周五开始恢复从台湾进口石斑鱼。一天前，距离台湾大选不到一个月，中国政府终止了对部分化学品进口的关税削减，激怒了台北。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 02:48:47 GMT</pubDate>
     </item>
@@ -118,16 +125,9 @@
       <pubDate>Thu, 21 Dec 2023 21:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>中国进口担忧促使美国启动半导体供应链审查</title>
-      <link>https://www.reuters.com/technology/us-launching-semiconductor-supply-chain-review-boost-national-security-2023-12-21/</link>
-      <description><![CDATA[美国商务部周四表示，将对美国半导体供应链和国防工业基础展开调查，以解决来自中国芯片的国家安全担忧。]]></description>
-      <guid>https://www.reuters.com/technology/us-launching-semiconductor-supply-chain-review-boost-national-security-2023-12-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 14:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>中美高级军事官员一年多来首次讲话</title>
       <link>https://www.reuters.com/world/us-china-top-military-officials-spoke-thursday-pentagon-statement-2023-12-21/</link>
-      <description><![CDATA[美国官员希望这次会议能够促成两国军队之间更广泛的关系恢复。]]></description>
+      <description><![CDATA[美国官员希望这次会议能够更广泛地恢复两军之间的关系。]]></description>
       <guid>https://www.reuters.com/world/us-china-top-military-officials-spoke-thursday-pentagon-statement-2023-12-21/</guid>
       <pubDate>Thu, 21 Dec 2023 13:50:21 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Thu, 21 Dec 2023 10:53:34 GMT</pubDate>
     </item>
     <item>
-      <title>焦点：零售商寻求接触中国消费者的新方式，“代购”走向企业化</title>
+      <title>焦点：零售商寻求接触中国消费者的新方式，“代购”走向企业</title>
       <link>https://www.reuters.com/business/retail-consumer/daigou-goes-corporate-retailers-seek-new-ways-reach-chinese-shoppers-2023-12-21/</link>
       <description><![CDATA[疫情期间中国游客和学生出境游的减少，对专注于 Z 世代的网购平台得物来说是一个福音。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/daigou-goes-corporate-retailers-seek-new-ways-reach-chinese-shoppers-2023-12-21/</guid>
