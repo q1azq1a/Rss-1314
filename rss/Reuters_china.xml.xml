@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 26 Dec 2023 01:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 03:19:27 GMT</lastBuildDate>
+    <item>
+      <title>随着美国降息押注增加，亚洲股市走势不稳定，美元波动</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-26/</link>
+      <description><![CDATA[周二亚洲股市交易试探，而美元则潜伏在五个月低点附近，因美国通胀降温增强了美联储将很快降息的押注。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-26/</guid>
+      <pubDate>Tue, 26 Dec 2023 02:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国警告火箭弹残骸将袭击南海</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-warns-rocket-remnants-hit-south-china-sea-maritime-safety-authority-2023-12-26/</link>
+      <description><![CDATA[中国警告说，继十一天前第六次部署其最强大的运载火箭后，一枚火箭的残余物将于周二击中南中国海的一个地区。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-warns-rocket-remnants-hit-south-china-sea-maritime-safety-authority-2023-12-26/</guid>
+      <pubDate>Tue, 26 Dec 2023 01:39:57 GMT</pubDate>
+    </item>
     <item>
       <title>美元在清淡的贸易中难以站稳脚跟；日元稳定</title>
       <link>https://www.reuters.com/markets/currencies/dollar-struggles-gain-footing-thin-trade-yen-steady-2023-12-26/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>消息人士称，印度逮捕了中国公司 Vivo 的两名高级员工</title>
       <link>https://www.reuters.com/world/india/india-arrests-two-senior-employees-chinese-firm-vivo-source-2023-12-23/</link>
-      <description><![CDATA[直接参与此案的消息人士周六表示，印度打击金融犯罪机构逮捕了中国智能手机制造商 Vivo 印度子公司的两名高级员工，该公司誓言要对这起案件提起法律诉讼。]]></description>
+      <description><![CDATA[周六，一名直接参与此案的消息人士称，印度打击金融犯罪机构逮捕了中国智能手机制造商 Vivo 印度子公司的两名高级员工，该公司誓言要对这起案件提起法律诉讼。]]></description>
       <guid>https://www.reuters.com/world/india/india-arrests-two-senior-employees-chinese-firm-vivo-source-2023-12-23/</guid>
       <pubDate>Sat, 23 Dec 2023 17:14:12 GMT</pubDate>
     </item>
@@ -116,20 +130,6 @@
       <description><![CDATA[中国监管机构周五宣布了一系列旨在限制鼓励电子游戏的支出和奖励的规定，这对今年恢复增长的全球最大游戏市场造成了打击。]]></description>
       <guid>https://www.reuters.com/world/china/china-issues-draft-rules-online-game-management-2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 04:15:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着中国气温攀升，刺骨的寒冷放松了控制</title>
-      <link>https://www.reuters.com/world/china/biting-cold-loosen-grip-temperatures-creep-higher-china-2023-12-22/</link>
-      <description><![CDATA[寒潮席卷中国大部地区，经历了近两周零度以下的天气，从周末开始，一股暖空气将开始从中国北部向南部流动，气温将升高。]]></description>
-      <guid>https://www.reuters.com/world/china/biting-cold-loosen-grip-temperatures-creep-higher-china-2023-12-22/</guid>
-      <pubDate>Fri, 22 Dec 2023 04:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国解除对台湾石斑鱼的进口禁令，胡萝卜加大棒外交</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</link>
-      <description><![CDATA[中国政府宣布，中国将从周五起恢复从台湾进口石斑鱼。一天前，距离台湾大选不到一个月，中国政府终止了对部分化学品进口的关税削减，激怒了台北。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/china-lifts-ban-taiwanese-grouper-fish-imports-carrot-stick-diplomacy-2023-12-22/</guid>
-      <pubDate>Fri, 22 Dec 2023 02:48:47 GMT</pubDate>
     </item>
     <item>
       <title>中美气候关系为美国大选和特使更换做好准备</title>
