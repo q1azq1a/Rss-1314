@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 02 Jan 2024 06:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 09:18:39 GMT</lastBuildDate>
+    <item>
+      <title>奥本海默电影时间表</title>
+      <link>https://flowingdata.com/2024/01/02/oppenheimer-movie-timeline/</link>
+      <description><![CDATA[奥本海默，时间表]]></description>
+      <guid>https://flowingdata.com/2024/01/02/oppenheimer-movie-timeline/</guid>
+      <pubDate>Tue, 02 Jan 2024 08:55:42 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年最佳数据可视化项目</title>
       <link>https://flowingdata.com/2023/12/29/best-of-2023/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>估算 YouTube 的大小</title>
       <link>https://flowingdata.com/2023/12/27/estimating-the-size-of-youtube/</link>
-      <description><![CDATA[YouTube 不提供其大小的数字，因此 Ethan Zuckerman 和标签： 估计，伊森·祖克曼，杰森·鲍姆加特纳，YouTube]]></description>
+      <description><![CDATA[YouTube 不提供有关其大小的数字，因此 Ethan Zuckerman 和标签： 估计，伊森·祖克曼，杰森·鲍姆加特纳，YouTube]]></description>
       <guid>https://flowingdata.com/2023/12/27/estimating-the-size-of-youtube/</guid>
       <pubDate>Wed, 27 Dec 2023 16:37:51 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 22 Dec 2023 16:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>✚ 数据的乐趣</title>
+      <title>✚ 数据乐趣</title>
       <link>https://flowingdata.com/2023/12/21/process-269-fun/</link>
       <description><![CDATA[有趣]]></description>
       <guid>https://flowingdata.com/2023/12/21/process-269-fun/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[对于 Retool，Glenn Fleishman 回顾了标签上的数据： 格伦·弗莱什曼，历史，雅虎]]></description>
       <guid>https://flowingdata.com/2023/12/20/visual-history-of-yahoo-pipes/</guid>
       <pubDate>Wed, 20 Dec 2023 16:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>卓越世界锦标赛</title>
-      <link>https://flowingdata.com/2023/12/19/excel-world-championship/</link>
-      <description><![CDATA[2023 年 Microsoft Excel 世界锦标赛已于几周前结束，标签： 冠军，Excel]]></description>
-      <guid>https://flowingdata.com/2023/12/19/excel-world-championship/</guid>
-      <pubDate>Tue, 19 Dec 2023 09:53:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
