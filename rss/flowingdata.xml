@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 03 Jan 2024 06:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 09:19:38 GMT</lastBuildDate>
+    <item>
+      <title>使用 Microsoft Image Creator 制作伪图表</title>
+      <link>https://flowingdata.com/2024/01/03/psuedo-charts-with-microsoft-image-creator/</link>
+      <description><![CDATA[随着每一个新的基于人工智能的工具的出现，我都会不情愿地尝试一下…标签： AI, 图像创建者，微软]]></description>
+      <guid>https://flowingdata.com/2024/01/03/psuedo-charts-with-microsoft-image-creator/</guid>
+      <pubDate>Wed, 03 Jan 2024 08:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>奥本海默电影时间表</title>
       <link>https://flowingdata.com/2024/01/02/oppenheimer-movie-timeline/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Kurzgesagt 阐释了最微小事物和最大事物的规模…标签： Kurzgesagt，规模]]></description>
       <guid>https://flowingdata.com/2023/12/21/scale-of-all-the-things-compared-to-you/</guid>
       <pubDate>Thu, 21 Dec 2023 16:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>雅虎管道的视觉历史</title>
-      <link>https://flowingdata.com/2023/12/20/visual-history-of-yahoo-pipes/</link>
-      <description><![CDATA[对于 Retool，Glenn Fleishman 回顾了标签上的数据： 格伦·弗莱什曼，历史，雅虎]]></description>
-      <guid>https://flowingdata.com/2023/12/20/visual-history-of-yahoo-pipes/</guid>
-      <pubDate>Wed, 20 Dec 2023 16:42:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
