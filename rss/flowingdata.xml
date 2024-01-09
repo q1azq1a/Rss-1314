@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 09 Jan 2024 06:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 09:19:15 GMT</lastBuildDate>
+    <item>
+      <title>带收据打印机的地图</title>
+      <link>https://flowingdata.com/2024/01/09/map-with-a-receipt-printer/</link>
+      <description><![CDATA[Aaron Koelker 使用收据打印机打印了一张六英尺长的地图，其中包含标签： 亚伦·科尔克，收据，河流]]></description>
+      <guid>https://flowingdata.com/2024/01/09/map-with-a-receipt-printer/</guid>
+      <pubDate>Tue, 09 Jan 2024 09:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>抛硬币可能会倾向于它们开始的同一面</title>
       <link>https://flowingdata.com/2024/01/08/coin-flips-might-tend-towards-the-same-side-they-started/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[YouTube 不提供其大小的数字，因此 Ethan Zuckerman 和标签： 估计，伊森·祖克曼，杰森·鲍姆加特纳，YouTube]]></description>
       <guid>https://flowingdata.com/2023/12/27/estimating-the-size-of-youtube/</guid>
       <pubDate>Wed, 27 Dec 2023 16:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>打破假日电影模式</title>
-      <link>https://flowingdata.com/2023/12/26/breaking-down-the-holiday-movie-formula/</link>
-      <description><![CDATA[ 《纽约时报》的 The Upshot 回顾了 Hallmark 发行的 424 部假日电影，并…标签： 假期、电影、 结果]]></description>
-      <guid>https://flowingdata.com/2023/12/26/breaking-down-the-holiday-movie-formula/</guid>
-      <pubDate>Tue, 26 Dec 2023 16:30:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
