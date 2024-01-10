@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 10 Jan 2024 15:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 18:24:20 GMT</lastBuildDate>
+    <item>
+      <title>纽约时报基于 Flash 的可视化再次发挥作用</title>
+      <link>https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/</link>
+      <description><![CDATA[在 2000 年代，如果您想为标签进行交互式或动画可视化：标签： 存档，flash，&lt; a href=&quot;https://flowingdata.com/tag/new-york-times/&quot; rel=&quot;tag&quot;&gt;纽约时报]]></description>
+      <guid>https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/</guid>
+      <pubDate>Wed, 10 Jan 2024 17:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>带收据打印机的地图</title>
       <link>https://flowingdata.com/2024/01/09/map-with-a-receipt-printer/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Recharge 是 Dries Depoorter 的艺术装置，它使用一个检测时间的系统…标签： Dries Depoorter，手机、视觉]]></description>
       <guid>https://flowingdata.com/2023/12/28/a-phone-charger-that-only-works-when-you-recharge-yourself/</guid>
       <pubDate>Thu, 28 Dec 2023 08:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>估算 YouTube 的大小</title>
-      <link>https://flowingdata.com/2023/12/27/estimating-the-size-of-youtube/</link>
-      <description><![CDATA[YouTube 不提供其大小的数字，因此 Ethan Zuckerman 和标签： 估计，伊森·祖克曼，杰森·鲍姆加特纳，YouTube]]></description>
-      <guid>https://flowingdata.com/2023/12/27/estimating-the-size-of-youtube/</guid>
-      <pubDate>Wed, 27 Dec 2023 16:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
