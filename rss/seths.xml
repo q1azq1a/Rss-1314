@@ -4,7 +4,14 @@
     <title>赛斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Wed, 10 Jan 2024 12:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 12:36:45 GMT</lastBuildDate>
+    <item>
+      <title>卡什的花园</title>
+      <link>https://seths.blog/2024/01/kashs-garden/</link>
+      <description><![CDATA[她不种植物。植物自己生长。她的工作是为植物生长创造条件。土壤、水、光线、杂草……这些就是条件。但如果植物一开始就没有做它们想做的事情，那么这一切都不会发生。这始终是正确的，[…]]]></description>
+      <guid>https://seths.blog/2024/01/kashs-garden/</guid>
+      <pubDate>Thu, 11 Jan 2024 09:31:00 GMT</pubDate>
+    </item>
     <item>
       <title>结果</title>
       <link>https://seths.blog/2024/01/consequences/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 08 Jan 2024 09:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>回避科技</title>
+      <title>回避技术</title>
       <link>https://seths.blog/2024/01/avoiding-technology/</link>
       <description><![CDATA[罗伯特·卡罗从未学过打字。他在电动打字机上一次用两个手指敲出书本。避免学习一项经过验证的新技术有两个原因：你知道它能做什么以及它将如何改变你的生活，但你不想要它。你不知道它能做什么[…]]]></description>
       <guid>https://seths.blog/2024/01/avoiding-technology/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>PW 5：衡量正确的事情</title>
       <link>https://seths.blog/2024/01/pw-5-measuring-the-right-thing/</link>
-      <description><![CDATA[该系列的最后一个…我们大多数人都被灌输这样的观念：完成家务是衡量生产力的适当标准。 “我做了所有的作业。”做好功课是实业老板的衡量标准。但你的家庭作业到底对你有什么帮助呢？可能有用的实际生产力指标范围 […]]]></description>
+      <description><![CDATA[该系列的最后一个…我们大多数人都被灌输这样的观念：完成家务是衡量生产力的适当标准。 “我做了所有的作业。”做好功课是实业老板的衡量标准。但你的家庭作业到底对你有什么帮助呢？可能有用的实际生产力衡量标准[…]]]></description>
       <guid>https://seths.blog/2024/01/pw-5-measuring-the-right-thing/</guid>
       <pubDate>Sat, 06 Jan 2024 09:20:00 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>PW 3：错误和生产力</title>
       <link>https://seths.blog/2024/01/pw-3-errors-and-productivity/</link>
-      <description><![CDATA[如果生产力是由时间或金钱创造的有用的工作，那么就值得思考我们所说的“有用”的含义。有些领域的可靠性至关重要。事实证明，与制造一架永不坠毁的飞机相比，制造一架 95% 的时间都能正常工作的飞机要容易得多。我想我们都很高兴[…]]]></description>
+      <description><![CDATA[如果生产力是由时间或金钱创造的有用的工作，那么就值得思考我们所说的“有用”是什么意思。在某些领域，可靠性至关重要。事实证明，与制造一架永不坠毁的飞机相比，制造一架 95% 的时间都能正常工作的飞机要容易得多。我想我们都很高兴[…]]]></description>
       <guid>https://seths.blog/2024/01/pw-3-errors-and-productivity/</guid>
       <pubDate>Thu, 04 Jan 2024 09:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PW 2：社区生产力</title>
-      <link>https://seths.blog/2024/01/pw-2-productivity-in-community/</link>
-      <description><![CDATA[我们需要你。但前提是您需要我们。 Purple.space 已经成立六个月了，现在我们大约有一千人。这是一个实验，现在它是一个有用的工具。主动帽子通常是不合适的。我们赶紧把它脱下来，然后继续做家务。这就是为什么社区 […]]]></description>
-      <guid>https://seths.blog/2024/01/pw-2-productivity-in-community/</guid>
-      <pubDate>Wed, 03 Jan 2024 09:58:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
