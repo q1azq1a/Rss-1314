@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 05 Feb 2024 09:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:33:31 GMT</lastBuildDate>
+    <item>
+      <title>校车的衰落</title>
+      <link>https://flowingdata.com/2024/02/05/decline-of-the-school-bus/</link>
+      <description><![CDATA[对于 WP 的数据部门，Andrew Van Dam 指出了标签的衰落： 孩子，校车 &gt;，《华盛顿邮报》]]></description>
+      <guid>https://flowingdata.com/2024/02/05/decline-of-the-school-bus/</guid>
+      <pubDate>Mon, 05 Feb 2024 10:17:33 GMT</pubDate>
+    </item>
     <item>
       <title>无限工艺与大语言模型</title>
       <link>https://flowingdata.com/2024/02/02/infinite-craft-with-large-language-model/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[综述 ]]></description>
       <guid>https://flowingdata.com/2024/01/25/process-273-roundup/</guid>
       <pubDate>Thu, 25 Jan 2024 19:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有数独谜题的数学特征</title>
-      <link>https://flowingdata.com/2024/01/25/mathematical-feature-in-all-sudoku-puzzles/</link>
-      <description><![CDATA[西蒙·安东尼 (Simon Anthony) 在 Numberphile 杂志上解释了 Phistomephel 戒指。该形状始终包含…标签：数学， Numberphile，数独]]></description>
-      <guid>https://flowingdata.com/2024/01/25/mathematical-feature-in-all-sudoku-puzzles/</guid>
-      <pubDate>Thu, 25 Jan 2024 09:58:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
