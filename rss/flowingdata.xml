@@ -4,9 +4,16 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 13 Feb 2024 15:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 18:23:46 GMT</lastBuildDate>
     <item>
-      <title>超级碗何时获胜以及获胜次数（按球队）</title>
+      <title>消费者对当前经济状况的信心</title>
+      <link>https://flowingdata.com/2024/02/13/consumer-confidence-in-current-economic-conditions/</link>
+      <description><![CDATA[对于《纽约时报》的观点，Nate Silver 比较了两项调查之间的消费者信心。大学…标签：信心，通货膨胀，内特·西尔弗，纽约时报，支出]]></description>
+      <guid>https://flowingdata.com/2024/02/13/consumer-confidence-in-current-economic-conditions/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级碗何时获胜以及获胜次数（按球队划分）</title>
       <link>https://flowingdata.com/2024/02/12/when-and-how-many-super-bowl-wins-by-team/</link>
       <description><![CDATA[现代堪萨斯城酋长队与过去 58 年赢得超级碗冠军的球队相比如何？标签： 足球、超级碗]]></description>
       <guid>https://flowingdata.com/2024/02/12/when-and-how-many-super-bowl-wins-by-team/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>投资者对利率的预期与实际情况的比较</title>
       <link>https://flowingdata.com/2024/02/09/investor-expectations-for-interest-rates-compared-to-reality/</link>
-      <description><![CDATA[埃里克·沃勒斯坦 (Eric Wallerstein) 为《华尔街日报》绘制的这张图表显示了对标签的预期： 投资，评分，《华尔街日报》]]></description>
+      <description><![CDATA[这张由埃里克·沃勒斯坦为《华尔街日报》绘制的图表显示了对标签的预期： 投资，评分，《华尔街日报》]]></description>
       <guid>https://flowingdata.com/2024/02/09/investor-expectations-for-interest-rates-compared-to-reality/</guid>
       <pubDate>Fri, 09 Feb 2024 08:26:10 GMT</pubDate>
     </item>
@@ -68,13 +75,6 @@ Deep Sea Vision，一家海洋勘探公司…标签： 飞机&lt; /a&gt;, 阿米
       <description><![CDATA[对于 WP 的数据部门，Andrew Van Dam 指出了标签的衰落： /strong&gt; 孩子, 校车，华盛顿邮报]]></description>
       <guid>https://flowingdata.com/2024/02/05/decline-of-the-school-bus/</guid>
       <pubDate>Mon, 05 Feb 2024 10:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>无限工艺与大语言模型</title>
-      <link>https://flowingdata.com/2024/02/02/infinite-craft-with-large-language-model/</link>
-      <description><![CDATA[从水、火、风和土开始，看看你能制作什么…标签： 游戏，大语言模型，Neal Agarwal&lt; /p&gt;]]></description>
-      <guid>https://flowingdata.com/2024/02/02/infinite-craft-with-large-language-model/</guid>
-      <pubDate>Fri, 02 Feb 2024 10:42:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
