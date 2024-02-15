@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 15 Feb 2024 18:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 21:16:45 GMT</lastBuildDate>
+    <item>
+      <title>✚ 好还是坏</title>
+      <link>https://flowingdata.com/2024/02/15/process-275-better-or-less-bad/</link>
+      <description><![CDATA[人们喜欢通过指出所有错误的地方来判断图表，这在实践中是有限的。标签： 批评]]></description>
+      <guid>https://flowingdata.com/2024/02/15/process-275-better-or-less-bad/</guid>
+      <pubDate>Thu, 15 Feb 2024 19:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>BrailleR，一个用于改善盲人用户访问的 R 软件包</title>
       <link>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</link>
@@ -68,13 +75,6 @@
       <description><![CDATA[有些比赛要求人们尽可能快地完成拼图游戏，…标签： 拼图，《华盛顿邮报》]]></description>
       <guid>https://flowingdata.com/2024/02/07/speed-puzzling-times-and-strategies/</guid>
       <pubDate>Wed, 07 Feb 2024 17:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动条的演变</title>
-      <link>https://flowingdata.com/2024/02/07/evolution-of-the-scrollbar/</link>
-      <description><![CDATA[Sébastien Matos 使用直观的视图来展示滚动条的演变，…标签： 进化，滚动条，塞巴斯蒂安·马托斯]]></description>
-      <guid>https://flowingdata.com/2024/02/07/evolution-of-the-scrollbar/</guid>
-      <pubDate>Wed, 07 Feb 2024 16:44:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
