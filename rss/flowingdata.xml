@@ -4,7 +4,15 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 15 Feb 2024 06:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 09:20:44 GMT</lastBuildDate>
+    <item>
+      <title>BrailleR，一个用于改善盲人用户访问的 R 软件包</title>
+      <link>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</link>
+      <description><![CDATA[来自克兰：
+盲人用户无法访问标签的图形输出： 辅助功能、盲文、R]]></description>
+      <guid>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</guid>
+      <pubDate>Thu, 15 Feb 2024 08:48:26 GMT</pubDate>
+    </item>
     <item>
       <title>国歌演奏的天后</title>
       <link>https://flowingdata.com/2024/02/14/diva-ness-of-national-anthem-renditions/</link>
@@ -67,14 +75,6 @@
       <description><![CDATA[Sébastien Matos 使用直观的视图来展示滚动条的演变，…标签： 进化，滚动条，塞巴斯蒂安·马托斯]]></description>
       <guid>https://flowingdata.com/2024/02/07/evolution-of-the-scrollbar/</guid>
       <pubDate>Wed, 07 Feb 2024 16:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员可能已经发现了阿米莉亚·埃尔哈特坠毁的飞机</title>
-      <link>https://flowingdata.com/2024/02/06/researchers-might-have-found-amelia-earharts-crashed-plane/</link>
-      <description><![CDATA[针对 NPR，Juliana Kim 报道：
-Deep Sea Vision，一家海洋勘探公司…标签： 飞机&lt; /a&gt;, 阿米莉亚·埃尔哈特, NPR，海洋]]></description>
-      <guid>https://flowingdata.com/2024/02/06/researchers-might-have-found-amelia-earharts-crashed-plane/</guid>
-      <pubDate>Tue, 06 Feb 2024 08:30:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
