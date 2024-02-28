@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 28 Feb 2024 09:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 12:32:20 GMT</lastBuildDate>
+    <item>
+      <title>麦当劳地点与高尔夫球场</title>
+      <link>https://flowingdata.com/2024/02/28/mcdonalds-locations-vs-golf-courses/</link>
+      <description><![CDATA[美国有数千家麦当劳分店，但高尔夫球场却更多。这似乎令人惊讶，但一些地图已经清楚地表明了这一点。标签： 高尔夫、麦当劳]]></description>
+      <guid>https://flowingdata.com/2024/02/28/mcdonalds-locations-vs-golf-courses/</guid>
+      <pubDate>Wed, 28 Feb 2024 10:26:20 GMT</pubDate>
+    </item>
     <item>
       <title>互动LED篮球场</title>
       <link>https://flowingdata.com/2024/02/27/interactive-led-basketball-court/</link>
@@ -68,14 +75,6 @@
       <description><![CDATA[人们喜欢通过指出所有错误的地方来判断图表，这在实践中是有限的。标签： 批评]]></description>
       <guid>https://flowingdata.com/2024/02/15/process-275-better-or-less-bad/</guid>
       <pubDate>Thu, 15 Feb 2024 19:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>BrailleR，一个用于改善盲人用户访问的 R 软件包</title>
-      <link>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</link>
-      <description><![CDATA[来自克兰：
-盲人用户无法访问标签的图形输出： 辅助功能、盲文、R]]></description>
-      <guid>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</guid>
-      <pubDate>Thu, 15 Feb 2024 08:48:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
