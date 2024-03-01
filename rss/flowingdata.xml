@@ -4,7 +4,15 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 01 Mar 2024 06:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 09:21:13 GMT</lastBuildDate>
+    <item>
+      <title>苏格兰岩石地图</title>
+      <link>https://flowingdata.com/2024/03/01/rock-map-of-scotland/</link>
+      <description><![CDATA[Harry Jefferies 分享了他祖父 30 年的项目：
+我85岁的爷爷开始学习…标签： 地质学 ，哈利·杨，物理，苏格兰]]></description>
+      <guid>https://flowingdata.com/2024/03/01/rock-map-of-scotland/</guid>
+      <pubDate>Fri, 01 Mar 2024 08:14:57 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 可视化工具和学习资源，2024 年 2 月综述</title>
       <link>https://flowingdata.com/2024/02/29/process-278-roundup/</link>
@@ -36,7 +44,7 @@
     <item>
       <title>最常见的家养动物地图</title>
       <link>https://flowingdata.com/2024/02/26/map-of-most-common-domesticated-animals/</link>
-      <description><![CDATA[此地图由 John… 绘制，基于美国农业部农业普查的数据标签：&lt; /strong&gt; 动物, 国内，约翰·约翰逊]]></description>
+      <description><![CDATA[此地图由 John… 绘制，基于美国农业部农业普查数据标签：&lt; /strong&gt; 动物, 国内，约翰·约翰逊]]></description>
       <guid>https://flowingdata.com/2024/02/26/map-of-most-common-domesticated-animals/</guid>
       <pubDate>Mon, 26 Feb 2024 08:35:56 GMT</pubDate>
     </item>
@@ -68,13 +76,6 @@
       <description><![CDATA[K.K.黎贝卡·赖 (Rebecca Lai) 参加了她的第一次马拉松比赛。她讲述了她的训练和…标签： K.K.黎贝卡·赖，马拉松]]></description>
       <guid>https://flowingdata.com/2024/02/21/data-driven-running-journal/</guid>
       <pubDate>Wed, 21 Feb 2024 08:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特琳·克拉克的崛起，得分机器</title>
-      <link>https://flowingdata.com/2024/02/20/rise-of-caitlin-clark-scoring-machine/</link>
-      <description><![CDATA[凯特琳·克拉克 (Caitlin Clark) 是爱荷华大学的一名篮球后卫，她的表现一直稳定…标签： 篮球，凯特琳·克拉克，华盛顿邮报]]></description>
-      <guid>https://flowingdata.com/2024/02/20/rise-of-caitlin-clark-scoring-machine/</guid>
-      <pubDate>Tue, 20 Feb 2024 17:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
