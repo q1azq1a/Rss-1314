@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 06 Mar 2024 15:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:23:18 GMT</lastBuildDate>
+    <item>
+      <title>为什么折线图基线可以从非零开始</title>
+      <link>https://flowingdata.com/2024/03/06/line-chart-baselines/</link>
+      <description><![CDATA[有一个反复出现的论点，即折线图基线必须从零开始，因为其他任何内容都会产生误导。这种批评是误导性的。标签： 基线、规则]]></description>
+      <guid>https://flowingdata.com/2024/03/06/line-chart-baselines/</guid>
+      <pubDate>Wed, 06 Mar 2024 15:40:38 GMT</pubDate>
+    </item>
     <item>
       <title>微型芯片制造，直观解释</title>
       <link>https://flowingdata.com/2024/03/05/tiny-chip-manufacturing-visually-explained/</link>
@@ -68,13 +75,6 @@
       <description><![CDATA[此地图由 John… 绘制，基于美国农业部农业普查的数据标签：&lt; /strong&gt; 动物, 国内，约翰·约翰逊]]></description>
       <guid>https://flowingdata.com/2024/02/26/map-of-most-common-domesticated-animals/</guid>
       <pubDate>Mon, 26 Feb 2024 08:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉随着年龄的增长而得到休息</title>
-      <link>https://flowingdata.com/2024/02/23/feeling-rested-with-age/</link>
-      <description><![CDATA[每晚的睡眠时间很重要，但更重要的是质量以及醒来时是否感到休息。标签： 年龄，休息，睡眠，幸福]]></description>
-      <guid>https://flowingdata.com/2024/02/23/feeling-rested-with-age/</guid>
-      <pubDate>Fri, 23 Feb 2024 08:30:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
