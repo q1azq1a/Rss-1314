@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 11 Mar 2024 09:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 12:33:56 GMT</lastBuildDate>
+    <item>
+      <title>定义有史以来最伟大的专辑</title>
+      <link>https://flowingdata.com/2024/03/11/defining-the-greatest-albums-of-all-time/</link>
+      <description><![CDATA[滚石乐队在 2003 年发布了一份列表，对 500 张最伟大的专辑进行了排名…标签： 克里斯·达拉·里瓦、马特·丹尼尔斯，音乐、轮询、布丁]]></description>
+      <guid>https://flowingdata.com/2024/03/11/defining-the-greatest-albums-of-all-time/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:45:26 GMT</pubDate>
+    </item>
     <item>
       <title>绘制在气候变化中最具潜力的作物图</title>
       <link>https://flowingdata.com/2024/03/08/mapping-the-crops-with-the-most-potential-in-a-changing-climate/</link>
@@ -68,13 +75,6 @@
       <description><![CDATA[每个月我都会收集一些工具和资源来帮助您制作更好的图表。这是二月份的好东西。标签： 综述]]></description>
       <guid>https://flowingdata.com/2024/02/29/process-278-roundup/</guid>
       <pubDate>Thu, 29 Feb 2024 19:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>算法公路旅行，参观以一年中的每一天命名的街道</title>
-      <link>https://flowingdata.com/2024/02/29/algorithmic-road-trip-to-visit-a-street-named-after-each-day-of-the-year/</link>
-      <description><![CDATA[本·阿什福斯 (Ben Ashforth) 出发前往参观一条以一天的命名的街道标签： 算法，Ben Ashforth，OpenStreetMap，公路旅行&lt; /a&gt;]]></description>
-      <guid>https://flowingdata.com/2024/02/29/algorithmic-road-trip-to-visit-a-street-named-after-each-day-of-the-year/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
