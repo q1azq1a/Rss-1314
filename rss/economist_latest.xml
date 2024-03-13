@@ -4,7 +4,30 @@
     <title>最新更新</title>
     <link>https://www.economist.com/latest/</link>
     <description>《经济学人》的最新博客和在线文章 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 13 Mar 2024 18:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 21:18:11 GMT</lastBuildDate>
+    <item>
+      <title>机器如何学习</title>
+      <link>https://www.economist.com/podcasts/2024/03/13/how-machines-learn</link>
+      <description><![CDATA[收听此播客 在  iOS 或 Android。您的浏览器不支持&lt;音频&gt;元素。如何机器如何学习？学习是人工智能的基础。这就是计算机识别语音或识别图像中的物体的方式。但是如何部署人工神经元网络来查找数据中的模式，以及使这一切成为可能的数学原理是什么？这是四集中的第二集关于现代生成AI演变的系列部分。是什么科学和技术发展导致了第一个笨重的人工神经元的诞生，并最终产生了极其强大的大型语言模型，为 ChatGPT?主持人：Alok Jha，《经济学人》科技编辑。贡献者：麻省理工学院的 Pulkit Agrawal 和 Gabe Margolis；丹尼尔·格拉泽 (Daniel Glaser)，伦敦哲学研究所的神经科学家；圣达菲研究所的梅兰妮·米切尔；阿尼尔·阿南萨斯瓦米（Anil Ananthaswamy），《机器为何学习》一书的作者。时长：42 分钟收听：苹果播客 | Spotify4 月 4 日星期四，我们将举办一场现场活动，在巴贝奇系列之后，我们将尽可能多地回答您有关 AI 的问题。如果您是订阅者，可以在 economist.com/aievent 提交您的问题并了解更多信息。&lt; /i&gt;播客成绩单可根据要求提供：[电子邮件受保护]。我们致力于进一步提高可访问性，并正在探索扩展我们的播客转录产品的新方法。]]></description>
+      <guid>https://www.economist.com/podcasts/2024/03/13/how-machines-learn</guid>
+      <pubDate>Wed, 13 Mar 2024 18:23:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国保守党如何变得与工会相似</title>
+      <link>https://www.economist.com/britain/2024/03/13/how-britains-tories-came-to-resemble-the-trade-unions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.economist.com/britain/2024/03/13/how-britains-tories-came-to-resemble-the-trade-unions</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>灵活的贴片可以帮助患有声音障碍的人说话</title>
+      <link>https://www.economist.com/science-and-technology/2024/03/13/a-flexible-patch-could-help-people-with-voice-disorders-talk</link>
+      <description><![CDATA[图片：科学图片库 人类的声音，以其所有的力量迷惑观众，吸引观众激怒亲人和邻居，是一件微妙的事情。当来自肺部的空气引起​​声带（喉部肌肉组织的褶皱）振动时，就会产生每个人独特的声音。这些声带很容易因压力、感染或过度使用而受损。不仅仅是过度热心的表演者面临声带紧张的风险，根据 2005 年的一项研究，30% 的人在一生中的某个阶段会经历嗓音障碍。在本周《自然通讯》杂志上发表的一项研究中，来自加州大学洛杉矶分校的一组生物工程研究人员提出了一个有吸引力的解决方案。他们设计并测试了一种软贴片，可以贴在人的脖子上，它会接收肌肉运动，并在处理信号的机器学习算法的帮助下，将它们转化为可听的语音。&lt; div class=&quot;adComponent_advert__V79Pp adComponent_incontent__Bxd2J adComponent_hidden_​​__o_ZB css-0 e1cbnkh80&quot;&gt;尽管该团队的设备是早期原型，但它有潜力对当前的替代品进行重大改进。当一个人今天失声时，最简单的解决方法是通过打字、发短信或写笔记来进行交流。该论文的主要作者陈军表示，打字可能很慢而且不方便，而且只有在良好的照明条件下才能写出清晰的笔记。更复杂的解决方案，例如电喉、抵住喉咙以产生言语所需振动的外部设备，可能需要特殊培训才能使用，而且外科手术通常具有侵入性，令人讨厌。理论上，一个补丁就能够清除所有这些障碍。
+陈博士的设备背后的机制是一种称为磁弹性效应的原理。当磁性纳米粒子嵌入到弹性或有机硅聚合物等软材料中时，它们的磁性会随着材料的拉伸而改变。这是因为每次变形都会导致粒子旋转或相对移动，从而改变材料的磁化强度。当嵌入带​​有产生背景磁场的铜线圈下摆的贴片时，可以准确地捕获粒子的运动作为该背景下的变化。当喉咙肌肉在硅胶贴片下移动，产生的磁场变化也可以转换成电信号。在一项有八名参与者参与的测试中，研究人员捕获了受试者说话和口型同步五个不同句子时产生的信号（包括：“希望你的实验进展顺利！”、“圣诞快乐！”和“我爱你！”） 。然后，他们训练了一个机器学习模型来识别与每个句子相关的电信号的不同形状。然后，该算法能够预测参与者说出的五个句子中的哪一个（无论是大声还是无声），准确率超过 90%。该补丁的设计带来了额外的好处。除了具有弹性外，该贴片在出汗的皮肤上仍保持粘性，并且可以连续使用 40 分钟而无需加热。
+还有很长的路要走。目前，该设备只能识别它所训练的五个短语。另外，声带的个体差异意味着算法必须针对每个用户进行个性化。为了使其大规模实用，研究人员需要收集更多数据。 ■]]></description>
+      <guid>https://www.economist.com/science-and-technology/2024/03/13/a-flexible-patch-could-help-people-with-voice-disorders-talk</guid>
+      <pubDate>Wed, 13 Mar 2024 17:25:28 GMT</pubDate>
+    </item>
     <item>
       <title>哪些国家的生活水平最好和最差？</title>
       <link>https://www.economist.com/graphic-detail/2024/03/13/which-countries-have-the-best-and-worst-living-standards</link>
@@ -13,16 +36,9 @@
       <pubDate>Wed, 13 Mar 2024 16:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>偶然</title>
-      <link>https://www.economist.com/britain/2024/03/13/haphazard</link>
-      <description><![CDATA[北爱尔兰新政府表现出团结&lt; p class=&quot;css-8ahpuw e7x1xmz0&quot;&gt;但几乎没有迹象表明它做出了艰难的决定null]]></description>
-      <guid>https://www.economist.com/britain/2024/03/13/haphazard</guid>
-      <pubDate>Wed, 13 Mar 2024 15:31:21 GMT</pubDate>
-    </item>
-    <item>
       <title>纽约市布满非法脚手架</title>
       <link>https://www.economist.com/science-and-technology/2024/03/13/new-york-city-is-covered-in-illegal-scaffolding</link>
-      <description><![CDATA[跳上地铁图像：马格南照片T这座不夜城似乎也无法拆除脚手架。纽约人已经厌倦了这些丑陋的建筑，以及为保护和转移行人而设置的地面笼子，以至于市长埃里克·亚当斯(Eric Adams)去年发起了一场运动，将它们从街道上清除。&lt; p class=&quot;css-1xm1z6f e1tt35bk0&quot;&gt;现在，该市的计算机科学家已经列出了可能的目标。研究人员使用AI筛选了数千小时的行车记录仪镜头，确定了所有五个行政区的约 5,000 个脚手架工地，其中 500 个被发现没有许可证。 “这座城市是最好的，但也是一场灾难，”参与该项目的曼哈顿康奈尔理工学院计算机科学家 Wendy Ju 说道。纽约在脚手架下的稳定淹没是这是善意的政策产生不良副作用的典型例子。 （或者在这种情况下，人行道效应。）官员们对砖石坠落造成的死亡感到震惊，于 1980 年开始每五年强制进行一次外墙检查。因此，城市记录显示目前有超过 8,000 个脚手架许可证，其中通常包括纽约人所说的“棚屋”——黑暗且幽闭的街道隧道。许多在许可证到期后仍保留在原地，因为业主发现在检查期间将脚手架留在原处更方便。作为持续的棚屋斗争的一部分，亚当斯先生庆祝了哈莱姆区街道上已有 21 年历史的脚手架的拆除，该街道本身已成为当地的地标。研究人员继续交叉引用由 AI 识别的脚手架小&gt;有批准项目的记录。发现的 500 个左右未经许可的棚屋并不一定违反规定，因为城市法规确实允许一些未经许可的棚屋（例如用于紧急工作）。但它们似乎是开始调查的好地方。科学家们正在等待结果被即将举行的会议接受，然后再与市政府官员分享。他们还希望将数据转换成交互式地图，向居民显示脚手架的位置，告诉他们脚手架在那里存在了多长时间，并显示它是否拥有许可证。很快，纽约人将能够再次安然入睡。]]></description>
+      <description><![CDATA[跳上地铁图像：马格南照片T这座不夜城似乎也无法拆除脚手架。纽约人已经厌倦了这些丑陋的建筑，以及为保护和转移行人而设置的地面笼子，以至于市长埃里克·亚当斯(Eric Adams)去年发起了一场运动，将它们从街道上清除。&lt; p class=&quot;css-1xm1z6f e1tt35bk0&quot;&gt;现在，该市的计算机科学家已经列出了可能的目标。研究人员使用AI筛选了数千小时的行车记录仪镜头，确定了所有五个行政区的约 5,000 个脚手架工地，其中 500 个被发现没有许可证。 “这座城市是最好的，但也是一场灾难，”参与该项目的曼哈顿康奈尔理工学院计算机科学家 Wendy Ju 说道。纽约在脚手架下的稳定淹没是这是善意的政策产生不良副作用的典型例子。 （或者在这种情况下，人行道效应。）官员们对砖石坠落造成的死亡感到震惊，于 1980 年开始每五年强制进行一次外墙检查。因此，城市记录显示目前有超过 8,000 个脚手架许可证，其中通常包括纽约人所说的“棚屋”——黑暗且幽闭的街道隧道。许多在许可证到期后仍保留在原地，因为业主发现在检查期间将脚手架留在原处更方便。作为持续的棚屋战争的一部分，亚当斯先生庆祝了哈莱姆区街道上已有 21 年历史的脚手架的拆除，该街道本身已成为当地的地标。研究人员继续交叉引用由 AI 识别的脚手架小&gt;有批准项目的记录。发现的 500 个左右未经许可的棚屋并不一定违反规定，因为城市法规确实允许一些未经许可的棚屋（例如用于紧急工作）。但它们似乎是开始调查的好地方。科学家们正在等待结果被即将举行的会议接受，然后再与市政府官员分享。他们还希望将数据转换成交互式地图，向居民显示脚手架的位置，告诉他们脚手架在那里存在了多长时间，并显示它是否拥有许可证。很快，纽约人将能够再次安然入睡。]]></description>
       <guid>https://www.economist.com/science-and-technology/2024/03/13/new-york-city-is-covered-in-illegal-scaffolding</guid>
       <pubDate>Wed, 13 Mar 2024 15:12:47 GMT</pubDate>
     </item>
@@ -48,7 +64,7 @@
       <pubDate>Wed, 13 Mar 2024 13:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>符拉迪沃斯托克是了解战时俄罗斯的窗口</title>
+      <title>战时俄罗斯的生活是什么样的</title>
       <link>https://www.economist.com/interactive/europe/2024/03/13/vladivostok-is-a-window-into-wartime-russia</link>
       <description><![CDATA[无效的]]></description>
       <guid>https://www.economist.com/interactive/europe/2024/03/13/vladivostok-is-a-window-into-wartime-russia</guid>
@@ -153,7 +169,7 @@
       <pubDate>Tue, 12 Mar 2024 12:00:52 GMT</pubDate>
     </item>
     <item>
-      <title>为什么欧洲的绿党还没有到来</title>
+      <title>为什么欧洲绿党还没有崛起</title>
       <link>https://www.economist.com/podcasts/2024/03/12/why-europes-green-parties-are-still-not-in-season</link>
       <description><![CDATA[收听此播客 在  iOS 或 Android。您的浏览器不支持&lt;音频&gt;元素。融化融化的滑雪场、洪水和干旱正在激怒非洲大陆的公民，但还不足以让他们考虑投票不同。我们的记者解释了选民正在权衡的是什么。世界最大的眼镜制造商是涉足科技领域 (10:41)。并且加布里埃尔·加西亚·马尔克斯的他不想出版的新中篇小说（ 16:32）。时长：24 分钟收听：Apple 播客 | Spotify获取50% 折扣 — 订阅《经济学人播客+》&lt; p class=&quot;css-1xm1z6f e1tt35bk0&quot;&gt;注册《经济学人》免费试用播客+。如果您已经是《经济学人》的订阅者，作为订阅的一部分，您将可以完全访问我们所有的节目。有关如何访问《经济学人播客+》的更多信息，请访问我们的常见问题解答页面 或观看我们的视频，介绍如何关联您的帐户。 播客成绩单可根据要求在 [电子邮件受保护]。我们致力于进一步提高可访问性，并正在探索扩展我们的播客转录产品的新方法。]]></description>
       <guid>https://www.economist.com/podcasts/2024/03/12/why-europes-green-parties-are-still-not-in-season</guid>
@@ -200,20 +216,6 @@
       <description><![CDATA[收听此播客 在  iOS 或 Android。您的浏览器不支持 &lt; ;音频&gt;元素。精选最新一期《经济学人》中的三篇重要文章。本周，虽然 2024 年美国总统大选显然将是一场重赛，但我们仍将研究三大不确定性领域可能会影响结果。接下来，虽然风险是投资所固有的，但我们揭示原因越大并不总是越好。最后，“聪明药物”有多聪明？ 运行时间：18 分钟播客成绩单可根据要求在 [电子邮件受保护]。我们致力于进一步提高可访问性，并正在探索扩展我们的播客转录产品的新方法。]]></description>
       <guid>https://www.economist.com/podcasts/2024/03/11/three-big-areas-of-uncertainty-in-americas-presidential-election-what-investors-get-wrong-about-risk-and-the-utility-of-smart-drugs</guid>
       <pubDate>Mon, 11 Mar 2024 16:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰的历史建筑令人头疼</title>
-      <link>https://www.economist.com/britain/2024/03/11/englands-historic-buildings-are-causing-headaches</link>
-      <description><![CDATA[图片：AlamyTHE GLASS 牛津大学自然历史博物馆的屋顶长期以来被证明很麻烦。在其 160 年的历史中，它曾经倒塌过一次，两次部分被吹掉，并且不断泄漏。一直以来，它都将阳光倾注在内部的自然奇观上。红色的蝴蝶被漂白成白色；毛绒动物的皮肤破裂了。博物馆是许多英格兰历史建筑面临的问题的一个例子。它的屋顶是一个引人注目的时代特征，受到法律的正确保护。实际上，它也是一个温室。随着建筑物变得越来越旧，外面的世界也越来越温暖，建筑物的保护与内部藏品的保护将变得更加难以协调。英格兰最珍贵的建筑被“列为”特殊的建筑或历史兴趣；这使得未经许可改变它们属于刑事犯罪。该名单由政府遗产监管机构“历史英格兰”管理，约有 500,000 座建筑。对于许多人来说，这是一件麻烦事。在诺福克，移动电话信号经常不稳定，因为桅杆不能建在受保护的建筑物附近。在德文郡的海滨村庄斯塔克罗斯，一家列入名单的酒吧的柱子堵塞了道路，导致每天多次交通堵塞。但该名单也确实保护了遗产。最严格的列表类别是博物馆所属的 I 级和 II 级*；牛津此类列表占总数的比例是全国平均水平的两倍多。对 I 级和 II* 级建筑进行更改需要咨询历史英格兰。这保护了这座城市的建筑，其中一些建筑的历史可以追溯到 11 世纪。博物馆必须申请在屋顶添加紫外线阻挡膜，这似乎是明智之举，就像 2016 年成功的那样。但是列表通常包括建筑物中不耐用的部分，例如架子或空调装置。博物馆发现自己正在请求许可粉刷储藏室的墙壁或更换前草坪上的栅栏。例行修复的时间可能会延长。博物馆运营主管劳拉·阿什比 (Laura Ashby) 估计，更换博物馆楼梯上的危险扶手可能需要一年半的时间。更大的变化意味着更多的官僚主义。从名单中删除特定房间或从名单中添加或删除整个建筑物的申请必须得到文化、媒体和体育大臣的亲自批准。 “历史英格兰”的上市负责人保罗·杰弗里 (Paul Jeffery) 表示，在超过 99% 的情况下，他们只是遵循“历史英格兰”提供的建议。但情况并非总是如此：2022 年，时任文化大臣纳丁·多里斯 (Nadine Dorries) 不顾历史英格兰的建议，在同样位于牛津的奥里尔学院 (Oriel College) 的塞西尔·罗兹 (Cecil Rhodes) 雕像附近添加了一块有争议的牌匾。 再次取下牙菌斑会很困难。只有当物品被损坏或改变得面目全非时才会被移除。牛津的三栋建筑去年被除名：一栋是因为火灾，两栋是因为它们已不复存在。这种情况出人意料地普遍：去年被除名的建筑中约有三分之一是已经不复存在的建筑。博物馆自己的清单条目与 1954 年制定时的内容大致相同，尽管自那时以来发生了很大变化。传统与现代之间的权衡是真实的。阿什比女士说，为了保护博物馆内的恐龙，最好“将屋顶漆成黑色或其他东西”。 （目前，一些标本正在被转移到没有窗户和温控房间的专用设施中。）如果清单不那么官僚主义并且更加最新，那么这些权衡将更容易管理。 ■]]></description>
-      <guid>https://www.economist.com/britain/2024/03/11/englands-historic-buildings-are-causing-headaches</guid>
-      <pubDate>Mon, 11 Mar 2024 16:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>葡萄牙的极右翼在选举中获得巨大推动</title>
-      <link>https://www.economist.com/europe/2024/03/11/portugals-hard-right-gets-a-big-election-boost</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.economist.com/europe/2024/03/11/portugals-hard-right-gets-a-big-election-boost</guid>
-      <pubDate>Mon, 11 Mar 2024 14:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
