@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 14 Mar 2024 18:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 21:16:46 GMT</lastBuildDate>
+    <item>
+      <title>✚ 一张图表到多张图表</title>
+      <link>https://flowingdata.com/2024/03/14/process-280-multiple-charts/</link>
+      <description><![CDATA[每种图表类型都有其权衡。因此，不要尝试一次显示所有内容，而是使用多个视图单独显示内容。标签： 倍数，简单性]]></description>
+      <guid>https://flowingdata.com/2024/03/14/process-280-multiple-charts/</guid>
+      <pubDate>Thu, 14 Mar 2024 18:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>野外地图</title>
       <link>https://flowingdata.com/2024/03/14/maps-in-the-wild/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[有一个反复出现的论点，即折线图基线必须从零开始，因为其他任何内容都会产生误导。这种批评是误导性的。标签： 基线、规则]]></description>
       <guid>https://flowingdata.com/2024/03/06/line-chart-baselines/</guid>
       <pubDate>Wed, 06 Mar 2024 15:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型芯片制造，直观解释</title>
-      <link>https://flowingdata.com/2024/03/05/tiny-chip-manufacturing-visually-explained/</link>
-      <description><![CDATA[微芯片变得很小。就像比红细胞还小的一样。金融…标签： 芯片，《金融时报》、制造，规模]]></description>
-      <guid>https://flowingdata.com/2024/03/05/tiny-chip-manufacturing-visually-explained/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
