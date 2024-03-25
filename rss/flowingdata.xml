@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 25 Mar 2024 06:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 09:18:44 GMT</lastBuildDate>
+    <item>
+      <title>康威的三维生命游戏</title>
+      <link>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</link>
+      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 ，生命游戏]]></description>
+      <guid>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</guid>
+      <pubDate>Mon, 25 Mar 2024 08:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>当您的视力和听力随着年龄的增长而下降时</title>
       <link>https://flowingdata.com/2024/03/21/when-your-vision-and-hearing-head-downhill-with-age/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>沿着全食路径的一英里地图</title>
       <link>https://flowingdata.com/2024/03/15/mile-by-mile-map-along-the-path-of-totality/</link>
-      <description><![CDATA[2024年4月8日，月亮将完全遮挡太阳…… 标签： eclipse、卫星图像，华盛顿邮报]]></description>
+      <description><![CDATA[2024年4月8日，月亮将完全遮挡太阳…… 标签： eclipse，卫星图像，华盛顿邮报]]></description>
       <guid>https://flowingdata.com/2024/03/15/mile-by-mile-map-along-the-path-of-totality/</guid>
       <pubDate>Fri, 15 Mar 2024 11:50:26 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在过去的几年里，Laurie Anderson 一直在使用人工智能聊天机器人…标签： AI、聊天机器人、AI、聊天机器人 com/tag/guardian/&quot; rel=&quot;tag&quot;&gt;Guardian, 大语言模型]]></description>
       <guid>https://flowingdata.com/2024/03/15/language-based-ai-to-chat-with-her-dead-husband/</guid>
       <pubDate>Fri, 15 Mar 2024 07:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 一张图表到多张图表</title>
-      <link>https://flowingdata.com/2024/03/14/process-280-multiple-charts/</link>
-      <description><![CDATA[每种图表类型都有其权衡。因此，不要尝试一次显示所有内容，而是使用多个视图单独显示内容。标签： 倍数，简单性]]></description>
-      <guid>https://flowingdata.com/2024/03/14/process-280-multiple-charts/</guid>
-      <pubDate>Thu, 14 Mar 2024 18:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
