@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 29 Mar 2024 06:23:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 09:17:44 GMT</lastBuildDate>
+    <item>
+      <title>绘制 NBA 篮球投篮图</title>
+      <link>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</link>
+      <description><![CDATA[Alasdair Rae 概述了使用 QGIS 可视化篮球投篮数据的基础知识，以及标签： 阿拉斯代尔·雷，篮球、QGIS]]></description>
+      <guid>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</guid>
+      <pubDate>Fri, 29 Mar 2024 07:16:26 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 可视化工具和学习资源，2024 年 3 月综述</title>
       <link>https://flowingdata.com/2024/03/28/process-282-roundup/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>康威的三维生命游戏</title>
       <link>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</link>
-      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 , 生命游戏]]></description>
+      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 ，生命游戏]]></description>
       <guid>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</guid>
       <pubDate>Mon, 25 Mar 2024 08:00:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Jer Thorp 将观鸟和数据可视化结合到了一门独特的课程中，名为标签： 鸟，杰尔索普，学习]]></description>
       <guid>https://flowingdata.com/2024/03/21/birding-and-data-visualization/</guid>
       <pubDate>Thu, 21 Mar 2024 15:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过生成人工智能形成国家身份刻板印象</title>
-      <link>https://flowingdata.com/2024/03/20/national-identity-stereotypes-through-generative-ai/</link>
-      <description><![CDATA[对于世界其他地区，Victoria Turk 在标签中打破了生成式 AI 的偏见： /strong&gt; 人工智能, 偏差、中期、世界其他地区]]></description>
-      <guid>https://flowingdata.com/2024/03/20/national-identity-stereotypes-through-generative-ai/</guid>
-      <pubDate>Wed, 20 Mar 2024 07:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
