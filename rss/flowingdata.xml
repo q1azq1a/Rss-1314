@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 01 Apr 2024 06:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:20:33 GMT</lastBuildDate>
+    <item>
+      <title>检查驱动机器学习系统的数据集</title>
+      <link>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</link>
+      <description><![CDATA[用于 Knowing Machines，这是一个正在进行的研究项目，旨在检查机器的内部结构…标签： 偏差，认识机器，LAION-5B, 机器学习]]></description>
+      <guid>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</guid>
+      <pubDate>Mon, 01 Apr 2024 08:12:36 GMT</pubDate>
+    </item>
     <item>
       <title>绘制 NBA 篮球投篮图</title>
       <link>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>康威的三维生命游戏</title>
       <link>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</link>
-      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 , 生命游戏]]></description>
+      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 ，生命游戏]]></description>
       <guid>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</guid>
       <pubDate>Mon, 25 Mar 2024 08:00:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[自 2012 年以来每年发布的《世界幸福报告》在 2024 年有所下降。…；标签：  幸福，排名]]></description>
       <guid>https://flowingdata.com/2024/03/21/happiness-ratings-by-country-and-age/</guid>
       <pubDate>Thu, 21 Mar 2024 16:43:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>观鸟和数据可视化</title>
-      <link>https://flowingdata.com/2024/03/21/birding-and-data-visualization/</link>
-      <description><![CDATA[Jer Thorp 将观鸟和数据可视化结合到了一门独特的课程中，名为标签： 鸟，杰尔索普，学习]]></description>
-      <guid>https://flowingdata.com/2024/03/21/birding-and-data-visualization/</guid>
-      <pubDate>Thu, 21 Mar 2024 15:46:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
