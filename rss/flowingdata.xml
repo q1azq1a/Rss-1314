@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 02 Apr 2024 06:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:19:02 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 预览语音合成</title>
+      <link>https://flowingdata.com/2024/04/02/openai-previews-voice-synthesis/</link>
+      <description><![CDATA[OpenAI 预览了语音引擎，这是一种仅使用标签即可生成模仿声音的模型：道德、生成、OpenAI，语音&lt; /p&gt;]]></description>
+      <guid>https://flowingdata.com/2024/04/02/openai-previews-voice-synthesis/</guid>
+      <pubDate>Tue, 02 Apr 2024 08:20:25 GMT</pubDate>
+    </item>
     <item>
       <title>检查驱动机器学习系统的数据集</title>
       <link>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果图表被足够多的人看到，就会有人认为它具有误导性。没有例外。标签： 误导]]></description>
       <guid>https://flowingdata.com/2024/03/21/process-281-misleading/</guid>
       <pubDate>Thu, 21 Mar 2024 18:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>按国家和年龄划分的幸福感评分</title>
-      <link>https://flowingdata.com/2024/03/21/happiness-ratings-by-country-and-age/</link>
-      <description><![CDATA[自 2012 年以来每年发布的《世界幸福报告》在 2024 年有所下降。…；标签：  幸福，排名]]></description>
-      <guid>https://flowingdata.com/2024/03/21/happiness-ratings-by-country-and-age/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:43:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
