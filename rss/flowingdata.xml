@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 04 Apr 2024 06:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 09:18:50 GMT</lastBuildDate>
+    <item>
+      <title>通过旋转桨显示风流</title>
+      <link>https://flowingdata.com/2024/04/04/wind-flows-displayed-with-spinning-paddles/</link>
+      <description><![CDATA[Joanie Lemercier 使用了随风转动的旋转桨网格。…标签：  乔安妮·勒梅尔西尔，物理，风]]></description>
+      <guid>https://flowingdata.com/2024/04/04/wind-flows-displayed-with-spinning-paddles/</guid>
+      <pubDate>Thu, 04 Apr 2024 08:11:26 GMT</pubDate>
+    </item>
     <item>
       <title>康威的希望游戏</title>
       <link>https://flowingdata.com/2024/04/03/conways-game-of-hope/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>利用卫星图像讲故事</title>
       <link>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</link>
-      <description><![CDATA[卫星图像本身的表达内容可能受到限制…标签： 南丁格尔，罗伯特·西蒙，卫星图像，讲故事]]></description>
+      <description><![CDATA[卫星图像本身的表达能力有限…标签： 南丁格尔，罗伯特·西蒙，卫星图像，讲故事]]></description>
       <guid>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</guid>
       <pubDate>Thu, 28 Mar 2024 08:59:10 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[为了更好地了解 ChatGPT 在幕后的工作原理，Santiago…标签： &lt; a href=&quot;https://flowingdata.com/tag/ai/&quot; rel=&quot;tag&quot;&gt;AI, ChatGPT，圣地亚哥奥尔蒂斯]]></description>
       <guid>https://flowingdata.com/2024/03/26/visualizing-the-statistical-connections-behind-chatgpt/</guid>
       <pubDate>Tue, 26 Mar 2024 07:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>康威的三维生命游戏</title>
-      <link>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</link>
-      <description><![CDATA[Alec Singh 为康威的生命游戏添加了另一个维度漂亮，…标签： 亚历克·辛格 , 生命游戏]]></description>
-      <guid>https://flowingdata.com/2024/03/25/conways-game-of-life-with-a-third-dimension/</guid>
-      <pubDate>Mon, 25 Mar 2024 08:00:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
