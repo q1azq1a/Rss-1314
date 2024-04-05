@@ -4,7 +4,15 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 05 Apr 2024 06:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 09:18:00 GMT</lastBuildDate>
+    <item>
+      <title>easystats，一个 R 包</title>
+      <link>https://flowingdata.com/2024/04/05/easystats-an-r-package/</link>
+      <description><![CDATA[easystats R 包在我的尝试列表中。
+easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata.com/tag/r/&quot; rel=&quot;tag&quot;&gt;R]]></description>
+      <guid>https://flowingdata.com/2024/04/05/easystats-an-r-package/</guid>
+      <pubDate>Fri, 05 Apr 2024 07:27:52 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 让数据发挥作用</title>
       <link>https://flowingdata.com/2024/04/04/process-283-play/</link>
@@ -64,16 +72,9 @@
     <item>
       <title>利用卫星图像讲故事</title>
       <link>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</link>
-      <description><![CDATA[卫星图像本身的表达内容可能受到限制…标签： 南丁格尔，罗伯特·西蒙，卫星图像，讲故事]]></description>
+      <description><![CDATA[卫星图像本身的表达能力有限…标签： 南丁格尔，罗伯特·西蒙，卫星图像，讲故事]]></description>
       <guid>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</guid>
       <pubDate>Thu, 28 Mar 2024 08:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>历史上著名人物的互动时间表</title>
-      <link>https://flowingdata.com/2024/03/27/interactive-timeline-of-notable-people-throughout-history/</link>
-      <description><![CDATA[这是 Jan Willem Tulp 的一个有趣的项目。基于标签的数据：历史记录，&lt; a href=&quot;https://flowingdata.com/tag/jan-willem-tulp/&quot; rel=&quot;tag&quot;&gt;扬·威廉·图尔普，时间线]]></description>
-      <guid>https://flowingdata.com/2024/03/27/interactive-timeline-of-notable-people-throughout-history/</guid>
-      <pubDate>Wed, 27 Mar 2024 07:30:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
