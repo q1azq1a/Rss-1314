@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:20:01 GMT</lastBuildDate>
+    <item>
+      <title>日食路径上的 Airbnb 入住率</title>
+      <link>https://flowingdata.com/2024/04/08/airbnb-occupancy-along-the-eclipse-path/</link>
+      <description><![CDATA[也许您听说今天发生了日全食。 AirDNA 映射 Airbnb 入住率…标签： Airbnb, &lt; a href=&quot;https://flowingdata.com/tag/airdna/&quot; rel=&quot;tag&quot;&gt;AirDNA, 日食]]></description>
+      <guid>https://flowingdata.com/2024/04/08/airbnb-occupancy-along-the-eclipse-path/</guid>
+      <pubDate>Mon, 08 Apr 2024 07:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>easystats，一个 R 包</title>
       <link>https://flowingdata.com/2024/04/05/easystats-an-r-package/</link>
@@ -68,13 +75,6 @@ easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata
       <description><![CDATA[我收集可视化工具和学习资源，然后将它们汇总 每个月月底。这是 3 月份的好东西。标签： 综述]]></description>
       <guid>https://flowingdata.com/2024/03/28/process-282-roundup/</guid>
       <pubDate>Thu, 28 Mar 2024 18:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用卫星图像讲故事</title>
-      <link>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</link>
-      <description><![CDATA[卫星图像本身的表达能力有限…标签： 南丁格尔，罗伯特·西蒙，卫星图像，讲故事]]></description>
-      <guid>https://flowingdata.com/2024/03/28/using-satellite-imagery-to-tell-stories/</guid>
-      <pubDate>Thu, 28 Mar 2024 08:59:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
