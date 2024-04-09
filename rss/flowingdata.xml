@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 09 Apr 2024 09:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 12:34:34 GMT</lastBuildDate>
+    <item>
+      <title>您可以编辑的扩展 Rube Goldberg 机器</title>
+      <link>https://flowingdata.com/2024/04/09/expanding-rube-goldberg-machine-that-you-can-edit/</link>
+      <description><![CDATA[来自 xkcd，一台持续运转的 Rube Goldberg 机器。编辑单元格…标签： Rube Goldberg machine&lt; /a&gt;, xkcd]]></description>
+      <guid>https://flowingdata.com/2024/04/09/expanding-rube-goldberg-machine-that-you-can-edit/</guid>
+      <pubDate>Tue, 09 Apr 2024 09:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>日食路径上的 Airbnb 入住率</title>
       <link>https://flowingdata.com/2024/04/08/airbnb-occupancy-along-the-eclipse-path/</link>
@@ -68,13 +75,6 @@ easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata
       <description><![CDATA[Alasdair Rae 概述了使用 QGIS 可视化篮球投篮数据的基础知识，以及标签： 阿拉斯代尔·雷，篮球、QGIS]]></description>
       <guid>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</guid>
       <pubDate>Fri, 29 Mar 2024 07:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 可视化工具和学习资源，2024 年 3 月综述</title>
-      <link>https://flowingdata.com/2024/03/28/process-282-roundup/</link>
-      <description><![CDATA[我收集可视化工具和学习资源，然后将它们汇总 每个月月底。这是 3 月份的好东西。标签： 综述]]></description>
-      <guid>https://flowingdata.com/2024/03/28/process-282-roundup/</guid>
-      <pubDate>Thu, 28 Mar 2024 18:30:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
