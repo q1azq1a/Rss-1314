@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 10 Apr 2024 06:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 09:20:48 GMT</lastBuildDate>
+    <item>
+      <title>我们选择与之同居和结婚的人的年龄</title>
+      <link>https://flowingdata.com/2024/04/09/ages-of-the-people-we-choose-to-live-with-and-marry/</link>
+      <description><![CDATA[当你回顾晚年，考虑多次婚姻、离婚、分居以及异性与同性关系时，变化就会开始出现。这张图表将其全部分解。]]></description>
+      <guid>https://flowingdata.com/2024/04/09/ages-of-the-people-we-choose-to-live-with-and-marry/</guid>
+      <pubDate>Wed, 10 Apr 2024 06:37:30 GMT</pubDate>
+    </item>
     <item>
       <title>您可以编辑的扩展 Rube Goldberg 机器</title>
       <link>https://flowingdata.com/2024/04/09/expanding-rube-goldberg-machine-that-you-can-edit/</link>
@@ -68,13 +75,6 @@ easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata
       <description><![CDATA[用于 Knowing Machines，这是一个正在进行的研究项目，旨在检查机器的内部结构…标签： 偏差，认识机器，LAION-5B, 机器学习]]></description>
       <guid>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</guid>
       <pubDate>Mon, 01 Apr 2024 08:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>绘制 NBA 篮球投篮图</title>
-      <link>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</link>
-      <description><![CDATA[Alasdair Rae 概述了使用 QGIS 可视化篮球投篮数据的基础知识，以及标签： 阿拉斯代尔·雷，篮球、QGIS]]></description>
-      <guid>https://flowingdata.com/2024/03/29/mapping-nba-basketball-shots/</guid>
-      <pubDate>Fri, 29 Mar 2024 07:16:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
