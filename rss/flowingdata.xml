@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 18:22:53 GMT</lastBuildDate>
+    <item>
+      <title>日食期间的人员活动</title>
+      <link>https://flowingdata.com/2024/04/11/people-movements-during-the-eclipse/</link>
+      <description><![CDATA[正如您所料，整体路径带来了人类活动的增加…标签： eclipse, 纽约时报，人]]></description>
+      <guid>https://flowingdata.com/2024/04/11/people-movements-during-the-eclipse/</guid>
+      <pubDate>Thu, 11 Apr 2024 18:12:23 GMT</pubDate>
+    </item>
     <item>
       <title>我们结婚的人的年龄</title>
       <link>https://flowingdata.com/2024/04/09/ages-of-the-people-we-choose-to-live-with-and-marry/</link>
@@ -68,13 +75,6 @@ easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata
       <description><![CDATA[OpenAI 预览了语音引擎，这是一种仅使用标签即可生成模仿声音的模型：道德、生成、OpenAI，语音&lt; /p&gt;]]></description>
       <guid>https://flowingdata.com/2024/04/02/openai-previews-voice-synthesis/</guid>
       <pubDate>Tue, 02 Apr 2024 08:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查驱动机器学习系统的数据集</title>
-      <link>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</link>
-      <description><![CDATA[用于 Knowing Machines，这是一个正在进行的研究项目，旨在检查机器的内部结构…标签： 偏差，认识机器，LAION-5B, 机器学习]]></description>
-      <guid>https://flowingdata.com/2024/04/01/examining-the-dataset-driving-machine-learning-systems/</guid>
-      <pubDate>Mon, 01 Apr 2024 08:12:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
