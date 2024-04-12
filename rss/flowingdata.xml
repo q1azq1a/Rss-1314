@@ -4,7 +4,21 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 12 Apr 2024 06:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 09:20:10 GMT</lastBuildDate>
+    <item>
+      <title>可视化这一点，第二版：更新我过去的自我可视化指南</title>
+      <link>https://flowingdata.com/2024/04/12/visualize-this-second-edition-updating-a-visualization-guide-for-my-past-self/</link>
+      <description><![CDATA[十五年前，我编写了 Visualize 第一版…标签： 写作]]></description>
+      <guid>https://flowingdata.com/2024/04/12/visualize-this-second-edition-updating-a-visualization-guide-for-my-past-self/</guid>
+      <pubDate>Fri, 12 Apr 2024 08:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>接触您所居住的自然环境</title>
+      <link>https://flowingdata.com/2024/04/12/access-to-nature-where-you-live/</link>
+      <description><![CDATA[NatureQuant 处理和分析卫星图像以量化人们对自然的接触。他们标签：城市、自然， NatureQuant、卫星图像、《华盛顿邮报》]]></description>
+      <guid>https://flowingdata.com/2024/04/12/access-to-nature-where-you-live/</guid>
+      <pubDate>Fri, 12 Apr 2024 07:45:27 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 普通人的直方图</title>
       <link>https://flowingdata.com/2024/04/11/process-284-histograms/</link>
@@ -61,20 +75,6 @@ easystats 是一个集合…标签： 包, &lt; a href=&quot;https://flowingdata
       <description><![CDATA[Joanie Lemercier 使用了随风转动的旋转桨网格。…标签：  乔安妮·勒梅尔西尔，物理，风]]></description>
       <guid>https://flowingdata.com/2024/04/04/wind-flows-displayed-with-spinning-paddles/</guid>
       <pubDate>Thu, 04 Apr 2024 08:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>康威的希望游戏</title>
-      <link>https://flowingdata.com/2024/04/03/conways-game-of-hope/</link>
-      <description><![CDATA[亚历山大·米勒写了一个“涌现寓言”；结合了康威的《生命游戏》标签： 亚历山大·米勒，寓言，生命游戏]]></description>
-      <guid>https://flowingdata.com/2024/04/03/conways-game-of-hope/</guid>
-      <pubDate>Wed, 03 Apr 2024 07:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>监管深度造假</title>
-      <link>https://flowingdata.com/2024/04/02/regulating-deepfakes/</link>
-      <description><![CDATA[获取某人的脸部并放置该人变得越来越容易标签： 人工智能、道德、色情，标记]]></description>
-      <guid>https://flowingdata.com/2024/04/02/regulating-deepfakes/</guid>
-      <pubDate>Tue, 02 Apr 2024 10:03:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
