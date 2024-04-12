@@ -4,7 +4,14 @@
     <title>赛斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:20:28 GMT</lastBuildDate>
+    <item>
+      <title>非营利组织筹款的挑战</title>
+      <link>https://seths.blog/2024/04/the-challenge-of-fundraising/</link>
+      <description><![CDATA[当有人创业时，他们会花大量时间制定商业计划，努力筹集资金并使其启动。不过，在那之后，企业的目的就与不耗尽资金的理念完全一致了。我们经营企业是为了赚钱，而不是为了花钱[…]]]></description>
+      <guid>https://seths.blog/2024/04/the-challenge-of-fundraising/</guid>
+      <pubDate>Fri, 12 Apr 2024 15:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>更新我们卡住的互动</title>
       <link>https://seths.blog/2024/04/updating-our-stuck-interactions/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>分析最后一步</title>
       <link>https://seths.blog/2024/04/analyzing-the-last-move/</link>
-      <description><![CDATA[当交易破裂，或者团队输掉比赛，或者合作伙伴关系触礁时，我们很容易将精力集中在刚刚发生的事情上。 “如果他们叫了不同的剧本怎么办？”这忽略了真正的问题。是第一步或第五步导致了这个问题，而不是发生了什么[…]]]></description>
+      <description><![CDATA[当交易破裂，或者团队输掉比赛，或者合作关系触礁时，我们很容易将精力集中在刚刚发生的事情上。 “如果他们叫了不同的剧本怎么办？”这忽略了真正的问题。是第一步或第五步导致了这个问题，而不是发生了什么[…]]]></description>
       <guid>https://seths.blog/2024/04/analyzing-the-last-move/</guid>
       <pubDate>Sun, 07 Apr 2024 08:59:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[当一种资源可以被更有效地使用时，我们最终会使用更多，而不是更少。因此，当汽车的油耗提高时，人们会开车更多，消费实际上也会增加。当人工智能学会编写计算机代码时，对程序员的需求就会上升，因为更高效的代码更有吸引力，并且[…]]]></description>
       <guid>https://seths.blog/2024/04/jevons-paradox-is-not-surprising/</guid>
       <pubDate>Sat, 06 Apr 2024 08:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>非致命错误</title>
-      <link>https://seths.blog/2024/04/non-fatal-errors/</link>
-      <description><![CDATA[我们的大多数错误都属于这一类。昨天，《纽约时报》向大约一百万人发送了这份时事通讯：我确信对于那些搞砸的人来说，这不是一天（或一周）中最好的部分，但我也知道对重要的事情几乎没有影响。小心就是[…]]]></description>
-      <guid>https://seths.blog/2024/04/non-fatal-errors/</guid>
-      <pubDate>Fri, 05 Apr 2024 08:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
