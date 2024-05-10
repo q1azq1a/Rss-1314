@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>塞斯的博客</title>
+    <title>赛斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Fri, 10 May 2024 03:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:20:19 GMT</lastBuildDate>
+    <item>
+      <title>成功不是一种选择</title>
+      <link>https://seths.blog/2024/05/success-is-not-an-option/</link>
+      <description><![CDATA[在任何创造性的努力中，成功都可以定义为巨大的胜利，即你的梦想与现实相符的时刻。成功是冒名顶替综合症的结束、稳定并最终到达彼岸。根据这个定义，很明显成功不会发生。这与你这样做的原因不相容[…]]]></description>
+      <guid>https://seths.blog/2024/05/success-is-not-an-option/</guid>
+      <pubDate>Fri, 10 May 2024 08:56:00 GMT</pubDate>
+    </item>
     <item>
       <title>猫和狗</title>
       <link>https://seths.blog/2024/05/cats-and-dogs/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>TL;DR 的防守傲慢</title>
       <link>https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/</link>
-      <description><![CDATA[自从有了高中，人们就有了阅读 Cliffs Notes 的本能。互联网采用了这个想法，添加了一个多余的分号，完善了“太长；没读”。这是错误而自豪的断言，我们太忙，太重要，没法读完整本书，我们只是浏览了一下 […]]]></description>
+      <description><![CDATA[自从上了高中，就有了阅读《悬崖笔记》的本能。互联网采纳了这个想法，添加了无端的分号并完善了“太长”；没读过。这是一种错误的骄傲断言，即我们太忙、太重要，无法阅读整篇文章，我们浏览了 […]]]></description>
       <guid>https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/</guid>
       <pubDate>Wed, 08 May 2024 08:55:00 GMT</pubDate>
     </item>
     <item>
       <title>魔法的半衰期</title>
       <link>https://seths.blog/2024/05/the-half-life-of-magic/</link>
-      <description><![CDATA[“任何足够先进的技术都与魔法无异。”阿瑟·克拉克 试想一下，二十年前的你，手里拿着一台 Rabbit R1，或者使用一部手机，或者每月只需花几美元就能收听所有录制的歌曲。我们不会将这些曾经神奇的物品当作[…]]]></description>
+      <description><![CDATA[“任何足够先进的技术都与魔法没有什么区别。”亚瑟·C·克拉克 (Arthur C. Clarke) 试着想象一下二十年前的你，拿着 Rabbit R1，或者使用手机，或者每月只需花几美元就能听所有录制的歌曲。我们不只是把这些曾经神奇的物品当作[…]]]></description>
       <guid>https://seths.blog/2024/05/the-half-life-of-magic/</guid>
       <pubDate>Tue, 07 May 2024 08:22:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[不是当我们在场时我们看到什么，而是当我们想象我们在场时我们看到什么？在摄影的早期，世界是黑白的，有点平坦。值得注意的是，看到这些照片的人没有人抱怨它们与现实世界不完全相符[…]]]></description>
       <guid>https://seths.blog/2024/05/what-does-reality-look-like/</guid>
       <pubDate>Wed, 01 May 2024 08:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>反转烦恼</title>
-      <link>https://seths.blog/2024/04/inverting-the-vex/</link>
-      <description><![CDATA[生活可能会令人恼火。有时，我们可以做出选择。让你烦恼的事情是：这是一种情况还是一个问题？有问题就有解决办法。如果我们足够关心，我们可以找到解决问题的方法，但这可能会比我们愿意的花费更多的钱、需要更多的努力或涉及更多的风险。 […]]]></description>
-      <guid>https://seths.blog/2024/04/inverting-the-vex/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
