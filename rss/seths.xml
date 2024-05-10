@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>赛斯的博客</title>
+    <title>塞斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Fri, 10 May 2024 01:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:20:40 GMT</lastBuildDate>
     <item>
       <title>猫和狗</title>
       <link>https://seths.blog/2024/05/cats-and-dogs/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>TL;DR 的防守傲慢</title>
       <link>https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/</link>
-      <description><![CDATA[自从上了高中，就有了阅读《悬崖笔记》的本能。互联网采纳了这个想法，添加了无端的分号并完善了“太长”；没读过。这是一种错误的骄傲断言，即我们太忙、太重要，无法阅读整篇文章，我们浏览了 […]]]></description>
+      <description><![CDATA[自从有了高中，人们就有了阅读 Cliffs Notes 的本能。互联网采用了这个想法，添加了一个多余的分号，完善了“太长；没读”。这是错误而自豪的断言，我们太忙，太重要，没法读完整本书，我们只是浏览了一下 […]]]></description>
       <guid>https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/</guid>
       <pubDate>Wed, 08 May 2024 08:55:00 GMT</pubDate>
     </item>
     <item>
       <title>魔法的半衰期</title>
       <link>https://seths.blog/2024/05/the-half-life-of-magic/</link>
-      <description><![CDATA[“任何足够先进的技术都与魔法没有什么区别。”亚瑟·C·克拉克 (Arthur C. Clarke) 试着想象一下二十年前的你，拿着 Rabbit R1，或者使用手机，或者每月只需花几美元就能听所有录制的歌曲。我们不只是把这些曾经神奇的物品当作[…]]]></description>
+      <description><![CDATA[“任何足够先进的技术都与魔法无异。”阿瑟·克拉克 试想一下，二十年前的你，手里拿着一台 Rabbit R1，或者使用一部手机，或者每月只需花几美元就能收听所有录制的歌曲。我们不会将这些曾经神奇的物品当作[…]]]></description>
       <guid>https://seths.blog/2024/05/the-half-life-of-magic/</guid>
       <pubDate>Tue, 07 May 2024 08:22:00 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>超越客户关系管理</title>
       <link>https://seths.blog/2024/05/beyond-crm/</link>
-      <description><![CDATA[许多营销人员花时间在他们的 CRM 系统上。昂贵的基于云的工具可以自动化客户关系管理。也许客户不想被管理。他们可能不想。把我们最重要的工作视为客户关系领导可能更有用。CRL 是自愿的。它是与客户一起完成的，是为了他们，而不是为了他们。[…]]]></description>
+      <description><![CDATA[许多营销人员花时间研究他们的 CRM 系统。昂贵的基于云的工具可以自动化客户关系管理。也许客户不想被管理。他们可能不会。将我们最重要的工作视为客户关系领导可能更有用。 CRL 是自愿的。这是与客户一起完成的，也是为了他们，而不是为了他们。 […]]]></description>
       <guid>https://seths.blog/2024/05/beyond-crm/</guid>
       <pubDate>Sat, 04 May 2024 08:51:00 GMT</pubDate>
     </item>
