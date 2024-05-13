@@ -4,11 +4,18 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Mon, 13 May 2024 09:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 12:36:49 GMT</lastBuildDate>
+    <item>
+      <title>遗传算法赛车那些事</title>
+      <link>https://flowingdata.com/2024/05/13/genetic-algorithm-car-race-thingy/</link>
+      <description><![CDATA[这个有趣的程序来自古老但优秀的部门，使用遗传算法来驱动…标签： 算法、优化]]></description>
+      <guid>https://flowingdata.com/2024/05/13/genetic-algorithm-car-race-thingy/</guid>
+      <pubDate>Mon, 13 May 2024 09:31:02 GMT</pubDate>
+    </item>
     <item>
       <title>人类禽流感传播风险低</title>
       <link>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</link>
-      <description><![CDATA[Mariano Zafra、Anurag Rao 和 Jon McClure 为路透社描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
+      <description><![CDATA[为路透社撰写，Mariano Zafra、Anurag Rao 和 Jon McClure 描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
       <guid>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</guid>
       <pubDate>Fri, 10 May 2024 07:50:06 GMT</pubDate>
     </item>
@@ -68,13 +75,6 @@
       <description><![CDATA[TikTok 帐户 Globetrots 结合了 Google 地球和文本转语音来显示顶部-十个列表…标签： AI, 生成，listicle、讲故事、TikTok]]></description>
       <guid>https://flowingdata.com/2024/05/03/welcome-to-the-future-of-data-reporting-in-musical-format/</guid>
       <pubDate>Fri, 03 May 2024 16:17:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们工作多少</title>
-      <link>https://flowingdata.com/2024/05/02/how-much-we-work/</link>
-      <description><![CDATA[在我们年轻的时候，我们有学校和更重要的事情要做，但随着年龄的增长，我们还要支付账单。标签： 时间使用，工作 &gt;]]></description>
-      <guid>https://flowingdata.com/2024/05/02/how-much-we-work/</guid>
-      <pubDate>Fri, 03 May 2024 05:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
