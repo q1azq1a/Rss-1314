@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺阿皮宁</title>
+    <title>诺阿平宁</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Mon, 13 May 2024 06:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 09:21:04 GMT</lastBuildDate>
+    <item>
+      <title>我将如何监管人工智能</title>
+      <link>https://www.noahpinion.blog/p/how-i-would-regulate-ai</link>
+      <description><![CDATA[重点关注人工智能可能造成伤害的过程中的瓶颈。]]></description>
+      <guid>https://www.noahpinion.blog/p/how-i-would-regulate-ai</guid>
+      <pubDate>Mon, 13 May 2024 07:48:22 GMT</pubDate>
+    </item>
     <item>
       <title>我们所知道的互联网（再次）死亡</title>
       <link>https://www.noahpinion.blog/p/the-death-again-of-the-internet-as</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果是这样，可能会动摇全球经济的基础。]]></description>
       <guid>https://www.noahpinion.blog/p/is-japan-having-a-currency-crisis</guid>
       <pubDate>Mon, 29 Apr 2024 07:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登是对的，我们需要增税</title>
-      <link>https://www.noahpinion.blog/p/biden-is-right-that-we-need-to-raise</link>
-      <description><![CDATA[但他的计划还需要做很多工作。]]></description>
-      <guid>https://www.noahpinion.blog/p/biden-is-right-that-we-need-to-raise</guid>
-      <pubDate>Sat, 27 Apr 2024 08:48:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
