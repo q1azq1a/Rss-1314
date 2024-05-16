@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 16 May 2024 06:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:20:03 GMT</lastBuildDate>
+    <item>
+      <title>成功的概率</title>
+      <link>https://flowingdata.com/2024/05/16/probability-of-success/</link>
+      <description><![CDATA[想象一下，你尝试做某件事，成功的机会是 20%。如果您尝试做某件事六次，那么您至少成功一次的概率是多少？标签： 安德鲁·胡伯曼，二项式，概率，模拟]]></description>
+      <guid>https://flowingdata.com/2024/05/16/probability-of-success/</guid>
+      <pubDate>Thu, 16 May 2024 07:05:06 GMT</pubDate>
+    </item>
     <item>
       <title>银河系磁场图</title>
       <link>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</link>
@@ -68,13 +75,6 @@
       <description><![CDATA[距离《Brood XIII》和《Brood》的蝉鸣已有 200 多年了…标签： 蝉，纽约时报]]></description>
       <guid>https://flowingdata.com/2024/05/07/historical-cicada-maps/</guid>
       <pubDate>Tue, 07 May 2024 10:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>蝉孵卵时间表</title>
-      <link>https://flowingdata.com/2024/05/07/cicada-brood-timeline/</link>
-      <description><![CDATA[蝉来了。今年很独特，因为有两窝…标签： 蝉，CNN]]></description>
-      <guid>https://flowingdata.com/2024/05/07/cicada-brood-timeline/</guid>
-      <pubDate>Tue, 07 May 2024 09:37:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
