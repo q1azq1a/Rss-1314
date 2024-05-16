@@ -4,11 +4,18 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Thu, 16 May 2024 18:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 21:19:12 GMT</lastBuildDate>
+    <item>
+      <title>✚ 数据有意义吗？</title>
+      <link>https://flowingdata.com/2024/05/16/process-289-sense/</link>
+      <description><![CDATA[当您分析数据时，有时趋势、模式或异常值会突然跳出来，打在您的脸上。或者，您可能会计算出看起来令人惊讶的结果。也许它们是真实的，但也许不是。标签： 分析、错误、问题]]></description>
+      <guid>https://flowingdata.com/2024/05/16/process-289-sense/</guid>
+      <pubDate>Thu, 16 May 2024 20:26:22 GMT</pubDate>
+    </item>
     <item>
       <title>成功概率模拟</title>
       <link>https://flowingdata.com/2024/05/16/probability-of-success/</link>
-      <description><![CDATA[想象一下，你尝试做某件事，成功的机会是 20%。如果您尝试做某件事六次，那么您至少成功一次的概率是多少？标签： 安德鲁·胡伯曼，二项式，概率，模拟]]></description>
+      <description><![CDATA[想象一下，你尝试做某件事，成功的几率为 20%。如果你尝试做这件事六次，那么至少成功一次的概率是多少？标签： Andrew Huberman、二项式、概率、模拟]]></description>
       <guid>https://flowingdata.com/2024/05/16/probability-of-success/</guid>
       <pubDate>Thu, 16 May 2024 07:05:06 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>随着年龄的增长，时间都去哪儿了</title>
       <link>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</link>
-      <description><![CDATA[我们一天有24小时。我们如何度过这段时间？随着年龄的增长和优先事项的改变，我们的时间利用方式会发生怎样的变化？ 标签： 年龄、时间使用]]></description>
+      <description><![CDATA[我们一天有 24 小时。我们怎么度过这段时间？随着年龄的增长和优先事项的转变，我们的时间利用方式有何变化？标签： 年龄、时间利用]]></description>
       <guid>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</guid>
       <pubDate>Thu, 09 May 2024 19:34:40 GMT</pubDate>
     </item>
@@ -68,13 +75,6 @@
       <description><![CDATA[过去几个月你可能听说过一些有关人工智能的事情。如果…标签： AI, 道德，黑客俱乐部，尼基凯斯]]></description>
       <guid>https://flowingdata.com/2024/05/08/readable-and-informative-ai-safety-guide/</guid>
       <pubDate>Wed, 08 May 2024 08:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>历史上的蝉地图</title>
-      <link>https://flowingdata.com/2024/05/07/historical-cicada-maps/</link>
-      <description><![CDATA[距离《Brood XIII》和《Brood》的蝉鸣已有 200 多年了…标签： 蝉，纽约时报]]></description>
-      <guid>https://flowingdata.com/2024/05/07/historical-cicada-maps/</guid>
-      <pubDate>Tue, 07 May 2024 10:50:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
