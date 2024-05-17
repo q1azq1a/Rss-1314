@@ -3,8 +3,15 @@
   <channel>
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
-    <description>数量决定力量</description>
-    <lastBuildDate>Fri, 17 May 2024 06:26:21 GMT</lastBuildDate>
+    <description>数量优势</description>
+    <lastBuildDate>Fri, 17 May 2024 09:21:31 GMT</lastBuildDate>
+    <item>
+      <title>转向电池供电</title>
+      <link>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</link>
+      <description><![CDATA[为了捕获太阳能以供晚上使用，电池已经增加了…标签：&lt; /strong&gt; 电池, 电力，纽约时报]]></description>
+      <guid>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</guid>
+      <pubDate>Fri, 17 May 2024 08:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 数据有意义吗？</title>
       <link>https://flowingdata.com/2024/05/16/process-289-sense/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Communal Plot，一个共享的坐标空间，看看你的品味如何比较</title>
       <link>https://flowingdata.com/2024/05/14/communal-plot-a-shared-coordinate-space-to-see-how-your-taste-compares/</link>
-      <description><![CDATA[PerThirtySix 制作了一个公共图，通过散点图询问您的意见......标签： PerThirtySix，分享, 社交]]></description>
+      <description><![CDATA[PerThirtySix 制作了一个公共图，通过散点图和&amp;# 8230;标签： PerThirtySix，分享，社交&lt; /a&gt;]]></description>
       <guid>https://flowingdata.com/2024/05/14/communal-plot-a-shared-coordinate-space-to-see-how-your-taste-compares/</guid>
       <pubDate>Tue, 14 May 2024 09:14:29 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>人类禽流感传播风险低</title>
       <link>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</link>
-      <description><![CDATA[路透社的 Mariano Zafra、Anurag Rao 和 Jon McClure 描述了禽流感如何......标签： 禽流感，路透社]]></description>
+      <description><![CDATA[Mariano Zafra、Anurag Rao 和 Jon McClure 为路透社描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
       <guid>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</guid>
       <pubDate>Fri, 10 May 2024 07:50:06 GMT</pubDate>
     </item>
@@ -68,13 +75,6 @@
 生物进化为何有效？并且，…标签： 进化，机器学习，建模，Stephen Wolfram]]></description>
       <guid>https://flowingdata.com/2024/05/09/mathematical-model-for-biological-evolution-and-machine-learning/</guid>
       <pubDate>Thu, 09 May 2024 08:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>可读且信息丰富的人工智能安全指南</title>
-      <link>https://flowingdata.com/2024/05/08/readable-and-informative-ai-safety-guide/</link>
-      <description><![CDATA[过去几个月你可能听说过一些有关人工智能的事情。如果…标签： AI, 道德，黑客俱乐部，尼基凯斯]]></description>
-      <guid>https://flowingdata.com/2024/05/08/readable-and-informative-ai-safety-guide/</guid>
-      <pubDate>Wed, 08 May 2024 08:04:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
