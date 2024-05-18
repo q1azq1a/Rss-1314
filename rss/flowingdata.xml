@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Sat, 18 May 2024 01:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 03:21:13 GMT</lastBuildDate>
+    <item>
+      <title>可视化（第二版）：寻找最佳可视化工具</title>
+      <link>https://flowingdata.com/2024/05/17/visualize-this-2nd-ed-finding-the-best-visualization-tools/</link>
+      <description><![CDATA[有很多工具可以可视化数据。有些是特定于可视化的。有些工具可以让您制作图表，但专注于其他数据事物。新应用程序的推出带来了新功能，有望带来新事物。这使得找到最好的可视化工具变得很棘手。标签： writing&lt; /a&gt;]]></description>
+      <guid>https://flowingdata.com/2024/05/17/visualize-this-2nd-ed-finding-the-best-visualization-tools/</guid>
+      <pubDate>Sat, 18 May 2024 02:37:33 GMT</pubDate>
+    </item>
     <item>
       <title>转向电池供电</title>
       <link>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>银河系磁场图</title>
       <link>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</link>
-      <description><![CDATA[基于 NASA 平流层红外天文观测站 (SOFIA) 的数据，维拉诺瓦大学…标签：磁场， 银河系，美国宇航局，奇怪的地图]]></description>
+      <description><![CDATA[基于美国宇航局平流层红外天文台 (SOFIA)、维拉诺瓦大学的数据标签： 磁场，银河系、美国宇航局、奇怪的地图]]></description>
       <guid>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</guid>
       <pubDate>Wed, 15 May 2024 08:48:53 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>人类禽流感传播风险低</title>
       <link>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</link>
-      <description><![CDATA[Mariano Zafra、Anurag Rao 和 Jon McClure 为路透社描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
+      <description><![CDATA[为路透社撰写，Mariano Zafra、Anurag Rao 和 Jon McClure 描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
       <guid>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</guid>
       <pubDate>Fri, 10 May 2024 07:50:06 GMT</pubDate>
     </item>
     <item>
       <title>随着年龄的增长，时间都去哪儿了</title>
       <link>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</link>
-      <description><![CDATA[我们一天有24小时。我们如何度过这段时间？随着年龄的增长和优先事项的改变，我们的时间利用方式会发生怎样的变化？ 标签： 年龄、时间使用]]></description>
+      <description><![CDATA[我们一天有 24 小时。我们怎么度过这段时间？随着年龄的增长和优先事项的变化，我们的时间利用方式发生了怎样的变化？标签： 年龄、时间利用]]></description>
       <guid>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</guid>
       <pubDate>Thu, 09 May 2024 19:34:40 GMT</pubDate>
     </item>
@@ -67,14 +74,6 @@
       <description><![CDATA[也许有一天，人工智能工具将足够先进，能够处理随机数据集并产生结合现实世界背景的有价值的见解。那一天不是今天。标签： AI、生成，混搭]]></description>
       <guid>https://flowingdata.com/2024/05/09/process-288-loop/</guid>
       <pubDate>Thu, 09 May 2024 18:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>生物进化和机器学习的数学模型</title>
-      <link>https://flowingdata.com/2024/05/09/mathematical-model-for-biological-evolution-and-machine-learning/</link>
-      <description><![CDATA[Stephen Wolfram 开始模拟生物进化：
-生物进化为何有效？并且，…标签： 进化，机器学习，建模，Stephen Wolfram]]></description>
-      <guid>https://flowingdata.com/2024/05/09/mathematical-model-for-biological-evolution-and-machine-learning/</guid>
-      <pubDate>Thu, 09 May 2024 08:03:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
