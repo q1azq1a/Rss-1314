@@ -3,17 +3,17 @@
   <channel>
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
-    <description>数量优势</description>
-    <lastBuildDate>Tue, 21 May 2024 18:25:32 GMT</lastBuildDate>
+    <description>数量决定力量</description>
+    <lastBuildDate>Tue, 21 May 2024 21:18:12 GMT</lastBuildDate>
     <item>
       <title>想象一下（第二版）：一本即将出版的真正的书</title>
       <link>https://book.flowingdata.com/</link>
-      <description><![CDATA[现在可视化这是一本真正的书！正式出版日期是 5 月…标签： 已发布]]></description>
+      <description><![CDATA[可视化这是一本真正的书！正式发布日期为五月标签： 已发布 ]]></description>
       <guid>https://book.flowingdata.com/</guid>
       <pubDate>Tue, 21 May 2024 17:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>制图黑客新闻</title>
+      <title>映射黑客新闻</title>
       <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
       <description><![CDATA[Wilson Lin 使用抽象地图可视化 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
       <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>飞入黑洞的可视化</title>
       <link>https://flowingdata.com/2024/05/20/visualization-of-flying-into-a-black-hole/</link>
-      <description><![CDATA[假设你还活着飞进黑洞，NASA 的戈达德太空飞行中心标签： 黑洞，美国宇航局，太空]]></description>
+      <description><![CDATA[假设你还活着飞入黑洞，美国宇航局戈达德空间&amp; #8230;标签： 黑洞，NASA，&lt;a href=&quot;https://flowingdata.com/tag/space/&quot; rel=&quot;tag ”空间&lt;/a&gt;]]></description>
       <guid>https://flowingdata.com/2024/05/20/visualization-of-flying-into-a-black-hole/</guid>
       <pubDate>Mon, 20 May 2024 07:27:14 GMT</pubDate>
     </item>
@@ -36,14 +36,14 @@
     <item>
       <title>转向电池供电</title>
       <link>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</link>
-      <description><![CDATA[为了捕获太阳能以供晚上使用，电池已经增加了…标签：&lt; /strong&gt; 电池, 电力，纽约时报]]></description>
+      <description><![CDATA[为了捕获太阳能供晚上使用，电池的数量不断增加…标签： 电池，电力，纽约时报]]></description>
       <guid>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</guid>
       <pubDate>Fri, 17 May 2024 08:11:08 GMT</pubDate>
     </item>
     <item>
       <title>✚ 数据有意义吗？</title>
       <link>https://flowingdata.com/2024/05/16/process-289-sense/</link>
-      <description><![CDATA[当您分析数据时，有时趋势、模式或异常值会突然跳出来，打在您的脸上。或者，您可能会计算出看起来令人惊讶的结果。也许它们是真实的，但也许不是。标签： 分析、错误、问题]]></description>
+      <description><![CDATA[当您分析数据时，有时会出现趋势、模式或异常值，让您大吃一惊。或者，您可能会计算出令人惊讶的结果。它们可能是真的，也可能不是。标签：分析、错误、问题]]></description>
       <guid>https://flowingdata.com/2024/05/16/process-289-sense/</guid>
       <pubDate>Thu, 16 May 2024 20:26:22 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>银河系磁场图</title>
       <link>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</link>
-      <description><![CDATA[基于美国宇航局平流层红外天文台 (SOFIA)、维拉诺瓦大学的数据标签： 磁场，银河系、美国宇航局、奇怪的地图]]></description>
+      <description><![CDATA[基于 NASA 平流层红外天文观测站 (SOFIA) 的数据，维拉诺瓦大学…标签：磁场， 银河系，美国宇航局，奇怪的地图]]></description>
       <guid>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</guid>
       <pubDate>Wed, 15 May 2024 08:48:53 GMT</pubDate>
     </item>
