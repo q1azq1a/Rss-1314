@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Tue, 21 May 2024 06:27:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 09:21:52 GMT</lastBuildDate>
+    <item>
+      <title>映射黑客新闻</title>
+      <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
+      <description><![CDATA[Wilson Lin 使用抽象地图可视化 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
+      <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
+      <pubDate>Tue, 21 May 2024 09:02:44 GMT</pubDate>
+    </item>
     <item>
       <title>飞入黑洞的可视化</title>
       <link>https://flowingdata.com/2024/05/20/visualization-of-flying-into-a-black-hole/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>可视化（第二版）：寻找最佳可视化工具</title>
       <link>https://flowingdata.com/2024/05/17/visualize-this-2nd-ed-finding-the-best-visualization-tools/</link>
-      <description><![CDATA[有很多工具可以可视化数据。有些是特定于可视化的。有些工具可以让您制作图表，但专注于其他数据事物。新应用程序的推出带来了新功能，有望带来新事物。这使得找到最好的可视化工具变得很棘手。标签： writing&lt; /a&gt;]]></description>
+      <description><![CDATA[有很多工具可以可视化数据。有些是可视化专用的。有些是让你制作图表的工具，但专注于其他数据。新应用程序推出了新功能，承诺提供新的东西。这使得找到最好的可视化工具变得很棘手。标签：写作]]></description>
       <guid>https://flowingdata.com/2024/05/17/visualize-this-2nd-ed-finding-the-best-visualization-tools/</guid>
       <pubDate>Sat, 18 May 2024 02:37:33 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 08:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>✚ 这些数据有意义吗？</title>
+      <title>✚ 数据有意义吗？</title>
       <link>https://flowingdata.com/2024/05/16/process-289-sense/</link>
       <description><![CDATA[当您分析数据时，有时趋势、模式或异常值会突然跳出来，打在您的脸上。或者，您可能会计算出看起来令人惊讶的结果。也许它们是真实的，但也许不是。标签： 分析、错误、问题]]></description>
       <guid>https://flowingdata.com/2024/05/16/process-289-sense/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Mariano Zafra、Anurag Rao 和 Jon McClure 为路透社描述了禽流感的情况…&lt; p&gt;标签： 禽流感、路透社]]></description>
       <guid>https://flowingdata.com/2024/05/10/low-risk-for-human-bird-flu-transmission/</guid>
       <pubDate>Fri, 10 May 2024 07:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着年龄的增长，时间都去哪儿了</title>
-      <link>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</link>
-      <description><![CDATA[我们一天有24小时。我们如何度过这段时间？随着年龄的增长和优先事项的变化，我们的时间利用方式会如何变化？ 标签： 年龄、时间使用]]></description>
-      <guid>https://flowingdata.com/2024/05/09/where-the-time-goes-with-age/</guid>
-      <pubDate>Thu, 09 May 2024 19:34:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
