@@ -4,7 +4,7 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Wed, 22 May 2024 06:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 09:22:17 GMT</lastBuildDate>
     <item>
       <title>想象一下（第二版）：一本即将出版的真正的书</title>
       <link>https://book.flowingdata.com/</link>
@@ -13,7 +13,7 @@
       <pubDate>Tue, 21 May 2024 17:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>制图黑客新闻</title>
+      <title>映射黑客新闻</title>
       <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
       <description><![CDATA[Wilson Lin 使用抽象地图可视化了 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
       <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>银河系磁场图</title>
       <link>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</link>
-      <description><![CDATA[基于美国宇航局平流层红外天文台 (SOFIA)、维拉诺瓦大学的数据标签： 磁场，银河系、美国宇航局、奇怪的地图]]></description>
+      <description><![CDATA[基于 NASA 平流层红外天文观测站 (SOFIA) 的数据，维拉诺瓦大学…标签：磁场， 银河系，美国宇航局，奇怪的地图]]></description>
       <guid>https://flowingdata.com/2024/05/15/map-of-magnetic-fields-in-the-milky-way/</guid>
       <pubDate>Wed, 15 May 2024 08:48:53 GMT</pubDate>
     </item>
