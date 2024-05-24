@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 24 May 2024 06:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 09:21:11 GMT</lastBuildDate>
+    <item>
+      <title>洛杉矶道奇队棒球仪表盘</title>
+      <link>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</link>
+      <description><![CDATA[为了跟踪表现，Matt Stiles 制作了 Dodgers Data Bot，它…标签： 棒球，仪表板，道奇队，Matt Stiles]]></description>
+      <guid>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</guid>
+      <pubDate>Fri, 24 May 2024 08:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 写一本关于可视化的书</title>
       <link>https://flowingdata.com/2024/05/23/process-290-vt2/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>制图黑客新闻</title>
       <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
-      <description><![CDATA[Wilson Lin 使用抽象地图可视化 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
+      <description><![CDATA[Wilson Lin 使用抽象地图可视化了 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
       <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
       <pubDate>Tue, 21 May 2024 09:02:44 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[当您分析数据时，有时趋势、模式或异常值会突然跳出来，打在您的脸上。或者，您可能会计算出看起来令人惊讶的结果。也许它们是真实的，但也许不是。标签： 分析、错误、问题]]></description>
       <guid>https://flowingdata.com/2024/05/16/process-289-sense/</guid>
       <pubDate>Thu, 16 May 2024 20:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功概率模拟</title>
-      <link>https://flowingdata.com/2024/05/16/probability-of-success/</link>
-      <description><![CDATA[想象一下，你尝试做某件事，成功的机会是 20%。如果您尝试做某件事六次，那么您至少成功一次的概率是多少？标签： 安德鲁·胡伯曼，二项式，概率，模拟]]></description>
-      <guid>https://flowingdata.com/2024/05/16/probability-of-success/</guid>
-      <pubDate>Thu, 16 May 2024 07:05:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

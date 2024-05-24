@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>赛斯的博客</title>
+    <title>塞斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Fri, 24 May 2024 03:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 09:21:07 GMT</lastBuildDate>
+    <item>
+      <title>N + 1 的挑战</title>
+      <link>https://seths.blog/2024/05/the-challenge-of-n-1/</link>
+      <description><![CDATA[“再多一点”可能是一种有用的自我激励方式，直到它不再有效。N + 1 促使我们赢得每场比赛、每场争论、每场银行存款竞赛。有时这只是一种自我挑战，目的不是伤害他人，但永不满足的问题在于失败者也会[…]]]></description>
+      <guid>https://seths.blog/2024/05/the-challenge-of-n-1/</guid>
+      <pubDate>Fri, 24 May 2024 08:29:00 GMT</pubDate>
+    </item>
     <item>
       <title>2+2</title>
       <link>https://seths.blog/2024/05/2-2/</link>
@@ -13,16 +20,16 @@
       <pubDate>Thu, 23 May 2024 08:42:00 GMT</pubDate>
     </item>
     <item>
-      <title>“我不是这样学习的”</title>
+      <title>“我不这样学习”</title>
       <link>https://seths.blog/2024/05/i-dont-learn-that-way/</link>
       <description><![CDATA[如果你坐在码头上，观看游泳课而没有被淋湿，那么更准确的说法是，“我只是在看。”关于不同的人如何学习有很多理论。在网上，我们正在进行历史上最大的学习实验，有无数的视频、播客和互动课程教授几乎所有内容。在[…]]]></description>
       <guid>https://seths.blog/2024/05/i-dont-learn-that-way/</guid>
       <pubDate>Wed, 22 May 2024 08:31:00 GMT</pubDate>
     </item>
     <item>
-      <title>专业人士的面条</title>
+      <title>专业人士的 Noodling</title>
       <link>https://seths.blog/2024/05/noodling-for-professionals/</link>
-      <description><![CDATA[当迈尔斯·戴维斯和他的六重奏录制《Kind of Blue》时，他们在录音室总共呆了四天。他们在不到一周的时间内创作了有史以来最畅销和最重要的爵士乐专辑之一。当然，他们已经探索了几个月。在俱乐部里，在观众面前，交易[…]]]></description>
+      <description><![CDATA[迈尔斯·戴维斯和他的六重奏乐队录制《Kind of Blue》时，他们在录音室里一共待了四天。不到一周的时间，他们就创作出了有史以来最畅销、最重要的爵士乐专辑之一。当然，他们已经探索了好几个月。在俱乐部，在观众面前，交易 […]]]></description>
       <guid>https://seths.blog/2024/05/noodling-for-professionals/</guid>
       <pubDate>Tue, 21 May 2024 09:28:00 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>新业务的客户数学</title>
       <link>https://seths.blog/2024/05/customer-math-for-a-new-business/</link>
-      <description><![CDATA[获得新客户需要多少钱？您从与该客户的每次互动中赚多少钱？客户会停留多久？随着时间的推移，现有客户将为您带来多少新客户？]]></description>
+      <description><![CDATA[获得一个新客户需要花多少钱？每次与该客户的互动能让你赚多少钱？客户会停留多长时间？现有客户会随着时间的推移给你带来多少新客户？]]></description>
       <guid>https://seths.blog/2024/05/customer-math-for-a-new-business/</guid>
       <pubDate>Sat, 18 May 2024 08:29:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[几百年前，新英格兰的小镇接受了市政厅的想法。公民（当时只有白人）聚集在一起，共同制定该镇的议程。每个人都可以发言，每个人都可以投票，这是直接的，有时甚至是有效的。创新的一部分是[…]]]></description>
       <guid>https://seths.blog/2024/05/the-obligations-of-the-town-hall/</guid>
       <pubDate>Thu, 16 May 2024 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>毫无根据的微笑</title>
-      <link>https://seths.blog/2024/05/the-unwarranted-smile/</link>
-      <description><![CDATA[当我们为某人做一些好事时，一句“谢谢”就可以了。微笑是很高兴收到的。而且，在人类文化的许多方面，这都有点令人期待。但是，当出现问题时，如果我们掉了盘子、错过了转弯或让某人迟到了，如果我们受到欢迎，那就特别令人愉快和难忘[…]]]></description>
-      <guid>https://seths.blog/2024/05/the-unwarranted-smile/</guid>
-      <pubDate>Wed, 15 May 2024 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
