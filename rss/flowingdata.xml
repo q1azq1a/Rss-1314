@@ -4,18 +4,25 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Fri, 24 May 2024 09:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:36:52 GMT</lastBuildDate>
+    <item>
+      <title>WildChat，ChatGPT 交互数据集</title>
+      <link>https://flowingdata.com/2024/05/24/wildchat-a-dataset-of-chatgpt-interactions/</link>
+      <description><![CDATA[如果您需要大型数据集来训练您的聊天机器人—和…标签： ChatGPT，WildChat]]></description>
+      <guid>https://flowingdata.com/2024/05/24/wildchat-a-dataset-of-chatgpt-interactions/</guid>
+      <pubDate>Fri, 24 May 2024 10:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>洛杉矶道奇队棒球仪表盘</title>
       <link>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</link>
-      <description><![CDATA[为了跟踪表现，Matt Stiles 制作了 Dodgers Data Bot，它…标签： 棒球，仪表板，道奇队，Matt Stiles]]></description>
+      <description><![CDATA[为了跟踪表现，Matt Stiles 制作了道奇队数据机器人，它…标签：  棒球，仪表板，道奇队，马特·斯泰尔斯]]></description>
       <guid>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</guid>
       <pubDate>Fri, 24 May 2024 08:17:09 GMT</pubDate>
     </item>
     <item>
       <title>✚ 写一本关于可视化的书</title>
       <link>https://flowingdata.com/2024/05/23/process-290-vt2/</link>
-      <description><![CDATA[阅读年轻时的自己所写的文字，重温那个人的过程，真是……很有教育意义。标签： 书籍、写作]]></description>
+      <description><![CDATA[阅读年轻时的自己的话并重温那个人的过程......很有教育意义。标签： 书，写作]]></description>
       <guid>https://flowingdata.com/2024/05/23/process-290-vt2/</guid>
       <pubDate>Thu, 23 May 2024 18:30:09 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 23 May 2024 08:10:58 GMT</pubDate>
     </item>
     <item>
-      <title>您居住地的房价变化</title>
+      <title>您居住地房价的变化</title>
       <link>https://flowingdata.com/2024/05/22/change-in-housing-prices-where-you-live/</link>
       <description><![CDATA[我不了解你，但我住的地方，房价一直在上涨&amp;# 8230;标签： 成本、住房，华盛顿邮报]]></description>
       <guid>https://flowingdata.com/2024/05/22/change-in-housing-prices-where-you-live/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 21 May 2024 17:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>制图黑客新闻</title>
+      <title>映射黑客新闻</title>
       <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
       <description><![CDATA[Wilson Lin 使用抽象地图可视化了 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
       <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[为了捕获太阳能以供晚上使用，电池已经增加了…标签：&lt; /strong&gt; 电池, 电力，纽约时报]]></description>
       <guid>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</guid>
       <pubDate>Fri, 17 May 2024 08:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 数据有意义吗？</title>
-      <link>https://flowingdata.com/2024/05/16/process-289-sense/</link>
-      <description><![CDATA[当您分析数据时，有时趋势、模式或异常值会突然跳出来，打在您的脸上。或者，您可能会计算出看起来令人惊讶的结果。也许它们是真实的，但也许不是。标签： 分析、错误、问题]]></description>
-      <guid>https://flowingdata.com/2024/05/16/process-289-sense/</guid>
-      <pubDate>Thu, 16 May 2024 20:26:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
