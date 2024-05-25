@@ -4,7 +4,7 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量优势</description>
-    <lastBuildDate>Sat, 25 May 2024 09:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 12:35:04 GMT</lastBuildDate>
     <item>
       <title>WildChat，ChatGPT 交互数据集</title>
       <link>https://flowingdata.com/2024/05/24/wildchat-a-dataset-of-chatgpt-interactions/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 24 May 2024 10:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶道奇棒球队的仪表板</title>
+      <title>洛杉矶道奇队棒球仪表板</title>
       <link>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</link>
       <description><![CDATA[为了跟踪表现，Matt Stiles 制作了道奇队数据机器人，它…标签：  棒球，仪表板，道奇队，马特·斯泰尔斯]]></description>
       <guid>https://flowingdata.com/2024/05/24/dashboard-for-l-a-dodgers-baseball/</guid>
@@ -48,7 +48,7 @@
       <pubDate>Tue, 21 May 2024 17:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>映射黑客新闻</title>
+      <title>制图黑客新闻</title>
       <link>https://flowingdata.com/2024/05/21/mapping-hacker-news/</link>
       <description><![CDATA[Wilson Lin 使用抽象地图可视化 4000 万条帖子和评论…标签： 黑客新闻，林威尔逊]]></description>
       <guid>https://flowingdata.com/2024/05/21/mapping-hacker-news/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>转向电池供电</title>
       <link>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</link>
-      <description><![CDATA[为了捕获太阳能供晚上使用，电池的数量不断增加…标签： 电池，电力，纽约时报]]></description>
+      <description><![CDATA[为了捕获太阳能以供晚上使用，电池已经增加了…标签：&lt; /strong&gt; 电池, 电力，纽约时报]]></description>
       <guid>https://flowingdata.com/2024/05/17/shifting-to-batteries-for-electricity/</guid>
       <pubDate>Fri, 17 May 2024 08:11:08 GMT</pubDate>
     </item>
