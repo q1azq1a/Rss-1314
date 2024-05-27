@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>塞斯的博客</title>
+    <title>赛斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Sun, 26 May 2024 21:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 01:25:26 GMT</lastBuildDate>
     <item>
       <title>公平竞争并努力工作</title>
       <link>https://seths.blog/2024/05/play-fair-work-hard/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>专业人士的面条</title>
       <link>https://seths.blog/2024/05/noodling-for-professionals/</link>
-      <description><![CDATA[当迈尔斯·戴维斯和他的六重奏录制《Kind of Blue》时，他们在录音室总共呆了四天。他们在不到一周的时间内创作了有史以来最畅销、最重要的爵士乐专辑之一。当然，他们已经探索了几个月。在俱乐部里，在观众面前，交易[…]]]></description>
+      <description><![CDATA[当迈尔斯·戴维斯和他的六重奏录制《Kind of Blue》时，他们在录音室总共呆了四天。他们在不到一周的时间内创作了有史以来最畅销和最重要的爵士乐专辑之一。当然，他们已经探索了几个月。在俱乐部里，在观众面前，交易[…]]]></description>
       <guid>https://seths.blog/2024/05/noodling-for-professionals/</guid>
       <pubDate>Tue, 21 May 2024 09:28:00 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>新业务的客户数学</title>
       <link>https://seths.blog/2024/05/customer-math-for-a-new-business/</link>
-      <description><![CDATA[获得一个新客户需要花多少钱？每次与该客户的互动能让你赚多少钱？客户会停留多长时间？现有客户会随着时间的推移给你带来多少新客户？]]></description>
+      <description><![CDATA[获得新客户需要多少钱？您从与该客户的每次互动中赚多少钱？客户会停留多久？随着时间的推移，现有客户将为您带来多少新客户？]]></description>
       <guid>https://seths.blog/2024/05/customer-math-for-a-new-business/</guid>
       <pubDate>Sat, 18 May 2024 08:29:00 GMT</pubDate>
     </item>
     <item>
       <title>语义代数</title>
       <link>https://seths.blog/2024/05/semantic-algebra/</link>
-      <description><![CDATA[在脑子里做数学题是一门技能。没有人天生就知道答案，“你有 35 枚五分硬币和 25 美分硬币。它们加起来是 4.15 美元。你有多少个 25 美分硬币？”但我们可以学习。有些人觉得这比其他人更容易，但没错，我们可以学习。同样的 […]]]></description>
+      <description><![CDATA[在头脑中解决数学问题是一项技能。没有人生来就知道答案：“你有 35 个 5 美分和 25 美分的硬币。”加起来为 4.15 美元。你有多少个宿舍？”但我们可以学习。有些人发现这比其他人更容易，但是，是的，我们可以学习。一样的[…]]]></description>
       <guid>https://seths.blog/2024/05/semantic-algebra/</guid>
       <pubDate>Fri, 17 May 2024 08:50:00 GMT</pubDate>
     </item>
