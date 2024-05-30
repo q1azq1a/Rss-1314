@@ -4,12 +4,19 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Thu, 30 May 2024 18:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 21:20:03 GMT</lastBuildDate>
     <item>
-      <title>在 PolicyViz 播客上</title>
-      <link>https://flowingdata.com/2024/05/30/on-the-policyviz-podcast/</link>
+      <title>✚ 可视化工具和学习资源，2024 年 5 月汇总</title>
+      <link>https://flowingdata.com/2024/05/30/process-291-roundup/</link>
+      <description><![CDATA[以下是本月的好东西。标签： roundup]]></description>
+      <guid>https://flowingdata.com/2024/05/30/process-291-roundup/</guid>
+      <pubDate>Thu, 30 May 2024 18:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 PolicyViz 播客上 →</title>
+      <link>https://policyviz.com/podcast/episode-262-nathan-yau/</link>
       <description><![CDATA[我与 Jon Schwabish 在 PolicyViz Podcast 上聊过天。我们聊过......标签： Jon Schwabish、podcast、PolicyViz]]></description>
-      <guid>https://flowingdata.com/2024/05/30/on-the-policyviz-podcast/</guid>
+      <guid>https://policyviz.com/podcast/episode-262-nathan-yau/</guid>
       <pubDate>Thu, 30 May 2024 18:11:42 GMT</pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
       <description><![CDATA[最近的太阳风暴给一些地区的夜空带来了美丽的灯光…标签： 彭博社、能源、 太阳能，风暴]]></description>
       <guid>https://flowingdata.com/2024/05/23/energy-surges-due-to-solar-storm/</guid>
       <pubDate>Thu, 23 May 2024 08:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您居住地房价的变化</title>
-      <link>https://flowingdata.com/2024/05/22/change-in-housing-prices-where-you-live/</link>
-      <description><![CDATA[我不知道你的情况，但在我住的地方，房价一直......标签： 成本，住房，华盛顿邮报]]></description>
-      <guid>https://flowingdata.com/2024/05/22/change-in-housing-prices-where-you-live/</guid>
-      <pubDate>Wed, 22 May 2024 13:30:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
