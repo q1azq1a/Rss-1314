@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Tue, 11 Jun 2024 06:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 09:23:06 GMT</lastBuildDate>
+    <item>
+      <title>在 3-D 虚拟空间中可视化 GitHub 提交历史记录</title>
+      <link>https://flowingdata.com/2024/06/11/visualizing-github-commit-history-in-a-3-d-virtual-space/</link>
+      <description><![CDATA[Ren Yuan 将 PyTorch 库的 GitHub 提交历史记录可视化。虚拟…标签： 3-d、GitHub、Ren Yuan、声音化]]></description>
+      <guid>https://flowingdata.com/2024/06/11/visualizing-github-commit-history-in-a-3-d-virtual-space/</guid>
+      <pubDate>Tue, 11 Jun 2024 07:52:45 GMT</pubDate>
+    </item>
     <item>
       <title>冰球运动员轨迹投影在冰面上，供现场观看</title>
       <link>https://flowingdata.com/2024/06/10/hockey-player-tracking-projected-on-ice-for-live-watch-party/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[以下是本月的好东西。标签： roundup]]></description>
       <guid>https://flowingdata.com/2024/05/30/process-291-roundup/</guid>
       <pubDate>Thu, 30 May 2024 18:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 PolicyViz 播客上 →</title>
-      <link>https://policyviz.com/podcast/episode-262-nathan-yau/</link>
-      <description><![CDATA[我与 Jon Schwabish 在 PolicyViz Podcast 上聊过天。我们聊过......标签： Jon Schwabish、podcast、PolicyViz]]></description>
-      <guid>https://policyviz.com/podcast/episode-262-nathan-yau/</guid>
-      <pubDate>Thu, 30 May 2024 18:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
