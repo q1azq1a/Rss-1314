@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Wed, 12 Jun 2024 15:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:27:07 GMT</lastBuildDate>
+    <item>
+      <title>用数据讲述故事</title>
+      <link>https://www.storytellingwithdata.com/podcast</link>
+      <description><![CDATA[我与 Cole Nussbaumer Knaflic 谈论了我早期的动机、FD 的起源、…标签： 播客、用数据讲故事]]></description>
+      <guid>https://www.storytellingwithdata.com/podcast</guid>
+      <pubDate>Wed, 12 Jun 2024 17:50:29 GMT</pubDate>
+    </item>
     <item>
       <title>用不确定性的牛油果绘制飓风风向图</title>
       <link>https://flowingdata.com/2024/06/12/mapping-hurricane-winds-with-avocado-of-uncertainty/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>冰球运动员轨迹投影在冰面上，供现场观看</title>
       <link>https://flowingdata.com/2024/06/10/hockey-player-tracking-projected-on-ice-for-live-watch-party/</link>
-      <description><![CDATA[在今年 NHL 季后赛达拉斯星队客场比赛期间，球迷们可以......标签： 曲棍球，运动追踪, 物理, SMT, 运动]]></description>
+      <description><![CDATA[在今年 NHL 季后赛达拉斯星队客场比赛期间，球迷们可以......标签： 曲棍球，运动追踪、物理、SMT、运动]]></description>
       <guid>https://flowingdata.com/2024/06/10/hockey-player-tracking-projected-on-ice-for-live-watch-party/</guid>
       <pubDate>Mon, 10 Jun 2024 07:31:32 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>目前，可以通过灯光显示器显示你的能量来自哪里</title>
       <link>https://flowingdata.com/2024/06/05/currently-a-light-display-that-shows-where-your-energy-is-from/</link>
-      <description><![CDATA[目前是一个原型环境显示器，显示你的能量来自哪里。…标签： 能量，光，万物皆有]]></description>
+      <description><![CDATA[目前是一个原型环境显示器，显示你的能量来自哪里。…标签： 能量，光，万物皆可]]></description>
       <guid>https://flowingdata.com/2024/06/05/currently-a-light-display-that-shows-where-your-energy-is-from/</guid>
       <pubDate>Wed, 05 Jun 2024 08:34:14 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[《财富之轮》参赛者采用了《纽约时报》Upshot 分析中概述的策略…标签： Scott Menke、结果，命运之轮]]></description>
       <guid>https://flowingdata.com/2024/06/03/wheel-of-fortune-analysis-for-the-win/</guid>
       <pubDate>Mon, 03 Jun 2024 07:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>比例面积图的简单工具</title>
-      <link>https://flowingdata.com/2024/05/31/simple-tool-for-proportional-area-charts/</link>
-      <description><![CDATA[有时您可能希望使用面积来可视化数据，但是…标签： 区域，Krisztina Szűcs]]></description>
-      <guid>https://flowingdata.com/2024/05/31/simple-tool-for-proportional-area-charts/</guid>
-      <pubDate>Fri, 31 May 2024 07:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
