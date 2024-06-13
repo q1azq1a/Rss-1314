@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Thu, 13 Jun 2024 03:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 06:27:31 GMT</lastBuildDate>
+    <item>
+      <title>自 1970 年以来每十年的职业与薪资排名</title>
+      <link>https://flowingdata.com/2024/06/12/occ-income-time/</link>
+      <description><![CDATA[多年来，工作类型发生了变化，因为计算机等东西创造了一些职业并改变了其他职业。相对于其他人，不同工作的收入有何变化？标签： 收入、排名、工作]]></description>
+      <guid>https://flowingdata.com/2024/06/12/occ-income-time/</guid>
+      <pubDate>Thu, 13 Jun 2024 06:24:02 GMT</pubDate>
+    </item>
     <item>
       <title>用数据讲述故事</title>
       <link>https://www.storytellingwithdata.com/podcast</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Painted Ladies 房屋，其中包括 1990 年代情景喜剧《Full…》中的房子标签： Painted Ladies，旧金山纪事报，税收]]></description>
       <guid>https://flowingdata.com/2024/06/04/california-property-taxes-through-the-painted-ladies-houses/</guid>
       <pubDate>Tue, 04 Jun 2024 08:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>命运之轮分析获胜</title>
-      <link>https://flowingdata.com/2024/06/03/wheel-of-fortune-analysis-for-the-win/</link>
-      <description><![CDATA[《财富之轮》参赛者采用了《纽约时报》Upshot 分析中概述的策略…标签： Scott Menke、结果，命运之轮]]></description>
-      <guid>https://flowingdata.com/2024/06/03/wheel-of-fortune-analysis-for-the-win/</guid>
-      <pubDate>Mon, 03 Jun 2024 07:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
