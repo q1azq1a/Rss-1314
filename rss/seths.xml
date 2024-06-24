@@ -4,7 +4,14 @@
     <title>塞斯的博客</title>
     <link>https://seths.blog</link>
     <description>Seth Godin 关于营销、部落和尊重的博客</description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 09:23:56 GMT</lastBuildDate>
+    <item>
+      <title>小矮妖</title>
+      <link>https://seths.blog/2024/06/after-a-storm/</link>
+      <description><![CDATA[你的金罐底下有彩虹吗？有时，我们搞错了。]]></description>
+      <guid>https://seths.blog/2024/06/after-a-storm/</guid>
+      <pubDate>Mon, 24 Jun 2024 08:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>假设缺乏背景信息</title>
       <link>https://seths.blog/2024/06/assume-lack-of-context/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[任何完全开放的数字通信系统都会随着时间的推移而腐蚀。坏消息会挤占好消息。新常态：有人找到了每个住宅物业的数据库，然后又找到了手机数据库。人工智能经过训练，每天都会给每个房主打电话，询问他们是否打算出售房屋。数以百万计的[…]]]></description>
       <guid>https://seths.blog/2024/06/spam-3-0/</guid>
       <pubDate>Sun, 16 Jun 2024 08:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比谷歌更好</title>
-      <link>https://seths.blog/2024/06/better-than-google/</link>
-      <description><![CDATA[我已经好几个月没有用过 Google 搜索了。Perplexity 功能更强大、更令人愉悦、更有效。它不会被侵入性广告、监视和鬼鬼祟祟的黑暗模式所破坏，而是向你提供一个简单的带脚注的解释，准确说明你正在寻找的内容。问一问，答一答。我喜欢它有一个专业版，[…]]]></description>
-      <guid>https://seths.blog/2024/06/better-than-google/</guid>
-      <pubDate>Sat, 15 Jun 2024 08:21:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
