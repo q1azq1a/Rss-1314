@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Wed, 26 Jun 2024 06:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 09:23:45 GMT</lastBuildDate>
+    <item>
+      <title>维基百科上“Yogurt”与“Yoghurt”长达十年的争斗</title>
+      <link>https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/</link>
+      <description><![CDATA[经过多年的热烈讨论，编辑们最终勉强得出了一个结论。标签： 拼写，维基百科，酸奶]]></description>
+      <guid>https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>主要城市气候区变化</title>
       <link>https://flowingdata.com/2024/06/25/changing-climate-zones-of-major-cities/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>✚ 探索数据和可能性的游戏</title>
       <link>https://flowingdata.com/2024/06/20/process-294-game/</link>
-      <description><![CDATA[可视化和分析通常是为了尽量减少不确定性，以便更清楚地看到模式。另一方面，游戏迫使你在充满不确定性的环境中玩游戏。标签：游戏、不确定性]]></description>
+      <description><![CDATA[可视化和分析通常是为了尽量减少不确定性，以更清楚地看到模式。另一方面，游戏迫使你在充满不确定性的环境中玩游戏。标签：游戏、不确定性]]></description>
       <guid>https://flowingdata.com/2024/06/20/process-294-game/</guid>
       <pubDate>Thu, 20 Jun 2024 18:30:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Vivek Rao 喜欢玩数独，他收集了有关他的…标签： 游戏，数独，Vivek Rao]]></description>
       <guid>https://flowingdata.com/2024/06/17/analysis-of-sudoku-play-patterns/</guid>
       <pubDate>Mon, 17 Jun 2024 07:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>概率井字游戏</title>
-      <link>https://flowingdata.com/2024/06/14/probabilistic-tic-tac-toe/</link>
-      <description><![CDATA[Cameron Sun 思考生活和随机性，修改了经典的井字游戏。…标签： Cameron Sun，游戏，概率，不确定性]]></description>
-      <guid>https://flowingdata.com/2024/06/14/probabilistic-tic-tac-toe/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
