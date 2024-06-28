@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Fri, 28 Jun 2024 06:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 09:22:07 GMT</lastBuildDate>
+    <item>
+      <title>估计新冠肺炎死亡人数</title>
+      <link>https://flowingdata.com/2024/06/28/estimating-covid-deaths/</link>
+      <description><![CDATA[我们不可能知道全球新冠肺炎死亡人数的确切数字，因为一致的......标签： 冠状病毒，计数，估计，Howtown]]></description>
+      <guid>https://flowingdata.com/2024/06/28/estimating-covid-deaths/</guid>
+      <pubDate>Fri, 28 Jun 2024 07:46:40 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 可视化工具和学习资源，2024 年 6 月汇总</title>
       <link>https://flowingdata.com/2024/06/27/visualization-tools-and-learning-resources-june-2024-roundup/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>✚ 探索数据和可能性的游戏</title>
       <link>https://flowingdata.com/2024/06/20/process-294-game/</link>
-      <description><![CDATA[可视化和分析通常是为了尽量减少不确定性，以更清楚地看到模式。另一方面，游戏迫使你在充满不确定性的环境中玩游戏。标签：游戏、不确定性]]></description>
+      <description><![CDATA[可视化和分析通常是为了尽量减少不确定性，以便更清楚地看到模式。另一方面，游戏迫使你在充满不确定性的环境中玩游戏。标签：游戏、不确定性]]></description>
       <guid>https://flowingdata.com/2024/06/20/process-294-game/</guid>
       <pubDate>Thu, 20 Jun 2024 18:30:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Neven Mrgan 描述了从以下来源获取 AI 生成的电子邮件的感受…标签： AI、电子邮件、Neven Mrgan]]></description>
       <guid>https://flowingdata.com/2024/06/20/ai-generated-email-from-a-friend/</guid>
       <pubDate>Thu, 20 Jun 2024 07:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国高温追踪器</title>
-      <link>https://flowingdata.com/2024/06/19/heat-tracker-for-the-u-s/</link>
-      <description><![CDATA[美国大部分地区都异常炎热，而且标签： 热，纽约时报，警告]]></description>
-      <guid>https://flowingdata.com/2024/06/19/heat-tracker-for-the-u-s/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:40:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
