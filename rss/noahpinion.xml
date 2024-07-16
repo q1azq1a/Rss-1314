@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派</title>
+    <title>诺亚小派尼翁</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Tue, 16 Jul 2024 06:29:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 09:23:44 GMT</lastBuildDate>
+    <item>
+      <title>欧洲的命运现在掌握在德国手中</title>
+      <link>https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands</link>
+      <description><![CDATA[这是一个令人恐惧的想法，但原因已不再像以前那样。]]></description>
+      <guid>https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands</guid>
+      <pubDate>Tue, 16 Jul 2024 08:52:28 GMT</pubDate>
+    </item>
     <item>
       <title>美国怎样才能稳定下来？</title>
       <link>https://www.noahpinion.blog/p/how-can-america-be-stabilized</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[雪佛龙顺从的终结；出口管制；不守规矩的美国教授；基本收入；人工智能经济学；太阳能利用；全球南方关税；Z 世代工资；斯蒂格利茨]]></description>
       <guid>https://www.noahpinion.blog/p/at-least-five-interesting-things-554</guid>
       <pubDate>Mon, 01 Jul 2024 20:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>元素敌人</title>
-      <link>https://www.noahpinion.blog/p/the-elemental-foe</link>
-      <description><![CDATA[帮助人类摆脱贫困是首要任务。]]></description>
-      <guid>https://www.noahpinion.blog/p/the-elemental-foe</guid>
-      <pubDate>Sun, 30 Jun 2024 20:05:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
