@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Fri, 19 Jul 2024 06:28:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:21:45 GMT</lastBuildDate>
+    <item>
+      <title>区号 HTTP 响应标头之间重叠</title>
+      <link>https://flowingdata.com/2024/07/19/overlap-between-area-codes-http-response-headers/</link>
+      <description><![CDATA[和许多人一样，您可能想知道哪些 HTTP 响应标头也是区号......标签： 区号，Doug Sillars, HTTP, 幽默]]></description>
+      <guid>https://flowingdata.com/2024/07/19/overlap-between-area-codes-http-response-headers/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:44:54 GMT</pubDate>
+    </item>
     <item>
       <title>✚ 滑动获取数据</title>
       <link>https://flowingdata.com/2024/07/18/process-297-sliding/</link>
@@ -68,13 +75,6 @@
       <description><![CDATA[为了在小屏幕上为地图腾出空间，也许只需将地图切成两半。标签： 移动，分离]]></description>
       <guid>https://flowingdata.com/2024/07/11/process-296-splitting/</guid>
       <pubDate>Thu, 11 Jul 2024 18:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计电动汽车声音</title>
-      <link>https://flowingdata.com/2024/07/11/designing-ev-sounds/</link>
-      <description><![CDATA[Vox 解释了为电动汽车设计人工汽车声音的过程......标签： 电动汽车，声音化，Vox]]></description>
-      <guid>https://flowingdata.com/2024/07/11/designing-ev-sounds/</guid>
-      <pubDate>Thu, 11 Jul 2024 07:39:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
