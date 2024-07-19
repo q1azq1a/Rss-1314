@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Fri, 19 Jul 2024 15:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:27:40 GMT</lastBuildDate>
+    <item>
+      <title>Nate Silver 批评新的 538 预测模型</title>
+      <link>https://flowingdata.com/2024/07/19/nate-silver-critiques-the-new-538-forecast-model/</link>
+      <description><![CDATA[Nate Silver 去年离开了迪士尼和 FiveThirtyEight 品牌，但他接受了…标签： 选举，FiveThirtyEight, 预测, Nate Silver, 不确定性]]></description>
+      <guid>https://flowingdata.com/2024/07/19/nate-silver-critiques-the-new-538-forecast-model/</guid>
+      <pubDate>Fri, 19 Jul 2024 17:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>区号 HTTP 响应标头之间重叠</title>
       <link>https://flowingdata.com/2024/07/19/overlap-between-area-codes-http-response-headers/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 18 Jul 2024 09:36:55 GMT</pubDate>
     </item>
     <item>
-      <title>科幻电影中末日世界的转变</title>
+      <title>科幻电影中末日后世界的转变</title>
       <link>https://flowingdata.com/2024/07/17/shifts-in-post-apocalyptic-worlds-in-science-fiction-films/</link>
       <description><![CDATA[使用科幻电影来代替我们在生活中看到的东西…标签： Alvin Chang，世界末日, 电影, 布丁, 科幻小说]]></description>
       <guid>https://flowingdata.com/2024/07/17/shifts-in-post-apocalyptic-worlds-in-science-fiction-films/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>不同国家的饥荒发生率</title>
       <link>https://flowingdata.com/2024/07/15/famine-and-starving-children/</link>
-      <description><![CDATA[路透社通过非洲饥饿儿童的视角探索世界各地的饥荒......标签： 儿童，饥荒， 路透社]]></description>
+      <description><![CDATA[路透社通过肯尼亚饥饿儿童的视角探索世界各地的饥荒......标签： 儿童，饥荒， 路透社]]></description>
       <guid>https://flowingdata.com/2024/07/15/famine-and-starving-children/</guid>
       <pubDate>Mon, 15 Jul 2024 07:45:14 GMT</pubDate>
     </item>
@@ -68,13 +75,6 @@
 计算…标签： 历史、凯特·克劳福德、权力、技术、弗拉丹·乔勒]]></description>
       <guid>https://flowingdata.com/2024/07/12/genealogy-of-technology-and-power-from-the-1500s-to-present/</guid>
       <pubDate>Fri, 12 Jul 2024 07:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 分割地图</title>
-      <link>https://flowingdata.com/2024/07/11/process-296-splitting/</link>
-      <description><![CDATA[为了在小屏幕上为地图腾出空间，也许只需将地图切成两半。标签： 移动，分离]]></description>
-      <guid>https://flowingdata.com/2024/07/11/process-296-splitting/</guid>
-      <pubDate>Thu, 11 Jul 2024 18:30:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
