@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派尼翁</title>
+    <title>诺亚小派</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Sun, 21 Jul 2024 03:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 06:29:03 GMT</lastBuildDate>
+    <item>
+      <title>不要影响投票</title>
+      <link>https://www.noahpinion.blog/p/dont-rock-the-vote</link>
+      <description><![CDATA[民主党是受益于低投票率的政党。他们只是还不知道而已。（客座作者：沃利·诺温斯基）]]></description>
+      <guid>https://www.noahpinion.blog/p/dont-rock-the-vote</guid>
+      <pubDate>Sun, 21 Jul 2024 05:20:48 GMT</pubDate>
+    </item>
     <item>
       <title>产业政策的好与坏的论据</title>
       <link>https://www.noahpinion.blog/p/bad-and-good-arguments-for-industrial</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们如何才能让美国重回能源研究的前沿？]]></description>
       <guid>https://www.noahpinion.blog/p/energy-bell-the-sketch-of-an-idea</guid>
       <pubDate>Sun, 07 Jul 2024 06:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么美国制造业生产力十多年来一直停滞不前？</title>
-      <link>https://www.noahpinion.blog/p/why-has-us-manufacturing-productivity</link>
-      <description><![CDATA[关于一个非常令人不安的趋势的一些假设。]]></description>
-      <guid>https://www.noahpinion.blog/p/why-has-us-manufacturing-productivity</guid>
-      <pubDate>Sat, 06 Jul 2024 00:08:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
