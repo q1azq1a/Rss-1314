@@ -4,7 +4,14 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:39:21 GMT</lastBuildDate>
+    <item>
+      <title>水力压裂产生的清洁能源</title>
+      <link>https://flowingdata.com/2024/07/25/clean-energy-from-fracking/</link>
+      <description><![CDATA[我们通常在负面的语境中听到水力压裂，但对于华盛顿…标签： 水力压裂，电力， 华盛顿邮报]]></description>
+      <guid>https://flowingdata.com/2024/07/25/clean-energy-from-fracking/</guid>
+      <pubDate>Thu, 25 Jul 2024 09:51:06 GMT</pubDate>
+    </item>
     <item>
       <title>枪手和反狙击手在射击过程中的视角</title>
       <link>https://flowingdata.com/2024/07/24/gunman-and-countersnipers-points-of-view-during-shooting/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用科幻电影来代替我们在生活中看到的东西…标签： Alvin Chang，世界末日, 电影, 布丁, 科幻小说]]></description>
       <guid>https://flowingdata.com/2024/07/17/shifts-in-post-apocalyptic-worlds-in-science-fiction-films/</guid>
       <pubDate>Wed, 17 Jul 2024 07:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 如何使用滑块让读者自定义图表</title>
-      <link>https://flowingdata.com/2024/07/16/how-to-use-a-slider-to-customize-charts/</link>
-      <description><![CDATA[一个简单的用户控制滑块可以帮助读者从自己的角度查看数据集。标签： d3js，JavaScript]]></description>
-      <guid>https://flowingdata.com/2024/07/16/how-to-use-a-slider-to-customize-charts/</guid>
-      <pubDate>Wed, 17 Jul 2024 02:32:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
