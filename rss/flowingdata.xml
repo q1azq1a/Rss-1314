@@ -4,7 +4,21 @@
     <title>流动数据</title>
     <link>https://flowingdata.com</link>
     <description>数量决定力量</description>
-    <lastBuildDate>Fri, 26 Jul 2024 09:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:38:25 GMT</lastBuildDate>
+    <item>
+      <title>奥林匹克运动图解指南</title>
+      <link>https://flowingdata.com/2024/07/26/illustrated-guides-to-olympic-sports/</link>
+      <description><![CDATA[路透社，由 Catherine Tai 绘制插图，为所有…标签： Catherine Tai，插图、奥运会、路透社]]></description>
+      <guid>https://flowingdata.com/2024/07/26/illustrated-guides-to-olympic-sports/</guid>
+      <pubDate>Fri, 26 Jul 2024 11:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥运数据新闻</title>
+      <link>https://flowingdata.com/2024/07/26/olympic-data-journalism/</link>
+      <description><![CDATA[说到奥运会，Alberto Cairo 和 Simon Rogers 谈到了热血......标签： Alberto Cairo、数据新闻、奥运会、Simon Rogers]]></description>
+      <guid>https://flowingdata.com/2024/07/26/olympic-data-journalism/</guid>
+      <pubDate>Fri, 26 Jul 2024 11:34:43 GMT</pubDate>
+    </item>
     <item>
       <title>奥运会运动员如何对抗高温</title>
       <link>https://flowingdata.com/2024/07/26/how-olympic-athletes-combat-the-heat/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[和许多人一样，您可能想知道哪些 HTTP 响应标头也是区号......标签： 区号，Doug Sillars, HTTP, 幽默]]></description>
       <guid>https://flowingdata.com/2024/07/19/overlap-between-area-codes-http-response-headers/</guid>
       <pubDate>Fri, 19 Jul 2024 08:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>✚ 滑动获取数据</title>
-      <link>https://flowingdata.com/2024/07/18/process-297-sliding/</link>
-      <description><![CDATA[滑块是一种常见的 UI 元素，具有范围和可拖动的手柄，已经存在很长时间了。事实证明，它对于可视化非常有用。标签： 滑块]]></description>
-      <guid>https://flowingdata.com/2024/07/18/process-297-sliding/</guid>
-      <pubDate>Thu, 18 Jul 2024 18:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国移民来自哪里</title>
-      <link>https://flowingdata.com/2024/07/18/where-immigrants-in-the-u-s-came-from/</link>
-      <description><![CDATA[美国很多关于移民的讨论都集中在墨西哥，但移民…标签： 移民，华盛顿邮报]]></description>
-      <guid>https://flowingdata.com/2024/07/18/where-immigrants-in-the-u-s-came-from/</guid>
-      <pubDate>Thu, 18 Jul 2024 17:05:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
