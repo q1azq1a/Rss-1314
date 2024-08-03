@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派</title>
+    <title>诺亚小派尼翁</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Sat, 03 Aug 2024 06:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 09:24:51 GMT</lastBuildDate>
+    <item>
+      <title>美国为何在无人机领域落后，以及如何迎头赶上</title>
+      <link>https://www.noahpinion.blog/p/why-america-fell-behind-in-drones</link>
+      <description><![CDATA[Cat Orman 和 Jason Lu 的客座文章]]></description>
+      <guid>https://www.noahpinion.blog/p/why-america-fell-behind-in-drones</guid>
+      <pubDate>Sat, 03 Aug 2024 07:52:43 GMT</pubDate>
+    </item>
     <item>
       <title>马杜罗和查韦斯如何摧毁委内瑞拉经济</title>
       <link>https://www.noahpinion.blog/p/how-maduro-and-chavez-wrecked-venezuelas</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[为什么我一生中见过的最优秀的总统可能会被误认为是一位笨手笨脚的看守者。]]></description>
       <guid>https://www.noahpinion.blog/p/bidens-legacy-a-summary</guid>
       <pubDate>Mon, 22 Jul 2024 00:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要影响投票</title>
-      <link>https://www.noahpinion.blog/p/dont-rock-the-vote</link>
-      <description><![CDATA[民主党是受益于低投票率的政党。他们只是还不知道而已。（客座作者：沃利·诺温斯基）]]></description>
-      <guid>https://www.noahpinion.blog/p/dont-rock-the-vote</guid>
-      <pubDate>Sun, 21 Jul 2024 05:20:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
