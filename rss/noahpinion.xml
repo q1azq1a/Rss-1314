@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派尼翁</title>
+    <title>诺亚小派</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Mon, 05 Aug 2024 21:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 01:37:13 GMT</lastBuildDate>
+    <item>
+      <title>美国经济并未崩溃</title>
+      <link>https://www.noahpinion.blog/p/the-us-economy-is-not-crashing</link>
+      <description><![CDATA[但即便如此，美联储可能也应该开始降息了。]]></description>
+      <guid>https://www.noahpinion.blog/p/the-us-economy-is-not-crashing</guid>
+      <pubDate>Mon, 05 Aug 2024 21:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>周末至少做五件有趣的事（#45）</title>
       <link>https://www.noahpinion.blog/p/at-least-five-interesting-things-68b</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 04 Aug 2024 08:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国为何在无人机领域落后，以及如何再次迎头赶上</title>
+      <title>美国为何在无人机领域落后以及如何再次迎头赶上</title>
       <link>https://www.noahpinion.blog/p/why-america-fell-behind-in-drones</link>
       <description><![CDATA[Cat Orman 和 Jason Lu 的客座文章]]></description>
       <guid>https://www.noahpinion.blog/p/why-america-fell-behind-in-drones</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>谁是“奇怪”的？</title>
       <link>https://www.noahpinion.blog/p/whos-weird</link>
-      <description><![CDATA[竞选中的辱骂让我们得以一窥 2020 年代的美国社会。]]></description>
+      <description><![CDATA[竞选中的辱骂让我们得以窥视 2020 年代的美国社会。]]></description>
       <guid>https://www.noahpinion.blog/p/whos-weird</guid>
       <pubDate>Wed, 31 Jul 2024 07:06:08 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[自动化的奢华天堂仍然只是科幻小说。]]></description>
       <guid>https://www.noahpinion.blog/p/yes-we-still-have-to-work</guid>
       <pubDate>Thu, 25 Jul 2024 09:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周中至少要做的五件有趣的事（#44）</title>
-      <link>https://www.noahpinion.blog/p/at-least-five-interesting-things-010</link>
-      <description><![CDATA[波兰 vs. 中国；智能手机；基本收入；软着陆；工资和自动化；软件和不平等；移民医生]]></description>
-      <guid>https://www.noahpinion.blog/p/at-least-five-interesting-things-010</guid>
-      <pubDate>Tue, 23 Jul 2024 03:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
