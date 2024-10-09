@@ -16,3 +16,4 @@
  - profgalloway [https://www.profgalloway.com/feed](https://www.profgalloway.com/feed) -> [profgalloway](rss/profgalloway.xml)
  - noahpinion [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion](rss/noahpinion.xml)
  - marginalrevolution [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution](rss/marginalrevolution.xml)
+ - worldnews [https://feeds.feedburner.com/google/FTHBKApKE0u](https://feeds.feedburner.com/google/FTHBKApKE0u) -> [worldnews](rss/worldnews.xml)
