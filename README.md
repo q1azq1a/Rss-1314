@@ -11,4 +11,8 @@
  📢查看[ 本页 ](https://q1azq1a.github.io/Rss-Translation) 参考自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - BBC [https://feeds.bbci.co.uk/news/rss.xml](https://feeds.bbci.co.uk/news/rss.xml) -> [BBC_zh](rss/BBC_zh.xml)
+ - scmp [https://www.scmp.com/rss/92/feed](https://www.scmp.com/rss/92/feed) -> [scmp](rss/scmp.xml)
+ - zerohedge [https://cms.zerohedge.com/fullrss2.xml](https://cms.zerohedge.com/fullrss2.xml) -> [zerohedge](rss/zerohedge.xml)
+ - profgalloway [https://www.profgalloway.com/feed](https://www.profgalloway.com/feed) -> [profgalloway](rss/profgalloway.xml)
+ - noahpinion [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion](rss/noahpinion.xml)
+ - marginalrevolution [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution](rss/marginalrevolution.xml)
