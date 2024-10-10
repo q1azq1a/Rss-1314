@@ -12,8 +12,8 @@
 
 ## 已转换翻译源
  - scmp [https://www.scmp.com/rss/92/feed](https://www.scmp.com/rss/92/feed) -> [scmp](rss/scmp.xml)
- - zerohedge [https://cms.zerohedge.com/fullrss2.xml](https://cms.zerohedge.com/fullrss2.xml) -> [zerohedge](rss/zerohedge.xml)
+ - googlenews [https://feeds.feedburner.com/google/FTHBKApKE0u](https://feeds.feedburner.com/google/FTHBKApKE0u) -> [googlenews](rss/googlenews.xml)
  - profgalloway [https://www.profgalloway.com/feed](https://www.profgalloway.com/feed) -> [profgalloway](rss/profgalloway.xml)
  - noahpinion [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion](rss/noahpinion.xml)
  - marginalrevolution [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution](rss/marginalrevolution.xml)
- - worldnews [https://feeds.feedburner.com/google/FTHBKApKE0u](https://feeds.feedburner.com/google/FTHBKApKE0u) -> [worldnews](rss/worldnews.xml)
+ - eco_rss [https://rsshub.rssforever.com/telegram/channel/TE_RSS/showLinkPreview=1](https://rsshub.rssforever.com/telegram/channel/TE_RSS/showLinkPreview=1) -> [eco_rss](rss/eco_rss.xml)
