@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派尼翁</title>
+    <title>诺亚小派</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Tue, 15 Oct 2024 06:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 09:12:58 GMT</lastBuildDate>
+    <item>
+      <title>诺贝尔奖揭晓</title>
+      <link>https://www.noahpinion.blog/p/a-nobel-for-the-big-big-questions</link>
+      <description><![CDATA[阿西莫格鲁、约翰逊和罗宾逊因其“大统一发展理论”而获奖。]]></description>
+      <guid>https://www.noahpinion.blog/p/a-nobel-for-the-big-big-questions</guid>
+      <pubDate>Tue, 15 Oct 2024 07:44:01 GMT</pubDate>
+    </item>
     <item>
       <title>一周开始至少五件有趣的事（#51）</title>
       <link>https://www.noahpinion.blog/p/at-least-five-interesting-things-eea</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[裂变能很强大，但我们发明了更强大的东西。]]></description>
       <guid>https://www.noahpinion.blog/p/let-go-of-the-nuclear-retrofuture</guid>
       <pubDate>Tue, 24 Sep 2024 10:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果没有大规模移民，你将如何拯救中西部小城镇？</title>
-      <link>https://www.noahpinion.blog/p/how-will-you-save-small-midwestern</link>
-      <description><![CDATA[当“大量移民”涌入美国中心地带的一个小镇时，到底会发生什么呢？]]></description>
-      <guid>https://www.noahpinion.blog/p/how-will-you-save-small-midwestern</guid>
-      <pubDate>Sun, 22 Sep 2024 05:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
