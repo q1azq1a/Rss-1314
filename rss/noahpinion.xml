@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派</title>
+    <title>诺亚小派尼翁</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Thu, 31 Oct 2024 03:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 06:17:19 GMT</lastBuildDate>
+    <item>
+      <title>关于“暂时的困难”的思考</title>
+      <link>https://www.noahpinion.blog/p/thinking-about-temporary-hardship</link>
+      <description><![CDATA[美国需要紧缩政策。但马斯克的计划是正确的紧缩政策吗？]]></description>
+      <guid>https://www.noahpinion.blog/p/thinking-about-temporary-hardship</guid>
+      <pubDate>Thu, 31 Oct 2024 05:52:35 GMT</pubDate>
+    </item>
     <item>
       <title>如果特朗普输掉大选，我们的国家终于可以休息了</title>
       <link>https://www.noahpinion.blog/p/if-trump-loses-the-election-our-nation</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[博主们喜欢争论。]]></description>
       <guid>https://www.noahpinion.blog/p/in-which-i-rebut-nate-silver-on-the</guid>
       <pubDate>Wed, 09 Oct 2024 19:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党是一个强大的政党，共和党是一个弱小的政党</title>
-      <link>https://www.noahpinion.blog/p/the-democrats-are-a-strong-party</link>
-      <description><![CDATA[这是 Boss Tweed 与 Boss Tweet 之间的较量。]]></description>
-      <guid>https://www.noahpinion.blog/p/the-democrats-are-a-strong-party</guid>
-      <pubDate>Tue, 08 Oct 2024 03:37:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
