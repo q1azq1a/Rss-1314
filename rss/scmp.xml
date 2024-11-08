@@ -4,11 +4,25 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 08 Nov 2024 03:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 06:16:27 GMT</lastBuildDate>
     <item>
-      <title>降息及北京刺激措施预期提振香港股市延续涨势</title>
+      <title>汇丰银行将基本利率下调四分之一个百分点，为香港经济提供第二轮刺激</title>
+      <link>https://www.scmp.com/business/article/3285711/hsbc-cuts-prime-rate-quarter-point-second-round-tonic-hong-kongs-weak-economy?utm_source=rss_feed</link>
+      <description><![CDATA[经纪人称，对于典型的 500 万港元 30 年期贷款而言，降息可减轻每月 709 港元的抵押贷款负担。]]></description>
+      <guid>https://www.scmp.com/business/article/3285711/hsbc-cuts-prime-rate-quarter-point-second-round-tonic-hong-kongs-weak-economy?utm_source=rss_feed</guid>
+      <pubDate>Fri, 08 Nov 2024 04:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>“王者归来”：币安亿万富翁赵长鹏策划出狱后的生活</title>
+      <link>https://www.scmp.com/tech/blockchain/article/3285685/king-back-binance-billionaire-cz-plots-life-after-prison?utm_source=rss_feed</link>
+      <description><![CDATA[全球最大加密货币交易所的创始人谈论了他的四个月监禁、未来计划等。]]></description>
+      <guid>https://www.scmp.com/tech/blockchain/article/3285685/king-back-binance-billionaire-cz-plots-life-after-prison?utm_source=rss_feed</guid>
+      <pubDate>Fri, 08 Nov 2024 04:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管降息，香港股市仍波动，投资者等待北京刺激计划消息</title>
       <link>https://www.scmp.com/business/banking-finance/article/3285677/hong-kong-stocks-extend-gains-rate-cut-bets-beijing-stimulus-tonic?utm_source=rss_feed</link>
-      <description><![CDATA[香港金管局今年第二次降息后，股市连续第二天上涨；市场关注北京方面将推出刺激计划来应对美国的关税威胁。]]></description>
+      <description><![CDATA[由于所有人的目光都集中在北京方面是否出台刺激计划以应对美国的关税威胁，中国房地产开发商拖累了市场。]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3285677/hong-kong-stocks-extend-gains-rate-cut-bets-beijing-stimulus-tonic?utm_source=rss_feed</guid>
       <pubDate>Fri, 08 Nov 2024 02:23:43 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>据报道，美团联合创始人王慧文在停职后重返公司领导人工智能业务</title>
       <link>https://www.scmp.com/tech/big-tech/article/3285620/meituan-co-founder-wang-huiwen-returns-lead-ai-push-after-hiatus-report-says?utm_source=rss_feed</link>
-      <description><![CDATA[据报道，王建宙去年将其人工智能初创公司光年出售给美团后，已重返公司领导人工智能业务。]]></description>
+      <description><![CDATA[据报道，王建宙去年将其人工智能初创公司光年出售给美团后，已重返公司领导人工智能工作。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3285620/meituan-co-founder-wang-huiwen-returns-lead-ai-push-after-hiatus-report-says?utm_source=rss_feed</guid>
       <pubDate>Thu, 07 Nov 2024 12:00:10 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[两家公司的高调参展反映了全球第二大经济体中国对内存产品的巨大需求。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3285605/south-korean-memory-chip-giants-samsung-and-sk-hynix-push-latest-products-ciie?utm_source=rss_feed</guid>
       <pubDate>Thu, 07 Nov 2024 11:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>东南亚电商淘金热吸引阿里巴巴、字节跳动等中国巨头</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3285600/southeast-asias-e-commerce-gold-rush-draws-chinese-giants-alibaba-bytedance?utm_source=rss_feed</link>
-      <description><![CDATA[一份新报告发现，到 2030 年，该地区的电子商务市场将翻一番。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3285600/southeast-asias-e-commerce-gold-rush-draws-chinese-giants-alibaba-bytedance?utm_source=rss_feed</guid>
-      <pubDate>Thu, 07 Nov 2024 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普回归会否引发中国股市又一轮超级反弹？分析师们的看法</title>
-      <link>https://www.scmp.com/business/banking-finance/article/3285594/will-trumps-return-spark-another-fantastic-performance-chinese-stocks?utm_source=rss_feed</link>
-      <description><![CDATA[特朗普的总统任期常常与贸易战和关税联系在一起，而巨额的股票回报却被忽视了。]]></description>
-      <guid>https://www.scmp.com/business/banking-finance/article/3285594/will-trumps-return-spark-another-fantastic-performance-chinese-stocks?utm_source=rss_feed</guid>
-      <pubDate>Thu, 07 Nov 2024 09:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
