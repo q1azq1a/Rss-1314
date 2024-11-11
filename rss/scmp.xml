@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 09:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:23:11 GMT</lastBuildDate>
+    <item>
+      <title>中国“人工智能之虎”智普竞相为视频生成应用带来增强功能</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3286055/chinas-ai-tiger-zhipu-race-bring-enhanced-features-video-generation-apps?utm_source=rss_feed</link>
+      <description><![CDATA[智普表示，升级后的 Ying 版本将能够以每秒 60 帧的速度生成 10 秒长的 4K 高清视频片段。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3286055/chinas-ai-tiger-zhipu-race-bring-enhanced-features-video-generation-apps?utm_source=rss_feed</guid>
+      <pubDate>Mon, 11 Nov 2024 10:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>受美国制裁的中国 AI 芯片独角兽 Moore Threads 有望上市</title>
       <link>https://www.scmp.com/tech/tech-war/article/3286061/us-sanctioned-moore-threads-chinas-ai-chip-unicorn-moves-closer-possible-ipo?utm_source=rss_feed</link>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 11 Nov 2024 02:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>关税担忧导致北京政策举措令人失望，香港和中国股市下跌</title>
+      <title>关税担忧导致北京政策举措令人失望，香港和中国股市走弱</title>
       <link>https://www.scmp.com/business/china-business/article/3285996/hong-kong-china-stocks-slide-beijing-policy-move-disappoints-amid-tariff-worries?utm_source=rss_feed</link>
       <description><![CDATA[野村分析师表示，关税前景、全球经济增长放缓、通胀上升以及美联储降息次数可能减少，导致市场情绪受到影响。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3285996/hong-kong-china-stocks-slide-beijing-policy-move-disappoints-amid-tariff-worries?utm_source=rss_feed</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[特朗普的减税和关税政策将使利率维持在高位，但现有业主将从他的总统任期中受益。]]></description>
       <guid>https://www.scmp.com/business/article/3285844/trump-election-good-or-bad-chinese-property-investors-us-its-mixed-bag?utm_source=rss_feed</guid>
       <pubDate>Sun, 10 Nov 2024 23:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国农民在进博会上签署大笔协议，缓解对潜在贸易战规模的担忧</title>
-      <link>https://www.scmp.com/business/china-business/article/3285954/us-farmers-sign-big-deals-ciie-expo-easing-concerns-about-size-potential-trade-war?utm_source=rss_feed</link>
-      <description><![CDATA[上海美国商会表示：“农产品是中美双边贸易的重要组成部分。”]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3285954/us-farmers-sign-big-deals-ciie-expo-easing-concerns-about-size-potential-trade-war?utm_source=rss_feed</guid>
-      <pubDate>Sun, 10 Nov 2024 22:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
