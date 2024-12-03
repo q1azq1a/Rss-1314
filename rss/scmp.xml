@@ -4,23 +4,30 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 03 Dec 2024 03:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 06:18:30 GMT</lastBuildDate>
     <item>
-      <title>英特尔首席执行官基辛格因芯片巨头落后于 Nvidia 和台积电而被迫离职</title>
+      <title>芯片之战：中国企业淡化美国新制裁，大力宣传本土供应链</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3289112/chip-war-chinese-firms-play-down-fresh-us-sanctions-tout-local-supply-chain?utm_source=rss_feed</link>
+      <description><![CDATA[新列入黑名单的 Empyrean 和 Skyverse 表示制裁影响不大，并指出他们的技术栈和国内客户都是本地的。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3289112/chip-war-chinese-firms-play-down-fresh-us-sanctions-tout-local-supply-chain?utm_source=rss_feed</guid>
+      <pubDate>Tue, 03 Dec 2024 05:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>芯片巨头落后于 Nvidia 和台积电，英特尔首席执行官基辛格被迫离职</title>
       <link>https://www.scmp.com/tech/big-tech/article/3289075/intel-ceo-gelsinger-forced-out-chip-giant-falls-behind-nvidia-tsmc?utm_source=rss_feed</link>
       <description><![CDATA[消息人士称，公司董事会已对基辛格的扭亏为盈计划失去信心，并告诉他可能会退休或被免职。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3289075/intel-ceo-gelsinger-forced-out-chip-giant-falls-behind-nvidia-tsmc?utm_source=rss_feed</guid>
       <pubDate>Tue, 03 Dec 2024 02:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>投资者等待北京出台更多支持措施，香港股市下跌</title>
+      <title>美国出台科技限制措施，投资者等待北京出台新刺激措施，香港股市波动</title>
       <link>https://www.scmp.com/business/china-business/article/3289077/hong-kong-stocks-drop-investors-wait-beijing-deliver-more-support-measures?utm_source=rss_feed</link>
-      <description><![CDATA[电动汽车制造商小鹏汽车和理想汽车领跌；中国移动在向宽带服务提供商香港宽频发出收购要约后股价下跌。]]></description>
+      <description><![CDATA[芯片制造商中芯国际因美国新的科技限制而下滑；中国移动在向宽带服务提供商香港宽频发出收购要约后股价下跌。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3289077/hong-kong-stocks-drop-investors-wait-beijing-deliver-more-support-measures?utm_source=rss_feed</guid>
       <pubDate>Tue, 03 Dec 2024 02:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国移动加入香港宽频竞购战，出价高达 10 亿美元</title>
+      <title>中国移动提出以 10 亿美元收购香港宽频，以抵御 I Squared Capital 的收购</title>
       <link>https://www.scmp.com/business/china-business/article/3289070/china-mobile-joins-bidding-war-hkbn-us882-million-offer?utm_source=rss_feed</link>
       <description><![CDATA[中国移动已获得加拿大养老金计划投资委员会和美国私募股权公司TPG的承诺，这两家公司合计持有中国移动25%的股份。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3289070/china-mobile-joins-bidding-war-hkbn-us882-million-offer?utm_source=rss_feed</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[首席执行官 Ilaria Resta 表示，该手表制造商正在整修其在香港的展厅，并在上海、北京和台北开设更多展厅。]]></description>
       <guid>https://www.scmp.com/business/article/3288964/swiss-luxury-watch-brand-audemars-piguet-makes-timely-entry-macau?utm_source=rss_feed</guid>
       <pubDate>Mon, 02 Dec 2024 07:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国新一轮芯片制裁将打击中国工具制造商，但日本和荷兰除外</title>
-      <link>https://www.scmp.com/tech/tech-war/article/3288963/new-us-chip-sanctions-hit-chinese-tool-makers-japan-netherlands-exempt?utm_source=rss_feed</link>
-      <description><![CDATA[消息人士告诉路透社，美国的新限制措施将打击二十多家半导体公司、两家投资公司和 100 多家芯片制造工具制造商。]]></description>
-      <guid>https://www.scmp.com/tech/tech-war/article/3288963/new-us-chip-sanctions-hit-chinese-tool-makers-japan-netherlands-exempt?utm_source=rss_feed</guid>
-      <pubDate>Mon, 02 Dec 2024 07:43:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
