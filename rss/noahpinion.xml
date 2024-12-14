@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺亚小派</title>
+    <title>诺亚小派尼翁</title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Sat, 14 Dec 2024 06:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 09:12:12 GMT</lastBuildDate>
+    <item>
+      <title>为什么这么多美国人表现得像一群食尸鬼？</title>
+      <link>https://www.noahpinion.blog/p/why-are-so-many-americans-acting</link>
+      <description><![CDATA[关于公共道德看似崩溃的几种理论。]]></description>
+      <guid>https://www.noahpinion.blog/p/why-are-so-many-americans-acting</guid>
+      <pubDate>Sat, 14 Dec 2024 08:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>我们如何知道特朗普是否会将美国出卖给中国</title>
       <link>https://www.noahpinion.blog/p/how-well-know-if-trump-is-going-to</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Dhaaruni Sreenivas 的客座文章。]]></description>
       <guid>https://www.noahpinion.blog/p/what-drove-asian-and-hispanic-voters</guid>
       <pubDate>Wed, 20 Nov 2024 08:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国实际上没有工人阶级</title>
-      <link>https://www.noahpinion.blog/p/america-doesnt-really-have-a-working</link>
-      <description><![CDATA[为什么在身份政治失败的情况下阶级政治也不太可能成功。]]></description>
-      <guid>https://www.noahpinion.blog/p/america-doesnt-really-have-a-working</guid>
-      <pubDate>Tue, 19 Nov 2024 07:31:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
