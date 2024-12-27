@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 27 Dec 2024 09:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 12:21:26 GMT</lastBuildDate>
+    <item>
+      <title>中国初创公司 DeepSeek 推出 AI 模型，性能超越 Meta 和 OpenAI 产品</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3292507/chinese-start-deepseek-launches-ai-model-outperforms-meta-openai-products?utm_source=rss_feed</link>
+      <description><![CDATA[DeepSeek V3模型的训练耗时两个月，耗资558万美元，使用的计算资源比其竞争对手少得多。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3292507/chinese-start-deepseek-launches-ai-model-outperforms-meta-openai-products?utm_source=rss_feed</guid>
+      <pubDate>Fri, 27 Dec 2024 10:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>中美科技战：上海力争2027年成为全球医疗人工智能中心</title>
       <link>https://www.scmp.com/tech/policy/article/3292460/us-china-tech-war-shanghai-aims-be-global-medical-ai-hub-2027?utm_source=rss_feed</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 27 Dec 2024 08:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港 11 月房价和租金出现分化，因贷款利率降低促使租户买房</title>
+      <title>香港 11 月房价和租金出现分化，贷款利率降低促使租户买房</title>
       <link>https://www.scmp.com/business/article/3292440/hong-kong-property-outlook-clouded-trump-rate-uncertainty-despite-november-price-rise?utm_source=rss_feed</link>
       <description><![CDATA[官方数据显示，11月份居住房屋价格连续第二个月小幅上涨，而租金则下降。]]></description>
       <guid>https://www.scmp.com/business/article/3292440/hong-kong-property-outlook-clouded-trump-rate-uncertainty-despite-november-price-rise?utm_source=rss_feed</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于投资者准备迎接刺激政策的有效实施，中国股市过去两个月一直处于窄幅震荡。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3292285/chinas-stocks-retreat-while-traders-await-clarity-stimulus-policies-amid-holiday-week?utm_source=rss_feed</guid>
       <pubDate>Thu, 26 Dec 2024 02:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>华为新旗舰智能手机使用韩国内存芯片，而非中国芯片</title>
-      <link>https://www.scmp.com/tech/tech-war/article/3292261/huaweis-new-flagship-smartphones-use-south-korean-memory-chips-not-chinese-ones?utm_source=rss_feed</link>
-      <description><![CDATA[拆解分析显示，虽然华为在其他手机中使用了中国的内存芯片，但 Mate 70 系列采用的是 SK 海力士的产品。]]></description>
-      <guid>https://www.scmp.com/tech/tech-war/article/3292261/huaweis-new-flagship-smartphones-use-south-korean-memory-chips-not-chinese-ones?utm_source=rss_feed</guid>
-      <pubDate>Thu, 26 Dec 2024 02:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
