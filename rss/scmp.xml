@@ -4,9 +4,23 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 06:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 09:13:34 GMT</lastBuildDate>
     <item>
-      <title>融创中国削减与北京项目相关的 9.37 亿美元违约债务成本</title>
+      <title>北京宣布向保险业注资 72 亿美元</title>
+      <link>https://www.scmp.com/business/markets/article/3296418/beijing-unveils-us72-billion-injection-insurer-capital-stocks?utm_source=rss_feed</link>
+      <description><![CDATA[中国太平洋人寿、泰康人寿和阳光人寿等公司向 A 股注入“耐心资本”，以帮助稳定市场。]]></description>
+      <guid>https://www.scmp.com/business/markets/article/3296418/beijing-unveils-us72-billion-injection-insurer-capital-stocks?utm_source=rss_feed</guid>
+      <pubDate>Mon, 27 Jan 2025 07:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国 AI 颠覆者 DeepSeek 夺得美国 App Store 榜首，取代 ChatGPT</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3296406/chinese-ai-disrupter-deepseek-claims-top-spot-us-app-store-dethroning-chatgpt?utm_source=rss_feed</link>
+      <description><![CDATA[DeepSeek 已将其推理模型集成到其聊天机器人的网络和应用程序版本中，可免费无限制使用。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3296406/chinese-ai-disrupter-deepseek-claims-top-spot-us-app-store-dethroning-chatgpt?utm_source=rss_feed</guid>
+      <pubDate>Mon, 27 Jan 2025 06:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>融创中国削减与北京项目相关的 7.15 亿美元违约债务成本</title>
       <link>https://www.scmp.com/business/article/3296403/sunac-china-cuts-costs-us937-million-defaulted-debt-linked-beijing-project?utm_source=rss_feed</link>
       <description><![CDATA[重组条款使这家中国开发商能够有效地将其年度借贷成本从 9.6% 削减至 4.12%。]]></description>
       <guid>https://www.scmp.com/business/article/3296403/sunac-china-cuts-costs-us937-million-defaulted-debt-linked-beijing-project?utm_source=rss_feed</guid>
@@ -20,9 +34,9 @@
       <pubDate>Mon, 27 Jan 2025 04:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银在国家支持措施下看到大量资金流入，中国股市上涨</title>
+      <title>瑞银在国家支持计划下看到大量资金流入，香港股市上涨</title>
       <link>https://www.scmp.com/business/china-business/article/3296385/chinese-stocks-jump-ubs-sees-big-fund-inflows-amid-state-support-measures?utm_source=rss_feed</link>
-      <description><![CDATA[在北京方面发布支持资本市场的指令后，瑞银 (UBS) 录得 2,360 亿美元的资金流入，恒生指数本月有望上涨。]]></description>
+      <description><![CDATA[瑞银估计，由于北京方面指示基金支撑资本市场，2025 年资金流入将达到 2,360 亿美元。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3296385/chinese-stocks-jump-ubs-sees-big-fund-inflows-amid-state-support-measures?utm_source=rss_feed</guid>
       <pubDate>Mon, 27 Jan 2025 02:53:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[随着国内消费支出下滑，中国消费品牌正着眼于全球市场，但关税和文化障碍可能会成为阻碍。]]></description>
       <guid>https://www.scmp.com/business/companies/article/3296120/how-make-it-america-pressures-and-pitfalls-chinese-brands-going-global?utm_source=rss_feed</guid>
       <pubDate>Sat, 25 Jan 2025 02:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>国泰航空：香港应吸取欧盟在可持续航空燃料方面的失误教训</title>
-      <link>https://www.scmp.com/business/companies/article/3296220/hong-kong-should-learn-eu-missteps-sustainable-jet-fuel-cathay-pacific?utm_source=rss_feed</link>
-      <description><![CDATA[论坛发言人表示，市政府必须谨慎设定使用目标，并向航空公司提供碳减排效益的保证。]]></description>
-      <guid>https://www.scmp.com/business/companies/article/3296220/hong-kong-should-learn-eu-missteps-sustainable-jet-fuel-cathay-pacific?utm_source=rss_feed</guid>
-      <pubDate>Sat, 25 Jan 2025 01:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国字节跳动与美国竞争对手竞相推动通用人工智能</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3296171/chinas-bytedance-race-us-rivals-drive-artificial-general-intelligence?utm_source=rss_feed</link>
-      <description><![CDATA[随着其他大型科技公司纷纷推进其人工智能计划，这家中国独角兽的 Seed Edge 计划体现了其积极的投资策略。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3296171/chinas-bytedance-race-us-rivals-drive-artificial-general-intelligence?utm_source=rss_feed</guid>
-      <pubDate>Fri, 24 Jan 2025 11:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
