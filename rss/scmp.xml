@@ -4,7 +4,21 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 30 Jan 2025 06:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:21:49 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 的 AI “蒸馏” 是盗窃吗？OpenAI 寻求中国突破的答案</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3296827/deepseeks-ai-distillation-theft-openai-seeks-answers-over-chinas-breakthrough?utm_source=rss_feed</link>
+      <description><![CDATA[专家表示，人工智能模型蒸馏可能非常普遍且难以检测，但 DeepSeek 并未承认在其完整模型上使用它。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3296827/deepseeks-ai-distillation-theft-openai-seeks-answers-over-chinas-breakthrough?utm_source=rss_feed</guid>
+      <pubDate>Thu, 30 Jan 2025 12:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国最大存储芯片制造商长鑫存储缩小与三星、海力士、美光等领先厂商的技术差距</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3296794/chinas-top-memory-chip-maker-cxmt-narrows-tech-gap-leaders-samsung-hynix-micron?utm_source=rss_feed</link>
+      <description><![CDATA[这家总部位于合肥的公司最新的 DDR5 内存芯片采用 16nm 节点工艺，突破了华盛顿试图通过制裁施加的限制。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3296794/chinas-top-memory-chip-maker-cxmt-narrows-tech-gap-leaders-samsung-hynix-micron?utm_source=rss_feed</guid>
+      <pubDate>Thu, 30 Jan 2025 09:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>蛇年：香港银行为返乡员工提供利是封、礼篮和亚洲万里通</title>
       <link>https://www.scmp.com/business/article/3296682/year-snake-hong-kong-banks-offer-lai-see-hampers-asia-miles-returning-workers?utm_source=rss_feed</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[随着 DeepSeek 的成功，人们对 Nvidia 的看法以及其先进芯片在尖端 AI 领域的需求正在发生转变，但这有道理吗？]]></description>
       <guid>https://www.scmp.com/tech/tech-trends/article/3296625/what-deepseeks-success-means-nvidia-and-costly-gpu-driven-ai-growth?utm_source=rss_feed</guid>
       <pubDate>Tue, 28 Jan 2025 13:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>大亨李泽楷将以900万美元资产重组 出售香港电子报出版商给电讯盈科</title>
-      <link>https://www.scmp.com/business/companies/article/3296618/tycoon-richard-li-sell-hkej-publisher-pccw-us9-million-asset-reshuffle?utm_source=rss_feed</link>
-      <description><![CDATA[电讯盈科将以收入的0.69倍收购这家尚未盈利的出版公司，而业内平均水平为0.64倍。]]></description>
-      <guid>https://www.scmp.com/business/companies/article/3296618/tycoon-richard-li-sell-hkej-publisher-pccw-us9-million-asset-reshuffle?utm_source=rss_feed</guid>
-      <pubDate>Tue, 28 Jan 2025 11:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>高利率迫使购房者观望，香港 12 月抵押贷款减少 21.1%</title>
-      <link>https://www.scmp.com/business/article/3296617/hong-kongs-december-mortgages-shrink-211-high-rates-drive-homebuyers-sidelines?utm_source=rss_feed</link>
-      <description><![CDATA[香港金融管理局的声明显示，上个月抵押贷款申请数量下降至6,306份，这是自9月份以来的首次下降。]]></description>
-      <guid>https://www.scmp.com/business/article/3296617/hong-kongs-december-mortgages-shrink-211-high-rates-drive-homebuyers-sidelines?utm_source=rss_feed</guid>
-      <pubDate>Tue, 28 Jan 2025 10:48:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
