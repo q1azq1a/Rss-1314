@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 31 Jan 2025 12:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 15:11:41 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 中断加剧了政治审查带来的成长烦恼，但一些人看到了机会</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3296975/deepseek-outage-adds-growing-pains-amid-political-scrutiny-some-see-opportunity?utm_source=rss_feed</link>
+      <description><![CDATA[由于 Nvidia 等第三方大力推广自托管解决方案，这家中国人工智能初创企业遭受的网络攻击导致其系统连续数天出现间歇性中断。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3296975/deepseek-outage-adds-growing-pains-amid-political-scrutiny-some-see-opportunity?utm_source=rss_feed</guid>
+      <pubDate>Fri, 31 Jan 2025 13:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>中国初创公司宇树认为人形机器人将在未来十年得到广泛的商业应用</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3296895/chinese-start-unitree-sees-humanoid-robots-wide-commercial-use-decade?utm_source=rss_feed</link>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 30 Jan 2025 12:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>中国最大存储芯片制造商长鑫存储缩小与三星、海力士、美光等领先厂商的技术差距</title>
+      <title>中国顶级存储芯片制造商 CXMT 缩小与三星、海力士、美光等领先企业的技术差距</title>
       <link>https://www.scmp.com/tech/tech-war/article/3296794/chinas-top-memory-chip-maker-cxmt-narrows-tech-gap-leaders-samsung-hynix-micron?utm_source=rss_feed</link>
       <description><![CDATA[这家总部位于合肥的公司最新的 DDR5 内存芯片采用 16nm 节点工艺，突破了华盛顿试图通过制裁施加的限制。]]></description>
       <guid>https://www.scmp.com/tech/tech-war/article/3296794/chinas-top-memory-chip-maker-cxmt-narrows-tech-gap-leaders-samsung-hynix-micron?utm_source=rss_feed</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[电动汽车公司去年的交付量有所下降，这增加了其推出低价车型的压力。]]></description>
       <guid>https://www.scmp.com/news/article/3296753/tesla-commits-cheaper-cars-first-half-sees-autonomous-vehicles-wild-soon?utm_source=rss_feed</guid>
       <pubDate>Thu, 30 Jan 2025 01:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴推出新 AI 模型，称其表现优于中国最热门的初创公司 DeepSeek</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3296737/alibaba-launches-new-ai-model-targeting-rival-deepseek-chinas-hottest-start?utm_source=rss_feed</link>
-      <description><![CDATA[阿里巴巴宣称，其新的 Qwen 2.5-Max AI 模型在某些基准测试中“全面超越”了 DeepSeek-V3。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3296737/alibaba-launches-new-ai-model-targeting-rival-deepseek-chinas-hottest-start?utm_source=rss_feed</guid>
-      <pubDate>Wed, 29 Jan 2025 15:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
