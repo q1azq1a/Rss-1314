@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 09:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 12:20:04 GMT</lastBuildDate>
+    <item>
+      <title>科技战争：华为云部门为 DeepSeek 模型提供支持，助力中国实现 AI 自主</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3297070/tech-war-huawei-cloud-unit-powers-deepseek-models-chinas-bid-ai-autonomy?utm_source=rss_feed</link>
+      <description><![CDATA[华为云部门与北京的人工智能基础设施初创公司 SiliconFlow 合作，向最终用户提供这些模型。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3297070/tech-war-huawei-cloud-unit-powers-deepseek-models-chinas-bid-ai-autonomy?utm_source=rss_feed</guid>
+      <pubDate>Sun, 02 Feb 2025 11:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>今年中国将有 1500 万辆新电动汽车配备自动驾驶功能</title>
       <link>https://www.scmp.com/business/china-business/article/3297060/15-million-new-chinese-evs-have-self-driving-features-year?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于 Nvidia 等第三方大力推广自托管解决方案，这家中国人工智能初创企业遭受的网络攻击导致其系统连续数天出现间歇性中断。]]></description>
       <guid>https://www.scmp.com/tech/tech-war/article/3296975/deepseek-outage-adds-growing-pains-amid-political-scrutiny-some-see-opportunity?utm_source=rss_feed</guid>
       <pubDate>Fri, 31 Jan 2025 13:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国初创公司宇树认为人形机器人将在未来十年得到广泛的商业应用</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3296895/chinese-start-unitree-sees-humanoid-robots-wide-commercial-use-decade?utm_source=rss_feed</link>
-      <description><![CDATA[Unitree 预测到 2026 年人形机器人的能力将取得突破，届时预计将出现更多明确的商业用途。]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3296895/chinese-start-unitree-sees-humanoid-robots-wide-commercial-use-decade?utm_source=rss_feed</guid>
-      <pubDate>Fri, 31 Jan 2025 10:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
