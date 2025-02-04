@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 04 Feb 2025 12:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:12:24 GMT</lastBuildDate>
+    <item>
+      <title>芯片股大跌，人工智能初创公司 DeepSeek 的“真实”成本和计算能力引发争议</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3297337/ai-start-deepseeks-real-costs-and-computing-power-debated-chip-stocks-reel?utm_source=rss_feed</link>
+      <description><![CDATA[创立 DeepSeek 的对冲基金在 GPU 上投入巨资，这让一些人在承认创新的同时，对该公司的真实支出产生了怀疑。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3297337/ai-start-deepseeks-real-costs-and-computing-power-debated-chip-stocks-reel?utm_source=rss_feed</guid>
+      <pubDate>Tue, 04 Feb 2025 13:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>小米市值突破 1 万亿港元，电动汽车业务前景看好</title>
       <link>https://www.scmp.com/business/article/3297336/xiaomi-market-value-tops-hk1-trillion-amid-bullish-view-ev-business?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于 DeepSeek 采用开源方式，专家们对中国在人工智能领域赶超美国的速度进行了评估。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3297190/worlds-top-ai-brains-debate-if-deepseeks-model-game-changer?utm_source=rss_feed</guid>
       <pubDate>Mon, 03 Feb 2025 13:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>继微软、亚马逊和华为之后，阿里巴巴在云上推出 DeepSeek</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3297209/alibaba-offers-deepseek-cloud-service-after-microsoft-amazon-and-huawei?utm_source=rss_feed</link>
-      <description><![CDATA[阿里云用户可以登录其 PAI 模型库，其中可以找到 DeepSeek 的最新模型以及这些产品的“精简”版本。]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3297209/alibaba-offers-deepseek-cloud-service-after-microsoft-amazon-and-huawei?utm_source=rss_feed</guid>
-      <pubDate>Mon, 03 Feb 2025 12:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
