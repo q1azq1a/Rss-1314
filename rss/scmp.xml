@@ -4,7 +4,49 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 06:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:13:52 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴更新后的 Qwen AI 模型在聊天机器人排名中超越了 DeepSeek 的 V3</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3297435/alibabas-updated-qwen-ai-model-overtakes-deepseeks-v3-chatbot-ranking?utm_source=rss_feed</link>
+      <description><![CDATA[阿里云的 Qwen2.5-Max 在 Chatbot Arena 中排名第七，击败排名第九的 DeepSeek-V3，但落后于排名第三的 DeepSeek-R1。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3297435/alibabas-updated-qwen-ai-model-overtakes-deepseeks-v3-chatbot-ranking?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 09:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉、小鹏汽车通过保险和贷款补贴重新点燃中国电动汽车价格战</title>
+      <link>https://www.scmp.com/business/china-business/article/3297449/tesla-xpeng-reignite-china-ev-price-war-insurance-and-loan-subsidies?utm_source=rss_feed</link>
+      <description><![CDATA[为了响应比亚迪12月份的降价举措，特斯拉和小鹏汽车将于2月份推出汽车保险和贷款折扣优惠。]]></description>
+      <guid>https://www.scmp.com/business/china-business/article/3297449/tesla-xpeng-reignite-china-ev-price-war-insurance-and-loan-subsidies?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 08:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>据日经新闻报道，日产将退出与本田的历史性合作</title>
+      <link>https://www.scmp.com/business/companies/article/3297448/nissan-bow-out-historic-tie-honda-nikkei-reports?utm_source=rss_feed</link>
+      <description><![CDATA[两家公司一直在就合并条款进行谈判，根据该协议，本田将吸收合并日产，并于 2026 年将两个品牌纳入一家控股公司旗下。]]></description>
+      <guid>https://www.scmp.com/business/companies/article/3297448/nissan-bow-out-historic-tie-honda-nikkei-reports?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 07:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国保持人民币兑美元稳定：对贸易战意味着什么</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3297440/china-keeps-yuan-stable-against-us-dollar-what-it-means-trade-war?utm_source=rss_feed</link>
+      <description><![CDATA[中国可以允许人民币贬值以抵消美国关税对该国出口的影响，但迄今为止中国拒绝这样做。]]></description>
+      <guid>https://www.scmp.com/economy/china-economy/article/3297440/china-keeps-yuan-stable-against-us-dollar-what-it-means-trade-war?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 07:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>三明治连锁店 Eggslut 在零售业动荡中结束香港业务</title>
+      <link>https://www.scmp.com/business/article/3297434/sandwich-chain-eggsluts-hong-kong-affair-ends-amid-retail-upheaval?utm_source=rss_feed</link>
+      <description><![CDATA[随着消费模式的转变，美国三明治连锁店也加入到众多品牌的行列，发现香港的零售环境充满挑战。]]></description>
+      <guid>https://www.scmp.com/business/article/3297434/sandwich-chain-eggsluts-hong-kong-affair-ends-amid-retail-upheaval?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 07:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>小米市值 1 万亿港元，中国新款汽车配备自动驾驶功能：5 大电动汽车解读</title>
+      <link>https://www.scmp.com/business/china-evs/article/3297419/xiaomis-hk1-trillion-market-value-self-driving-features-new-chinese-cars-5-ev-reads?utm_source=rss_feed</link>
+      <description><![CDATA[从小米市值突破 1 万亿港元到中国新款汽车的自动驾驶功能，以下是五个您可能错过的电动汽车故事。]]></description>
+      <guid>https://www.scmp.com/business/china-evs/article/3297419/xiaomis-hk1-trillion-market-value-self-driving-features-new-chinese-cars-5-ev-reads?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 07:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 的视频生成工具 Sora 因数据和劳动力问题遭遇好莱坞抵制</title>
       <link>https://www.scmp.com/tech/big-tech/article/3297402/openais-video-generation-tool-sora-sees-hollywood-resistance-amid-data-labour-concerns?utm_source=rss_feed</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[该公司以 Good me 品牌销售，发行 1.586 亿股股票，发行价区间为每股 8.68 港元至 9.94 港元。]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3297306/chinese-bubble-tea-giant-guming-targets-us200-million-hong-kong-ipo?utm_source=rss_feed</guid>
       <pubDate>Tue, 04 Feb 2025 09:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普关税推动金价创下新高，因投资者寻求避风港</title>
-      <link>https://www.scmp.com/economy/global-economy/article/3297307/trump-tariffs-push-gold-prices-record-high-investors-seek-safe-haven?utm_source=rss_feed</link>
-      <description><![CDATA[投资者对潜在全球贸易战的担忧导致金价飙升至前所未有的水平。]]></description>
-      <guid>https://www.scmp.com/economy/global-economy/article/3297307/trump-tariffs-push-gold-prices-record-high-investors-seek-safe-haven?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 08:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的数字美元禁令为人民币打开大门</title>
-      <link>https://www.scmp.com/opinion/world-opinion/article/3297187/trumps-digital-dollar-ban-opens-door-chinas-yuan?utm_source=rss_feed</link>
-      <description><![CDATA[美国总统决定停止CBDC的发展，可能会无意中加速去美元化趋势，为人民币国际化铺平道路。]]></description>
-      <guid>https://www.scmp.com/opinion/world-opinion/article/3297187/trumps-digital-dollar-ban-opens-door-chinas-yuan?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 08:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国开发商远洋地产的债务计划获英国法院批准</title>
-      <link>https://www.scmp.com/business/china-business/article/3297288/chinese-developer-sino-oceans-debt-plan-wins-court-approval-uk?utm_source=rss_feed</link>
-      <description><![CDATA[这一结果可能为该公司本月晚些时候在香港的一场清算诉讼中获胜铺平道路。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3297288/chinese-developer-sino-oceans-debt-plan-wins-court-approval-uk?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 07:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>关税和利率走势令买家不安，香港房地产销售跌至四个月低点</title>
-      <link>https://www.scmp.com/business/article/3297285/hong-kong-property-sales-slip-4-month-low-tariffs-interest-rate-path-unnerved-buyers?utm_source=rss_feed</link>
-      <description><![CDATA[由于买家面临地缘政治紧张局势和降息放缓等影响，1 月份住宅、商业地产和停车位交易量有所下降。]]></description>
-      <guid>https://www.scmp.com/business/article/3297285/hong-kong-property-sales-slip-4-month-low-tariffs-interest-rate-path-unnerved-buyers?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 06:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普关税后中国对谷歌启动反垄断调查</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3297282/china-launches-antitrust-probe-google-response-trump-tariffs?utm_source=rss_feed</link>
-      <description><![CDATA[在美国征收 10% 的关税后，国家市场监管总局对这家互联网搜索巨头展开了调查。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3297282/china-launches-antitrust-probe-google-response-trump-tariffs?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 06:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>港股受人工智能主题推动上涨，希望中美关税缓和</title>
-      <link>https://www.scmp.com/business/markets/article/3297246/hong-kong-stocks-jump-hope-us-china-tariff-resolution?utm_source=rss_feed</link>
-      <description><![CDATA[一位分析师表示，市场参与者“渴望美国继续与中国谈判的机会”。]]></description>
-      <guid>https://www.scmp.com/business/markets/article/3297246/hong-kong-stocks-jump-hope-us-china-tariff-resolution?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 02:17:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
