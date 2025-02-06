@@ -4,7 +4,14 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 06 Feb 2025 12:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:12:40 GMT</lastBuildDate>
+    <item>
+      <title>由于人工智能模型与 ChatGPT 的受欢迎程度不相上下，DeepSeek 暂停账户充值</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3297668/deepseek-halts-account-top-ups-ai-models-rival-chatgpts-popularity?utm_source=rss_feed</link>
+      <description><![CDATA[这家中国初创企业的最新人工智能模型的需求激增，似乎已经超出了其服务器的容量。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3297668/deepseek-halts-account-top-ups-ai-models-rival-chatgpts-popularity?utm_source=rss_feed</guid>
+      <pubDate>Thu, 06 Feb 2025 14:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>瑞银：大多数亚太企业家认为人工智能将推动增长</title>
       <link>https://www.scmp.com/business/article/3297663/most-asia-pacific-entrepreneurs-see-ai-driving-growth-ubs?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[分析人士表示，虽然直接影响有限，但中国可能会根据与美国的谈判进展情况升级行动。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3297518/chinas-antitrust-probe-google-seen-warning-shot-us-android-target?utm_source=rss_feed</guid>
       <pubDate>Wed, 05 Feb 2025 14:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国跨境商家考虑提价以抵消美国关税和运费</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3297512/chinas-cross-border-merchants-mull-price-hikes-offset-us-tariffs-shipping-fees?utm_source=rss_feed</link>
-      <description><![CDATA[美国加征新关税并取消最低限度豁免后，中国商人面临新的挑战。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3297512/chinas-cross-border-merchants-mull-price-hikes-offset-us-tariffs-shipping-fees?utm_source=rss_feed</guid>
-      <pubDate>Wed, 05 Feb 2025 13:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
