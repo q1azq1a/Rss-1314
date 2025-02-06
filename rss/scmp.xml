@@ -4,7 +4,21 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:55:20 GMT</lastBuildDate>
+    <item>
+      <title>人工智能公司加大招聘力度，DeepSeek 吸引中国年轻求职者</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3297509/deepseek-attracts-chinas-young-jobseekers-ai-firm-ramps-recruitment?utm_source=rss_feed</link>
+      <description><![CDATA[这家位于杭州的初创企业已经开放了数十个与通用人工智能研究和开发相关的职位。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3297509/deepseek-attracts-chinas-young-jobseekers-ai-firm-ramps-recruitment?utm_source=rss_feed</guid>
+      <pubDate>Thu, 06 Feb 2025 00:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国外贸银行：中国必须将可再生能源投资重点从发电转向配电</title>
+      <link>https://www.scmp.com/business/article/3297508/china-must-refocus-renewable-energy-investment-distribution-generation-natixis?utm_source=rss_feed</link>
+      <description><![CDATA[法国外贸银行表示，中国的电力设备行业需要将投资重点转向存储和配电基础设施。]]></description>
+      <guid>https://www.scmp.com/business/article/3297508/china-must-refocus-renewable-energy-investment-distribution-generation-natixis?utm_source=rss_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 23:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>中国对谷歌的反垄断调查被视为对美国的警告，目标是安卓</title>
       <link>https://www.scmp.com/tech/big-tech/article/3297518/chinas-antitrust-probe-google-seen-warning-shot-us-android-target?utm_source=rss_feed</link>
@@ -85,7 +99,7 @@
     <item>
       <title>OpenAI 的视频生成工具 Sora 因数据和劳动力问题遭遇好莱坞抵制</title>
       <link>https://www.scmp.com/tech/big-tech/article/3297402/openais-video-generation-tool-sora-sees-hollywood-resistance-amid-data-labour-concerns?utm_source=rss_feed</link>
-      <description><![CDATA[OpenAI 花了数月时间与迪士尼和华纳兄弟等业内最大的工作室进行谈判，但在 2023 年劳工罢工后面临着艰难的推销。]]></description>
+      <description><![CDATA[OpenAI 花了数月时间与迪士尼和华纳兄弟等业内最大的工作室进行谈判，但在 2023 年劳工罢工之后面临着艰难的推销。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3297402/openais-video-generation-tool-sora-sees-hollywood-resistance-amid-data-labour-concerns?utm_source=rss_feed</guid>
       <pubDate>Wed, 05 Feb 2025 05:00:15 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[由于 DeepSeek 效应吸引投资者，科技股表现出色。]]></description>
       <guid>https://www.scmp.com/business/markets/article/3297387/chinese-stocks-lose-ground-hong-kong-and-mainland-amid-tariff-uncertainty?utm_source=rss_feed</guid>
       <pubDate>Wed, 05 Feb 2025 02:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 与特朗普关税：蛇年中国市场将如何反应？</title>
-      <link>https://www.scmp.com/business/banking-finance/article/3297343/deepseek-vs-trump-tariffs-how-will-chinas-markets-react-year-snake?utm_source=rss_feed</link>
-      <description><![CDATA[蛇年伊始，投资者可能会谨慎行事，等待习近平与特朗普会谈的结果。]]></description>
-      <guid>https://www.scmp.com/business/banking-finance/article/3297343/deepseek-vs-trump-tariffs-how-will-chinas-markets-react-year-snake?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 23:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技战争：中国芯片公司拥抱 DeepSeek，推动 AI 自给自足</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3297346/tech-war-chinas-chip-firms-embrace-deepseek-ai-self-sufficiency-drive?utm_source=rss_feed</link>
-      <description><![CDATA[从Moore Threads到Iluvatar Corex，中国领先的芯片设计商正竞相采用DeepSeek的最新模型。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3297346/tech-war-chinas-chip-firms-embrace-deepseek-ai-self-sufficiency-drive?utm_source=rss_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 23:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
