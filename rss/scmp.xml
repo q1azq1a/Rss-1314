@@ -4,7 +4,21 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 15:15:39 GMT</lastBuildDate>
+    <item>
+      <title>香港维权投资者因患癌症关闭韦伯网站数据平台</title>
+      <link>https://www.scmp.com/business/article/3298427/hong-kong-activist-investor-shut-webb-site-data-platform-amid-battle-cancer?utm_source=rss_feed</link>
+      <description><![CDATA[经纪行业资深人士汤姆·陈 (Tom Chan) 表示，投资者将会怀念大卫·韦伯 (David Webb) 的信息网站。]]></description>
+      <guid>https://www.scmp.com/business/article/3298427/hong-kong-activist-investor-shut-webb-site-data-platform-amid-battle-cancer?utm_source=rss_feed</guid>
+      <pubDate>Wed, 12 Feb 2025 13:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国借助 DeepSeek 进军 Nvidia CUDA 生态系统</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3298331/deepseek-china-moves-take-nvidias-cuda-ecosystem?utm_source=rss_feed</link>
+      <description><![CDATA[中国芯片制造商竞相支持 DeepSeek 的热门人工智能模型，助力中国减少对美国技术的依赖。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3298331/deepseek-china-moves-take-nvidias-cuda-ecosystem?utm_source=rss_feed</guid>
+      <pubDate>Wed, 12 Feb 2025 13:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek 震撼科技市场，OpenAI 首席执行官 Sam Altman 表示“希望与中国合作”</title>
       <link>https://www.scmp.com/tech/big-tech/article/3298396/openai-keen-work-china-ceo-sam-altman-says-deepseek-rattles-tech-market?utm_source=rss_feed</link>
@@ -64,7 +78,7 @@
     <item>
       <title>古明股份出售后，中国米雪寻求在香港 IPO 融资 5 亿美元</title>
       <link>https://www.scmp.com/business/banking-finance/article/3298325/chinas-mixue-seeks-us500-million-hong-kong-ipo-after-gumings-successful-debut?utm_source=rss_feed</link>
-      <description><![CDATA[据报道，内地最大的珍珠奶茶制造商计划本月晚些时候启动 IPO，并于 3 月初上市。]]></description>
+      <description><![CDATA[据报道，内地最大的珍珠奶茶制造商计划于本月晚些时候启动 IPO，并于 3 月初上市。]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3298325/chinas-mixue-seeks-us500-million-hong-kong-ipo-after-gumings-successful-debut?utm_source=rss_feed</guid>
       <pubDate>Wed, 12 Feb 2025 05:19:16 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[这家美国科技巨头希望阿里巴巴的 Qwen AI 模型能够弥补中国 iPhone 上 Apple Intelligence 的损失。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3298282/alibaba-pairs-apple-develop-ai-features-china-iphones-sources?utm_source=rss_feed</guid>
       <pubDate>Tue, 11 Feb 2025 15:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>受中美贸易紧张局势影响，芯片制造商中芯国际 2024 年利润将暴跌 45%</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3298276/chipmaker-smic-posts-45-profit-slump-2024-amid-us-china-trade-tensions?utm_source=rss_feed</link>
-      <description><![CDATA[中国最大的半导体制造商去年的年利润达到 4.927 亿美元，低于 2023 年的 9.025 亿美元。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3298276/chipmaker-smic-posts-45-profit-slump-2024-amid-us-china-trade-tensions?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Feb 2025 13:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>CATL 申请在香港发售股票，或将成为香港自 2021 年以来规模最大的 IPO</title>
-      <link>https://www.scmp.com/business/china-business/article/3298273/chinas-ev-battery-king-catl-files-hong-kong-ipo-plan-fund-global-expansion?utm_source=rss_feed</link>
-      <description><![CDATA[据称，这家全球最大电动汽车电池制造商的这笔巨额交易价值 50 亿美元，将成为快手 2021 年 1 月 IPO 以来最大的一笔交易。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3298273/chinas-ev-battery-king-catl-files-hong-kong-ipo-plan-fund-global-expansion?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Feb 2025 13:10:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
