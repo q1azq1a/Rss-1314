@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Sun, 16 Feb 2025 06:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 09:10:53 GMT</lastBuildDate>
+    <item>
+      <title>腾讯测试DeepSeek将中国最热门的AI技术添加到其Weixin Super App中</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3298883/tencent-testing-deepseek-add-chinas-hottest-ai-technology-its-weixin-super-app?utm_source=rss_feed</link>
+      <description><![CDATA[除了Tencent的Hunyuan基础模型外，Beta用户还可以单击Weixin中的“ AI搜索”选项以访问DeepSeek。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3298883/tencent-testing-deepseek-add-chinas-hottest-ai-technology-its-weixin-super-app?utm_source=rss_feed</guid>
+      <pubDate>Sun, 16 Feb 2025 08:03:33 GMT</pubDate>
+    </item>
     <item>
       <title>香港的EMPF改革的下一阶段将于3月与更多提供商开始，增强功能</title>
       <link>https://www.scmp.com/business/article/3298648/next-phase-hong-kongs-empf-reform-start-march-more-providers-enhancements?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[政府于2023年将该阴谋投入了市场，但当竞标被判断为不知所措时，它撤回了它。]]></description>
       <guid>https://www.scmp.com/business/article/3298750/sun-hung-kai-sino-land-among-4-hong-kong-developers-bidding-tung-chung-plot?utm_source=rss_feed</guid>
       <pubDate>Fri, 14 Feb 2025 10:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek Masturs Baidu，其他AI竞争对手采用开源战略</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3298739/deepseek-spurs-baidu-other-ai-competitors-adopt-open-source-strategy?utm_source=rss_feed</link>
-      <description><![CDATA[百度周五表示，下一代的Ernie大语言模型将从6月30日开始开源。]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3298739/deepseek-spurs-baidu-other-ai-competitors-adopt-open-source-strategy?utm_source=rss_feed</guid>
-      <pubDate>Fri, 14 Feb 2025 10:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
