@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 27 Feb 2025 15:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 00:57:19 GMT</lastBuildDate>
+    <item>
+      <title>香港拥抱RISC-V开源芯片设计，以确保中国半导体的位置</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3300391/hong-kong-embraces-risc-v-open-source-chip-design-secure-spot-china-semiconductors?utm_source=rss_feed</link>
+      <description><![CDATA[在中国一系列以RISC-V为重点的会议中，香港正在促进开源芯片标准的研究。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3300391/hong-kong-embraces-risc-v-open-source-chip-design-secure-spot-china-semiconductors?utm_source=rss_feed</guid>
+      <pubDate>Thu, 27 Feb 2025 23:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称</title>
       <link>https://www.scmp.com/business/banking-finance/article/3300437/hsbc-cutting-900-staff-china-digital-wealth-unit-pinnacle-sources-say?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024年的净利润增长了10％，达到130亿港元（17亿美元），在处理市场交易和新股票上市的费用较高的支持下。]]></description>
       <guid>https://www.scmp.com/business/companies/article/3300317/hong-kong-bourse-operator-hkex-reports-record-annual-profit-surging-turnover-ipos?utm_source=rss_feed</guid>
       <pubDate>Thu, 27 Feb 2025 04:24:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着技术驱动的拉力降低，香港股票的贸易趋势下降</title>
-      <link>https://www.scmp.com/business/markets/article/3300305/hong-kong-stocks-fluctuate-volatile-trading-tech-driven-rally-calms-down?utm_source=rss_feed</link>
-      <description><![CDATA[投资者准备下周密切关注全国人民代表大会。]]></description>
-      <guid>https://www.scmp.com/business/markets/article/3300305/hong-kong-stocks-fluctuate-volatile-trading-tech-driven-rally-calms-down?utm_source=rss_feed</guid>
-      <pubDate>Thu, 27 Feb 2025 02:46:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
