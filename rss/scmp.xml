@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:13:13 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴的研究部门推出了新的RISC-V处理器，用于高性能计算</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3300584/alibabas-research-arm-launches-new-risc-v-processor-high-performance-computing?utm_source=rss_feed</link>
+      <description><![CDATA[达莫学院宣布了其新的服务器级C930，以及包括AI加速的未来Xuantie芯片的计划。]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3300584/alibabas-research-arm-launches-new-risc-v-processor-high-performance-computing?utm_source=rss_feed</guid>
+      <pubDate>Fri, 28 Feb 2025 13:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>IBM裁员和收入下降后关闭了中国研究部门</title>
       <link>https://www.scmp.com/tech/big-tech/article/3300579/ibm-shuts-china-research-arm-after-lay-offs-and-revenue-decline?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大型科技公司的量子硬件的最新公告表明，计算的形式可能会在未来几年解决真正的问题。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3300464/amazon-web-services-unveils-ocelot-quantum-computing-chip-after-google-microsoft?utm_source=rss_feed</guid>
       <pubDate>Fri, 28 Feb 2025 03:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普升级的中国关税威胁从香港股票中消除了160亿美元</title>
-      <link>https://www.scmp.com/business/china-business/article/3300462/hong-kong-stocks-slide-most-2-months-trump-escalates-china-tariff-threat?utm_source=rss_feed</link>
-      <description><![CDATA[交易者会因担心美国和特朗普政府的关税而担心根深蒂固的通货膨胀的担忧。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3300462/hong-kong-stocks-slide-most-2-months-trump-escalates-china-tariff-threat?utm_source=rss_feed</guid>
-      <pubDate>Fri, 28 Feb 2025 02:31:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
