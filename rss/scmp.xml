@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 15:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 01:01:22 GMT</lastBuildDate>
+    <item>
+      <title>专家说</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3300608/chinas-ma-deals-rise-decade-low-deepseek-ai-spur-interest-experts-say?utm_source=rss_feed</link>
+      <description><![CDATA[普华永道在报告中说，M＆amp; 2024年巨型贸易量减少了16％至10年低点。]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3300608/chinas-ma-deals-rise-decade-low-deepseek-ai-spur-interest-experts-say?utm_source=rss_feed</guid>
+      <pubDate>Sat, 01 Mar 2025 00:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴的研究部门推出了新的RISC-V处理器，用于高性能计算</title>
       <link>https://www.scmp.com/tech/tech-war/article/3300584/alibabas-research-arm-launches-new-risc-v-processor-high-performance-computing?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当中国初创企业DeepSeek引发了全国性的疯狂，在各个行业中采用AI时，才能成为人才的争夺。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3300497/alibaba-begins-spring-hiring-3000-internship-roles-focused-ai?utm_source=rss_feed</guid>
       <pubDate>Fri, 28 Feb 2025 05:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Web Services揭示了Google之后的Ocelot量子计算芯片，Microsoft</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3300464/amazon-web-services-unveils-ocelot-quantum-computing-chip-after-google-microsoft?utm_source=rss_feed</link>
-      <description><![CDATA[大型科技公司的量子硬件的最新公告表明，计算的形式可能会在未来几年解决真正的问题。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3300464/amazon-web-services-unveils-ocelot-quantum-computing-chip-after-google-microsoft?utm_source=rss_feed</guid>
-      <pubDate>Fri, 28 Feb 2025 03:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
