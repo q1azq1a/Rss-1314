@@ -4,7 +4,28 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 03 Mar 2025 09:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 12:24:01 GMT</lastBuildDate>
+    <item>
+      <title>中国制造的未来：UBTECH机器人技术在汽车工厂中部署了第一个类人动物“团队”</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3300872/future-made-china-ubtech-robotics-deploys-first-humanoid-team-car-factory?utm_source=rss_feed</link>
+      <description><![CDATA[UBTECH表示，已完成一项测试，将其数十个Walker S1机器人部署在中国港口城市宁波的Zeekr EV工厂中。]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3300872/future-made-china-ubtech-robotics-deploys-first-humanoid-team-car-factory?utm_source=rss_feed</guid>
+      <pubDate>Mon, 03 Mar 2025 12:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>BYD启动股票销售，以筹集高达50亿美元，这是其最大的IPO后筹款活动</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3300869/byd-launches-share-sale-raise-us5-billion-its-biggest-post-ipo-fundraising?utm_source=rss_feed</link>
+      <description><![CDATA[该汽车制造商将利用股份放置的收益进行研发和海外扩张。]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3300869/byd-launches-share-sale-raise-us5-billion-its-biggest-post-ipo-fundraising?utm_source=rss_feed</guid>
+      <pubDate>Mon, 03 Mar 2025 11:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek的小型文科毕业生如何改变中国的AI文字一代</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3300820/deepseeks-small-team-liberal-arts-graduates-transforms-ai-text-generation-china?utm_source=rss_feed</link>
+      <description><![CDATA[前员工和行业专家说，DeepSeek的AI魔法在于其独特的文学专业知识和高级算法的融合。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3300820/deepseeks-small-team-liberal-arts-graduates-transforms-ai-text-generation-china?utm_source=rss_feed</guid>
+      <pubDate>Mon, 03 Mar 2025 10:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴的开源sora sora般的AI视频模型高于第三方排名</title>
       <link>https://www.scmp.com/tech/big-tech/article/3300834/alibabas-open-source-sora-ai-video-model-tops-third-party-rankings?utm_source=rss_feed</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[香港是该银行实现其目标在未来五年内积累2000亿美元净新款的目标的关键市场。]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3300603/standard-chartered-open-6th-hong-kong-wealth-centre-increase-headcount-mary-huen?utm_source=rss_feed</guid>
       <pubDate>Mon, 03 Mar 2025 00:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着香港IPO复兴，中国消费者的股票又重新获得了青睐</title>
-      <link>https://www.scmp.com/business/markets/article/3300726/chinese-consumer-stocks-are-back-favour-mixue-rides-hong-kong-ipo-revival?utm_source=rss_feed</link>
-      <description><![CDATA[根据DeepSeek的一位Hang Seng Yardstick的说法，今年消费者的股票今年获得了23％的收益，这帮助了更广泛的市场重新评估。]]></description>
-      <guid>https://www.scmp.com/business/markets/article/3300726/chinese-consumer-stocks-are-back-favour-mixue-rides-hong-kong-ipo-revival?utm_source=rss_feed</guid>
-      <pubDate>Sun, 02 Mar 2025 23:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>荣誉揭晓100亿美元的投资，以推动智能手机和平板电脑的AI升级</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3300662/honor-unveils-us10-billion-investment-drive-ai-upgrade-smartphones-tablets?utm_source=rss_feed</link>
-      <description><![CDATA[首席执行官James Li Jian说，华为衍生产品的目标从智能手机制造商转变为专注于AI设备的生态系统公司。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3300662/honor-unveils-us10-billion-investment-drive-ai-upgrade-smartphones-tablets?utm_source=rss_feed</guid>
-      <pubDate>Sun, 02 Mar 2025 23:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek显示了V3，R1模型的功率，具有545％的利润率</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3300734/deepseek-shows-power-v3-r1-models-theoretical-545-profit-margin?utm_source=rss_feed</link>
-      <description><![CDATA[理论利润率基于24小时的运行，由于价格较低，非高峰折扣和免费使用选择，实际收入可能会较低。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3300734/deepseek-shows-power-v3-r1-models-theoretical-545-profit-margin?utm_source=rss_feed</guid>
-      <pubDate>Sun, 02 Mar 2025 10:15:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
