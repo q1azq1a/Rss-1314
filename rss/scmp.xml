@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 03:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 06:17:44 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴吹捧AI型号比DeepSeek，OpenAi产品更好，驱动股票激增</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3301254/alibaba-touts-ai-model-better-deepseek-openai-products-driving-stock-surge?utm_source=rss_feed</link>
+      <description><![CDATA[阿里巴巴说，其QWQ-32B AI模型在使用更少的资源时，在编码和解决问题方面的R1优于DeepSeek的R1。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3301254/alibaba-touts-ai-model-better-deepseek-openai-products-driving-stock-surge?utm_source=rss_feed</guid>
+      <pubDate>Thu, 06 Mar 2025 05:17:53 GMT</pubDate>
+    </item>
     <item>
       <title>香港股票跃升至3年高，消除了中国刺激的贸易战争损失希望</title>
       <link>https://www.scmp.com/business/china-business/article/3301228/hong-kong-stocks-jump-3-year-high-erasing-trade-war-loss-china-stimulus-hopes?utm_source=rss_feed</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 05 Mar 2025 23:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>开源模型和新鲜资金：中国的AI初创企业争夺DeepSeek</title>
+      <title>开源模型和新资金：中国的AI初创企业争夺DeepSeek</title>
       <link>https://www.scmp.com/tech/big-tech/article/3301184/open-source-models-and-fresh-funding-chinas-ai-start-ups-scramble-respond-deepseek?utm_source=rss_feed</link>
       <description><![CDATA[总部位于杭州的DeepSeek以牺牲了Moonshot和Minimax等当地同行为代价，在中国的AI竞技场中占据了人们的关注。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3301184/open-source-models-and-fresh-funding-chinas-ai-start-ups-scramble-respond-deepseek?utm_source=rss_feed</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[CK Hutchison表示，它将在包括巴拿马在内的23个国家 /地区的43个港口出售80％的股份，但不包括中国大陆和香港。]]></description>
       <guid>https://www.scmp.com/business/article/3301104/ck-hutchisons-surprise-sale-global-ports-sends-stock-surging-amid-unfolding-trade-war?utm_source=rss_feed</guid>
       <pubDate>Wed, 05 Mar 2025 04:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>CK和Hutchison领导香港的股票激增，因为中国的NPC在贸易战争中打开</title>
-      <link>https://www.scmp.com/business/china-business/article/3301087/ck-hutchison-leads-rise-hong-kong-stocks-chinas-npc-opens-trade-war-jitters-ease?utm_source=rss_feed</link>
-      <description><![CDATA[CK同意出售价值230亿美元的资产，包括巴拿马运河附近的港口。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3301087/ck-hutchison-leads-rise-hong-kong-stocks-chinas-npc-opens-trade-war-jitters-ease?utm_source=rss_feed</guid>
-      <pubDate>Wed, 05 Mar 2025 02:27:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
