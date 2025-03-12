@@ -4,7 +4,21 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 12 Mar 2025 00:57:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 03:22:09 GMT</lastBuildDate>
+    <item>
+      <title>元测试由TSMC生产的首先内部AI培训芯片，以减少对NVIDIA的依赖</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3302015/meta-tests-first-house-ai-training-chip-produced-tsmc-cut-reliance-nvidia?utm_source=rss_feed</link>
+      <description><![CDATA[Facebook所有者目前是NVIDIA最大的客户之一，它积累了GPU的武器库来培训AI模型。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3302015/meta-tests-first-house-ai-training-chip-produced-tsmc-cut-reliance-nvidia?utm_source=rss_feed</guid>
+      <pubDate>Wed, 12 Mar 2025 02:51:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着贸易紧张局势，全球银行保持看涨，香港股票摇摆</title>
+      <link>https://www.scmp.com/business/china-business/article/3302013/hong-kong-stocks-fluctuate-global-banks-stay-bullish-amid-trade-tensions?utm_source=rss_feed</link>
+      <description><![CDATA[作为花旗集团（Citigroup），高盛（Goldman）对当地市场的看法，香港的股票在收益和损失之间摆动。]]></description>
+      <guid>https://www.scmp.com/business/china-business/article/3302013/hong-kong-stocks-fluctuate-global-banks-stay-bullish-amid-trade-tensions?utm_source=rss_feed</guid>
+      <pubDate>Wed, 12 Mar 2025 02:47:31 GMT</pubDate>
+    </item>
     <item>
       <title>全球银行认为中国股票集会的上涨空间是国际首都“旋转”</title>
       <link>https://www.scmp.com/business/china-business/article/3301974/global-banks-see-upside-chinese-stock-rally-international-capital-rotates?utm_source=rss_feed</link>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 11 Mar 2025 14:36:53 GMT</pubDate>
     </item>
     <item>
-      <title>在价格战镇压下，中国的新能源部门面临“淘汰赛”</title>
+      <title>在Price War Crickdown的情况下</title>
       <link>https://www.scmp.com/economy/china-economy/article/3301947/chinas-new-energy-sector-faces-elimination-contest-amid-price-war-crackdown?utm_source=rss_feed</link>
       <description><![CDATA[随着北京誓言夺走过度竞争，中国的电动汽车品牌超过四分之三可能会消失。]]></description>
       <guid>https://www.scmp.com/economy/china-economy/article/3301947/chinas-new-energy-sector-faces-elimination-contest-amid-price-war-crackdown?utm_source=rss_feed</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[基于Vision Pro耳机的软件，新设计可能会有助于恢复对苹果iPhone的需求。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3301873/apple-prepares-major-interface-revamp-iphone-ipad-and-mac-new-generation-users?utm_source=rss_feed</guid>
       <pubDate>Tue, 11 Mar 2025 03:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港股票在亚洲市场上滑倒，纳斯达克面临着衰退风险的加剧</title>
-      <link>https://www.scmp.com/business/china-business/article/3301863/hong-kong-stocks-slip-asian-markets-nasdaq-heightened-recession-risks?utm_source=rss_feed</link>
-      <description><![CDATA[在纳斯达克100索引美国最大的科技公司中，区域市场在一夜之间售罄后滑倒。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3301863/hong-kong-stocks-slip-asian-markets-nasdaq-heightened-recession-risks?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Mar 2025 02:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alibaba.com的目标是商人在2025年在全球扩张驱动器中采用100％AI</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3301817/alibabacom-targets-100-ai-adoption-merchants-2025-global-expansion-drive?utm_source=rss_feed</link>
-      <description><![CDATA[阿里巴巴国际批发市场总裁张孔（Zhang Kuo）预计，AI计划可以帮助卖方和买家在平台上。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3301817/alibabacom-targets-100-ai-adoption-merchants-2025-global-expansion-drive?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
