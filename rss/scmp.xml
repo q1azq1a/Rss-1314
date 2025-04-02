@@ -4,7 +4,14 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 02 Apr 2025 09:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 12:26:13 GMT</lastBuildDate>
+    <item>
+      <title>消息人士称</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3304935/alibabas-qwen3-ai-model-coming-month-sources-say-bid-cement-industry-lead?utm_source=rss_feed</link>
+      <description><![CDATA[QWEN模型家族的最新升级将包括Experts版本的混合物，而移动设备的参数仅为6亿。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3304935/alibabas-qwen3-ai-model-coming-month-sources-say-bid-cement-industry-lead?utm_source=rss_feed</guid>
+      <pubDate>Wed, 02 Apr 2025 10:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>小米车祸引发了人们的关注，byd再次击败特斯拉：7 ev读</title>
       <link>https://www.scmp.com/business/china-evs/article/3304734/xiaomi-car-crash-sparks-concerns-byd-beats-tesla-again-7-ev-reads?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[电信行业退伍军人的提升反映了中兴通讯在2025年通过其AI策略恢复其命运的努力。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3304789/chinas-zte-names-fang-rong-chairman-amid-ai-pivot-revenue-drop?utm_source=rss_feed</guid>
       <pubDate>Tue, 01 Apr 2025 13:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>小米在致命的坠机事故中与警察合作，涉及SU7 EV的自动驾驶功能</title>
-      <link>https://www.scmp.com/business/china-business/article/3304794/xiaomi-cooperate-police-after-fatal-crash-involving-su7-evs-self-driving-feature?utm_source=rss_feed</link>
-      <description><![CDATA[公司表示，它将驾驶数据和相关操作信息提交给警察，并深深地遗憾这场悲剧。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3304794/xiaomi-cooperate-police-after-fatal-crash-involving-su7-evs-self-driving-feature?utm_source=rss_feed</guid>
-      <pubDate>Tue, 01 Apr 2025 12:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
