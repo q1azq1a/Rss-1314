@@ -3,8 +3,16 @@
   <channel>
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed/1</link>
-    <description></description>
-    <lastBuildDate>Thu, 31 Jul 2025 18:23:01 GMT</lastBuildDate>
+    <description>获取最新的公司，市场和商业新闻和分析。</description>
+    <lastBuildDate>Thu, 31 Jul 2025 21:14:25 GMT</lastBuildDate>
+    <item>
+      <title>消息人士称，华盛顿与印度的贸易谈判停滞不前。</title>
+      <link>https://www.scmp.com/news/us/economy-trade-business/article/3320346/washington-trade-talks-india-have-stalled-sources-say?utm_source=rss_feed</link>
+      <description><![CDATA[根据熟悉此事的两个消息来源，美国印度贸易谈判似乎已经停滞不前，因为双方仍然不愿意妥协印度的农业和乳制品市场向美国产品开放。
+在美国总统唐纳德·特朗普（Donald Trump）周三宣布，他将对来自该国进口的进口征收25％的关税，预计印度方面将访问。但是，印度谈判人员将不会在8月中旬来华盛顿，作为他们上次会议的计划后续活动...]]></description>
+      <guid>https://www.scmp.com/news/us/economy-trade-business/article/3320346/washington-trade-talks-india-have-stalled-sources-say?utm_source=rss_feed</guid>
+      <pubDate>Thu, 31 Jul 2025 20:55:55 GMT</pubDate>
+    </item>
     <item>
       <title>巴西授予Byd豁免免税，但不久就没有寻求</title>
       <link>https://www.scmp.com/news/china/article/3320341/brazil-grants-byd-exemption-ev-tariff-hike-not-long-sought?utm_source=rss_feed</link>
@@ -39,9 +47,9 @@
       <pubDate>Thu, 31 Jul 2025 10:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>美国上诉法院对特朗普关税局的信号表示怀疑</title>
+      <title>美国上诉法院对特朗普关税授权的信号表示怀疑</title>
       <link>https://www.scmp.com/news/us/diplomacy/article/3320203/court-washington-hear-arguments-legality-trump-reciprocal-tariffs?utm_source=rss_feed</link>
-      <description><![CDATA[联邦上诉法院仅远离白宫，周四表示，美国总统唐纳德·特朗普的关税是否合法，而代表政府的律师表示，美国司法机构缺乏审查这种“酌处权”行动的权力。
+      <description><![CDATA[联邦上诉法院仅远离白宫的一步，表明周四对美国总统唐纳德·特朗普的关税是否合法，而代表政府的律师表示，美国司法机构缺乏审查此类“酌情”行动的权力。
 美国在华盛顿联邦巡回上诉法院的所有11名活跃法官（由民主党总统任命的8名和共和党政府任命的）均听到了高风险...]]></description>
       <guid>https://www.scmp.com/news/us/diplomacy/article/3320203/court-washington-hear-arguments-legality-trump-reciprocal-tariffs?utm_source=rss_feed</guid>
       <pubDate>Thu, 31 Jul 2025 09:00:15 GMT</pubDate>
@@ -119,15 +127,6 @@
 COMEX小组于周三开会，预计将做出决定...]]></description>
       <guid>https://www.scmp.com/news/article/3320197/brazil-debates-tariff-break-byd-opponents-warning-lay-offs-and-investment-freeze?utm_source=rss_feed</guid>
       <pubDate>Wed, 30 Jul 2025 19:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>CATL帖子34％的利润增长，无视薄弱的全球电动汽车需求</title>
-      <link>https://www.scmp.com/business/china-evs/article/3320185/catl-posts-34-profit-growth-defying-weak-global-ev-demand-and-geopolitical-uncertainties?utm_source=rss_feed</link>
-      <description><![CDATA[全球最大的电动汽车（EV）电池制造商当代安培技术（CATL）在香港成功股票销售后，第二季度的净利润增长了，以资助其全球扩张。
-截至6月的三个月，该公司的净利润一年增至165亿元人民币（23亿美元），超过了市场的估计。这是3月季度增长32.9％。
-第二季度收入增长了8.3％，达到942亿元人民币，...]]></description>
-      <guid>https://www.scmp.com/business/china-evs/article/3320185/catl-posts-34-profit-growth-defying-weak-global-ev-demand-and-geopolitical-uncertainties?utm_source=rss_feed</guid>
-      <pubDate>Wed, 30 Jul 2025 15:18:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
