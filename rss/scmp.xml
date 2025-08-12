@@ -4,13 +4,39 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 12 Aug 2025 06:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 09:17:22 GMT</lastBuildDate>
+    <item>
+      <title>华为的新算法可以减少中国对外国记忆筹码的依赖</title>
+      <link>https://www.scmp.com/tech/tech-war/article/3321578/tech-war-huawei-unveils-algorithm-could-cut-chinas-reliance-foreign-memory-chips?utm_source=rss_feed</link>
+      <description><![CDATA[华为技术已经揭示了一种软件工具，旨在加速大型人工智能模型的推断，这一进步可以帮助中国减少对昂贵的高带宽内存（HBM）芯片的依赖。
+Unified Cache Manager（UCM）是一种算法，可根据不同类型的记忆的延迟要求分配数据（包括超快速HBM，标准动态随机访问内存和固态驱动器），从而提高推理效率，...]]></description>
+      <guid>https://www.scmp.com/tech/tech-war/article/3321578/tech-war-huawei-unveils-algorithm-could-cut-chinas-reliance-foreign-memory-chips?utm_source=rss_feed</guid>
+      <pubDate>Tue, 12 Aug 2025 09:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>码头上半年的利润随着香港奢侈品市场抵消大陆困扰</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3321559/wharf-posts-first-half-profit-hong-kong-luxury-property-market-offsets-mainland-woes?utm_source=rss_feed</link>
+      <description><![CDATA[香港开发商码头（Holdings）在上半年获得了盈利，并获得了较低的借贷成本和该市奢侈品住房市场的回收率，从而抵消了中国大陆业务需求较弱的需求。
+根据周二提交给香港证券交易所的文件，可归因于股权股东的利润为5.35亿港元（6820万美元），股价为26.4亿港元。
+基本的净利润，对公司业务运营的反映...]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3321559/wharf-posts-first-half-profit-hong-kong-luxury-property-market-offsets-mainland-woes?utm_source=rss_feed</guid>
+      <pubDate>Tue, 12 Aug 2025 07:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国通过具有里程碑意义的Fortescue贷款推广其货币加速的推动力</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3321546/chinas-push-promote-its-currency-accelerates-landmark-fortescue-loan?utm_source=rss_feed</link>
+      <description><![CDATA[中国在促进全球货币使用方面的努力已经通过了另一个里程碑，澳大利亚金属巨头Fortescue同意通过中国最大的国有银行安排的一项联合贷款协议借用创纪录的142亿元人民币（19.8亿美元）。
+中国首席编曲银行在周二的一份声明中说，这笔交易是向澳大利亚公司的第一份离岸人民币联合贷款，也是有史以来最大的非中国公司的贷款。
+fortescue  - 世界...]]></description>
+      <guid>https://www.scmp.com/economy/china-economy/article/3321546/chinas-push-promote-its-currency-accelerates-landmark-fortescue-loan?utm_source=rss_feed</guid>
+      <pubDate>Tue, 12 Aug 2025 07:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>由于投资者专注于经济数据，收益</title>
       <link>https://www.scmp.com/business/china-business/article/3321514/hong-kong-stocks-trade-sideways-investors-focus-economic-data-earnings?utm_source=rss_feed</link>
       <description><![CDATA[周二，贸易商超越了美国关税暂停延期以关注经济数据和收入，香港股票的交易范围狭窄。
-中午休息时，Hang Seng指数将0.1％提高到24,929.34。 Hang Seng Tech指数下降了0.4％。在大陆上，CSI 300指数和上海综合指数至少上涨0.5％。
-汽车经销商中兴集团（Qhongsheng Group）跃升了5％，达到14.41港元，而BYD Electronic International Advanced 4.1％，至HK $ 40.26。 jd.com ...]]></description>
+Hang Seng指数高出0.3％，为24,969.68。 Hang Seng Tech指数下降了0.4％。在大陆上，CSI 300指数和上海综合指数都上涨了0.5％。
+汽车经销商方山集团（Qhongsheng Group）跃升了4％，达到14.27港元，半导体制造业国际涨价为5％，至HK $ 51.15。 JD.com添加...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3321514/hong-kong-stocks-trade-sideways-investors-focus-economic-data-earnings?utm_source=rss_feed</guid>
       <pubDate>Tue, 12 Aug 2025 02:35:44 GMT</pubDate>
     </item>
@@ -34,7 +60,7 @@
     <item>
       <title>特朗普确认“前所未有的”协议，让Nvidia向中国出售低端筹码</title>
       <link>https://www.scmp.com/news/china/diplomacy/article/3321498/trump-confirms-he-made-deal-nvidia-chief-let-tech-company-sell-chips-china?utm_source=rss_feed</link>
-      <description><![CDATA[美国总统唐纳德·特朗普（Donald Trump）周一表示，他亲自与NVIDIA首席执行官詹森黄（Jensen Huang）进行了协议，让这家技术巨头在中国出售了一个低端筹码，以换取部分支付给美国政府的销售收入中的一部分。
+      <description><![CDATA[美国总统唐纳德·特朗普（Donald Trump）周一表示，他亲自与NVIDIA首席执行官詹森·黄（Jensen Huang）进行了协议，让这家技术巨头在中国出售了一个低端筹码，以换取部分销售收入向美国政府支付的收入。
 特朗普没有排除类似的交易，涉及公司最高科技芯片的不太工资版本，称黄是“杰出的人”。
 《金融时报》于周日首次报道了这项非常不寻常的交易。
 安排来了...]]></description>
@@ -107,32 +133,6 @@ A2-W  - 设计用于诸如加载，卸载和运输等任务--...]]></description
 市政政府周五表示，北京居留权的家庭以及那些在纽约市内缴纳社会保险和个人所得税的家庭将被允许在第五圈道之外购买新的和二手房屋，...]]></description>
       <guid>https://www.scmp.com/business/article/3321434/china-property-shanghai-shenzhen-could-drop-buying-curbs-after-surprise-beijing-move?utm_source=rss_feed</guid>
       <pubDate>Mon, 11 Aug 2025 07:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA的H20芯片中的怀疑声在中国越来越大</title>
-      <link>https://www.scmp.com/tech/tech-war/article/3321411/nvidias-h20-chips-face-growing-chinese-distrust-over-alleged-back-doors-15-revenue-deal?utm_source=rss_feed</link>
-      <description><![CDATA[在公司同意向美国政府支付15％的收入，美国芯片巨头NVIDIA在中国对H20芯片的不信任越来越不信任。
-周日，中国州媒体媒体将NVIDIA的H20芯片标记为不安全，并敦促中国买家抵制为中国市场设计的人工智能处理器。
-尽管Nvidia反复否认“后门”漏洞，但Yuyuan Tantian ...]]></description>
-      <guid>https://www.scmp.com/tech/tech-war/article/3321411/nvidias-h20-chips-face-growing-chinese-distrust-over-alleged-back-doors-15-revenue-deal?utm_source=rss_feed</guid>
-      <pubDate>Mon, 11 Aug 2025 05:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着美国 - 中国关税截止日期迫在眉睫的柔和交易的上升</title>
-      <link>https://www.scmp.com/business/china-business/article/3321400/hong-kong-stocks-dip-us-china-tariff-deadline-and-alibaba-tencent-results?utm_source=rss_feed</link>
-      <description><![CDATA[在美国 - 中国关税截止日期和中国最大的技术公司的收益到期之前，香港的股票交易在周一被征服。
-在收益和损失之间波动的悬挂式指数波动，然后在24,906.81上关闭0.2％。 Hang Seng Tech指数几乎没有变化。在大陆上，CSI 300指数和上海综合指数至少上涨0.3％。
-BYD Electronic International跃升了6.2％，至38.68港元，Xinyi Solar Holdings ...]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3321400/hong-kong-stocks-dip-us-china-tariff-deadline-and-alibaba-tencent-results?utm_source=rss_feed</guid>
-      <pubDate>Mon, 11 Aug 2025 02:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港作家路易斯·查的作品构成了中国下一个AAA视频游戏的基础</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3321304/hong-kong-author-louis-chas-novels-form-basis-chinas-next-aaa-video-game?utm_source=rss_feed</link>
-      <description><![CDATA[人工智能和视频游戏公司CreateAi希望在其全球著名的香港武术小说小说家路易斯·查恩（Louis Cha Leung-Yung-Yung）的全球权利上发展中国的下一个大片AAA冠军，也被称为“ Jin Yong”。
-Createai（以前称为自动驾驶汽车公司Tusimple），旨在使Jin Yong的英雄“是市场上最大的三级三级，开放世界的角色扮演游戏（RPG）”，总裁兼首席执行官Lu Cheng告诉《南方中国早晨》 ...]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3321304/hong-kong-author-louis-chas-novels-form-basis-chinas-next-aaa-video-game?utm_source=rss_feed</guid>
-      <pubDate>Mon, 11 Aug 2025 02:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
