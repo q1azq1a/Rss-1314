@@ -4,7 +4,24 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 18 Sep 2025 12:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 15:15:42 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴将开源AI代理发布给竞争对手Openai的深入研究</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3326015/alibaba-releases-open-source-ai-agent-rival-openais-flagship-deep-research?utm_source=rss_feed</link>
+      <description><![CDATA[阿里巴巴集团控股公司（Alibaba Group Holding）推出了“领先的开源深度研究”人工智能代理商，它说与Openai的旗舰深度研究工具的性能相匹配，同时又更加有效。
+根据阿里巴巴AI AI搜索开发团队Tongyi Lab的博客文章，该代理商已被整合到阿里巴巴的地图应用程序AMAP及其AI驱动的法律研究工具Tongyi Farui。阿里巴巴拥有南中国晨报。
+AMAP的用户可以利用深入的研究...]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3326015/alibaba-releases-open-source-ai-agent-rival-openais-flagship-deep-research?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Sep 2025 13:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的绿色能源边缘如何塑造未来</title>
+      <link>https://www.scmp.com/opinion/china-opinion/article/3325719/how-chinas-green-energy-edge-puts-it-position-shape-future?utm_source=rss_feed</link>
+      <description><![CDATA[一个世纪前，温斯顿·丘吉尔（Winston Churchill）决定将皇家海军从煤炭到石油定义的英国海事至高无上的决定。目前，国家是投资于新兴能源技术还是对传统技术的一倍来定义谁指挥下一个能源时代。
+当今的能源过渡是根深蒂固的化石能力与可再生挑战者的技术和地缘政治竞赛。随着过渡的加速，我们目睹了如何...]]></description>
+      <guid>https://www.scmp.com/opinion/china-opinion/article/3325719/how-chinas-green-energy-edge-puts-it-position-shape-future?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Sep 2025 12:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>更多的香港人对消耗退休金的储蓄感到焦虑：调查</title>
       <link>https://www.scmp.com/business/banking-finance/article/3326028/more-hongkongers-feel-anxious-about-using-their-savings-retirement-mckinsey-survey?utm_source=rss_feed</link>
@@ -111,23 +128,6 @@ Hang Seng指数在关闭时下降了1.4％，至26,554.85，此后跃升至最�
 列宁坚持认为，这些指控是前总统拉斐尔·科雷亚（Rafael Correa）精心策划的政治仇杀，在政府的政府下，有争议的可口可乐辛克莱水力发电厂是...]]></description>
       <guid>https://www.scmp.com/news/china/article/3325917/ex-ecuador-president-calls-bribery-case-over-belt-and-road-dam-farce?utm_source=rss_feed</guid>
       <pubDate>Wed, 17 Sep 2025 16:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA首席执行官说，他对中国报道的芯片路缘感到失望</title>
-      <link>https://www.scmp.com/tech/tech-war/article/3325904/nvidia-ceo-jensen-huang-says-he-disappointed-chinas-reported-chip-curbs?utm_source=rss_feed</link>
-      <description><![CDATA[NVIDIA的首席执行官面临着在贸易和技术争夺战中将其筹码出售给中国的严格限制，他对这种情况感到失望。
-詹森·黄（Jensen Huang）表示，他希望在英国政府主持的州宴会上与美国总统唐纳德·特朗普（Donald Trump）讨论这个问题，他们将在周三晚上参加。
-总部位于加利福尼亚州圣克拉拉（Santa Clara）是世界上最有价值的公司的Nvidia，仅限于出口到中国最先进的筹码，...]]></description>
-      <guid>https://www.scmp.com/tech/tech-war/article/3325904/nvidia-ceo-jensen-huang-says-he-disappointed-chinas-reported-chip-curbs?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Sep 2025 13:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>CCTV报告显示</title>
-      <link>https://www.scmp.com/tech/tech-war/article/3325894/tech-war-alibaba-developed-ai-processor-par-nvidias-h20-chip-cctv-report-shows?utm_source=rss_feed</link>
-      <description><![CDATA[根据州广播公司中国中央电视台（CCTV）的一份报告，阿里巴巴集团控股公司的半导体设计单元T-head已开发了一种与NVIDIA的H20图形处理单元（GPU）相当的人工智能芯片。
-该报告于周二播出，显示了T-head的PPU，这是一个特定于申请的集成电路，与NVIDIA的H20和A800 GPU进行了绩效基准中的NVIDIA的H20和A800 GPU，在总理Li Qiang访问了...的数据中心期间。]]></description>
-      <guid>https://www.scmp.com/tech/tech-war/article/3325894/tech-war-alibaba-developed-ai-processor-par-nvidias-h20-chip-cctv-report-shows?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Sep 2025 13:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
