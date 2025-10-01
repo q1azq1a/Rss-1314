@@ -4,7 +4,15 @@
     <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 30 Sep 2025 12:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:07:47 GMT</lastBuildDate>
+    <item>
+      <title>Baidu支持的药物发现初创企业BioMap挑战Google的Alphafold</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3327390/baidu-backed-drug-discovery-start-biomap-challenges-googles-alphafold?utm_source=rss_feed</link>
+      <description><![CDATA[BioMAP是Baidu创始人Robin Li Yanhong共同建立并得到香港政府的支持的生物技术初创企业，他说，它已经超过了字母的子公司Alphafold在商业化人工智能基金会模型中用于药物发现。
+BioMap的联合创始人兼首席执行官Wei Liu兼BAIDU Ventures前首席执行官Wei Liu在接受《南方中国早晨》采访时说，跨国制药公司在生物局和Alphafold之间的技术差距中看到了“反向” ...]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3327390/baidu-backed-drug-discovery-start-biomap-challenges-googles-alphafold?utm_source=rss_feed</guid>
+      <pubDate>Tue, 30 Sep 2025 23:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>签证测试预先资助的稳定签署用于跨境支付</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3327411/visa-tests-pre-funded-stablecoins-cross-border-payments?utm_source=rss_feed</link>
@@ -124,14 +132,6 @@ Hoi于1月加入阿里巴巴，担任其智能信息平台的首席科学家，�
 三年白银债券的总申请是政府最新发行500亿港元（64亿美元）的两倍。投资者在发行期间以985.2亿港元的债券提交了373,000港，该债券在下午2点结束了...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3327274/hong-kongs-silver-bonds-attract-record-demand-senior-citizens?utm_source=rss_feed</guid>
       <pubDate>Mon, 29 Sep 2025 13:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的DeepSeek揭开其AI基础模型的实验版本</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3327255/chinas-deepseek-unveils-experimental-version-its-v3-ai-model-national-day-holiday?utm_source=rss_feed</link>
-      <description><![CDATA[中国人工智能初创公司DeepSeek在该国国庆假期之前推出了其V3基金会模型的“实验性”版本，因为这家总部位于杭州的公司加速了其产品发行。
-周一，DeepSeek发布了V3.2-Exp，并在拥抱Face和Alibaba Group Holding Bask Modelscope的开发人员平台上开了开源。根据DeepSeek的说法，该模型增强了培训和推理效率，同时通过...降低应用程序编程的接口成本。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3327255/chinas-deepseek-unveils-experimental-version-its-v3-ai-model-national-day-holiday?utm_source=rss_feed</guid>
-      <pubDate>Mon, 29 Sep 2025 13:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
