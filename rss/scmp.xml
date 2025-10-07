@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>业务 - 南中国早晨</title>
+    <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 06 Oct 2025 15:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 01:00:34 GMT</lastBuildDate>
+    <item>
+      <title>香港市场的连接器角色不仅在中国大陆：CITIC BOSS</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3328010/hong-kong-markets-connector-role-not-just-mainland-china-citic-boss-says?utm_source=rss_feed</link>
+      <description><![CDATA[在Capital Connectors系列中，对六名有影响力的中国和全球银行家的独家访谈揭示了香港作为国际金融中心的发展的机遇和挑战。
+当泰国椰子水品牌IFBH于6月在香港的一份股票上筹集了11.6亿港元（1.49亿美元）时，该交易唯一的赞助商Citic Securities International的董事长兼首席执行官Li Chunbo将其视为东南亚的另一份清单。
+世界的...]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3328010/hong-kong-markets-connector-role-not-just-mainland-china-citic-boss-says?utm_source=rss_feed</guid>
+      <pubDate>Tue, 07 Oct 2025 00:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国正在为私人公司起草一项新的5年计划。他们会感觉到爱吗？</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3328026/china-planning-5-year-honeymoon-its-private-firms-will-they-feel-love?utm_source=rss_feed</link>
+      <description><![CDATA[随着中国的第15五年计划（在一系列广泛的蓝图中的下一个条目，在超过七十年的时间里为该国的发展树立了基调 - 我们研究了这些文件如何告知和反映高级政策优先事项，在即将到来的迭代中的期望以及私营部门的期望以及私营部门是否会获得支持企业家的支持水平。
+有关此正在进行的系列中的更多故事，请单击此处。在第15个五年计划中查看SCMP加上factsheets ...]]></description>
+      <guid>https://www.scmp.com/economy/china-economy/article/3328026/china-planning-5-year-honeymoon-its-private-firms-will-they-feel-love?utm_source=rss_feed</guid>
+      <pubDate>Mon, 06 Oct 2025 22:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>中国的Kuaishou与“ NSFW” AI同伴一起吸引了海外用户</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328023/chinas-kuaishou-lures-overseas-users-nsfw-ai-companions?utm_source=rss_feed</link>
@@ -17,7 +34,7 @@ Kuaishou上个月通过其新加坡单元Symphony Tech正式推出了其AI伴侣
       <title>腾讯的AI Image模型在排行榜中击败了Google的纳米香蕉</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328003/tencents-ai-model-hunyuan-image-30-tops-leaderboard-beating-googles-nano-banana?utm_source=rss_feed</link>
       <description><![CDATA[根据主要的公众排行榜，Tencent Holdings的新人工智能模型Hunyuan Image 3.0超过了Google Deepmind的“纳米香蕉”，作为开源和封闭产品的主要图像生成模型。
-截至周六，开源的Hunyuan Image 3.0在LMARENA上获得了文本到图像排名的最高位置，Lmarena是一个最初由加利福尼亚大学伯克利分校研究人员创立的AI模型评估平台。
+截至周六，开源的Hunyuan Image 3.0在LMARENA上获得了文本到图像排名的最高位置，Lmarena是AI模型评估平台最初由加利福尼亚大学伯克利分校的研究人员创立的。
 以前的领导者 -  Google ...]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3328003/tencents-ai-model-hunyuan-image-30-tops-leaderboard-beating-googles-nano-banana?utm_source=rss_feed</guid>
       <pubDate>Mon, 06 Oct 2025 10:00:15 GMT</pubDate>
@@ -69,9 +86,9 @@ Hang Seng指数下跌0.7％，至26,957.77，削减了上周记录的3.9％的�
     <item>
       <title>小米与中国定制的豪华电动汽车接管保时捷</title>
       <link>https://www.scmp.com/business/china-business/article/3327944/xiaomi-takes-porsche-customised-luxury-evs-china?utm_source=rss_feed</link>
-      <description><![CDATA[在赢得该国的中产阶级车手时，中国汽车制造商已经击败了西方竞争对手。现在，他们正在为希望为汽车增加一点额外的富裕客户而来。
-小米上个月开始了一项服务，该服务将允许买家自定义其529,900元（74,000美元）的SU7 Ultra Racer电动轿车，带有精选的装饰和油漆工作 - 将至少100,000元的人添加到标价中。
-一位主要的智能手机设计师正在快速使用它的...]]></description>
+      <description><![CDATA[在赢得中国中产阶级司机的青睐方面，中国汽车制造商已经击败了西方竞争对手。现在，他们的目标是希望为自己的汽车增添一些额外功能的富有客户。
+小米上个月推出了一项服务，允许买家定制其价值 529,900 元（74,000 美元）的 SU7 Ultra 赛车电动轿车，并进行精选的装饰和喷漆工作 - 比标价至少增加 100,000 元。
+一家主要的智能手机设计师正在凭借其...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3327944/xiaomi-takes-porsche-customised-luxury-evs-china?utm_source=rss_feed</guid>
       <pubDate>Mon, 06 Oct 2025 01:36:33 GMT</pubDate>
     </item>
@@ -87,9 +104,9 @@ Hang Seng指数下跌0.7％，至26,957.77，削减了上周记录的3.9％的�
     <item>
       <title>瑞银中国负责人说，香港是中国新财务思想的发射台</title>
       <link>https://www.scmp.com/business/banking-finance/article/3327765/hong-kong-strengthens-role-chinas-financial-springboard-says-ubs-china-chief?utm_source=rss_feed</link>
-      <description><![CDATA[在第一个由六部分组成的系列赛的第一部分中，关于充当中国大陆资本连接的金融家，瑞银证券（UBS Securities）主席珍妮丝·胡（Janice Hu）谈到了香港作为国际金融枢纽的发展的机遇和挑战。
-随着北京将远离美国的贸易和投资重新调整，香港再次被击中，作为中国全球野心的发射台。
-今年城市和大陆之间的跨境流动激增...]]></description>
+      <description><![CDATA[在关于作为中国大陆与世界资本桥梁的金融家的六部分系列的第一部分中，瑞银证券董事长胡珍妮谈论了香港在发展为国际金融中心过程中面临的机遇和挑战。
+随着北京重新调整贸易和投资，远离美国，香港再次成为中国全球野心的发射台。
+今年香港与内地之间的跨境流动激增...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3327765/hong-kong-strengthens-role-chinas-financial-springboard-says-ubs-china-chief?utm_source=rss_feed</guid>
       <pubDate>Mon, 06 Oct 2025 00:30:11 GMT</pubDate>
     </item>
@@ -97,7 +114,7 @@ Hang Seng指数下跌0.7％，至26,957.77，削减了上周记录的3.9％的�
       <title>香港Bolsters绿色金融枢纽的角色，带有新的全球建筑证书</title>
       <link>https://www.scmp.com/business/banking-finance/article/3327913/hong-kong-strengthens-green-finance-hub-role-new-global-building-certificates?utm_source=rss_feed</link>
       <description><![CDATA[香港绿色建筑委员会最近开始为海外建筑物颁发国际证书，预计这将使更多的国际开发商能够为可持续项目获得当地资金，从而促进了该市作为区域绿色金融枢纽的作用。
-该理事会是一个致力于促进环保结构发展的非营利组织，该机构已将其建筑环境评估方法（Beam）和认证计划扩展到国外市场。
+该理事会是一个致力于促进环保结构发展的非营利组织，该机构已将其建筑环境评估方法（Beam）加上认证计划扩展到国外市场。
 这...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3327913/hong-kong-strengthens-green-finance-hub-role-new-global-building-certificates?utm_source=rss_feed</guid>
       <pubDate>Sun, 05 Oct 2025 23:30:09 GMT</pubDate>
@@ -118,23 +135,6 @@ Investopia Global的香港论坛的官员和业务负责人制定了一本务实
 官员和公司老板认为，消费者活力在猛mm象中国市场上的恢复会使世界第二大经济体变成，当大量人口...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3327830/china-looks-silver-economy-women-eco-consciousness-spur-consumer-spending?utm_source=rss_feed</guid>
       <pubDate>Sun, 05 Oct 2025 05:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港托运人Wah Kwong加入了港口的绿色能源</title>
-      <link>https://www.scmp.com/business/climate-and-energy/article/3327764/hong-kong-shipper-wah-kwong-joins-push-greener-energy-ports?utm_source=rss_feed</link>
-      <description><![CDATA[香港航运公司Wah Kwong Maritime Transport已与欧洲合作伙伴合作，在中国和北亚建立了供应供电的供应项目，以从港口收紧港口的排放法规中获取机会。
-Wah Kwong上个月与Natpower Marine成立了50-50合资企业，Natpower Marine是海上能源运输项目的开发商，这是位于卢森堡的可再生能源公司Natpower Group的一部分。
-该合资企业旨在建立合作伙伴关系以建立和运营网格连接...]]></description>
-      <guid>https://www.scmp.com/business/climate-and-energy/article/3327764/hong-kong-shipper-wah-kwong-joins-push-greener-energy-ports?utm_source=rss_feed</guid>
-      <pubDate>Sun, 05 Oct 2025 03:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>品牌住宅的兴起以及为什么香港是一个异常值</title>
-      <link>https://www.scmp.com/business/article/3327839/disney-versace-and-nadal-rise-branded-residences-and-why-hong-kong-outlier?utm_source=rss_feed</link>
-      <description><![CDATA[喜欢生活在白雪公主和以七矮人为主题的社区中？受到豪华时装屋Versace影响的豪华公寓怎么样？如果那不是您的事，那么网球传奇人物拉斐尔·纳达尔（Rafael Nadal）批准的豪华居所呢？
-品牌住宅物业 - 隶属于著名的国际侯爵（International Marques）并与开发商合作建立的项目 - 继续由酒店品牌主导，因为购房者更喜欢从那些人那里获得相同的便利设施或服务。]]></description>
-      <guid>https://www.scmp.com/business/article/3327839/disney-versace-and-nadal-rise-branded-residences-and-why-hong-kong-outlier?utm_source=rss_feed</guid>
-      <pubDate>Sun, 05 Oct 2025 01:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
