@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>业务 - 南中国早晨</title>
+    <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 08 Oct 2025 03:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 06:21:03 GMT</lastBuildDate>
     <item>
-      <title>华尔街撤退，人工智能泡沫担忧加剧，香港股市下跌</title>
+      <title>时尚品牌新趋势：开设咖啡馆带动门店客流量</title>
+      <link>https://www.scmp.com/business/article/3328190/new-trend-among-fashion-brands-setting-cafes-drive-store-traffic?utm_source=rss_feed</link>
+      <description><![CDATA[随着零售业慢慢恢复，香港的商业物业景观已经出现了新趋势：非食品和饮料（F＆amp; b）品牌正在转向休闲用餐，以吸引年轻的消费者并获得更多的房屋。
+日本服装零售商Uniqlo去年在Taikoo Shing的翻新CityPlaza店里铺平了一些空间，而美国豪华品牌Ralph Lauren则通过在TSIM的Harbor City等高端购物中心开设独立的Ralph的咖啡店，进一步发展了。]]></description>
+      <guid>https://www.scmp.com/business/article/3328190/new-trend-among-fashion-brands-setting-cafes-drive-store-traffic?utm_source=rss_feed</guid>
+      <pubDate>Wed, 08 Oct 2025 04:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着华尔街静修会随着AI泡沫的恐惧的增长，香港股票下降</title>
       <link>https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=rss_feed</link>
-      <description><![CDATA[香港股票周三下跌，跟踪华尔街从纪录高点撤退，因为人们越来越担心人工智能繁荣可能已经过热并冒着变成泡沫的风险。
-截至当地时间上午11点，Hang Seng指数下降了0.9％，至26,711.89。 Hang Seng Tech指数损失了0.9％。大陆的证券交易所已关闭，度过了为期一周的公共假期，并将在周四重新开放。
-搜索引擎领导人百度（Baidu）下跌4.1％，至$ 133.50，而...]]></description>
+      <description><![CDATA[由于人们越来越担心人工智能热潮可能过热并有可能变成泡沫，香港股市周三下跌，跟随华尔街从历史高位回落。
+午盘休市时，恒生指数下跌 1.1%，至 26,669.99 点。恒生科技指数下跌 1.1%。内地证券交易所因为期一周的公众假期休市，将于周四重新开放。
+搜索引擎领头羊百度下跌 3.4%，至 134.50 港元，而...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 02:37:45 GMT</pubDate>
     </item>
     <item>
-      <title>布里奇沃特（Bridgewater）的雷·达利奥（Ray Dalio）说，金1970年代的拉力</title>
+      <title>桥水基金 (Bridgewater) 的雷·达利奥 (Ray Dalio) 表示，在美元焦虑之际，黄金与 20 世纪 70 年代的涨势相呼应</title>
       <link>https://www.scmp.com/business/commodities/article/3328176/bridgewaters-ray-dalio-says-gold-echoes-1970s-rally-amid-us-dollar-anxiety?utm_source=rss_feed</link>
-      <description><![CDATA[亿万富翁 Ray Dalio 表示，黄金“肯定”比美元更像是避风港，黄金创纪录的涨势与 20 世纪 70 年代的情况相呼应，当时黄金在高通胀和经济不稳定时期飙升。
-对冲基金公司 Bridgewater Associates 的创始人达利奥 (Dalio) 在周二出席一次会议时发表了上述言论，当时他被问及是否同意 Citadel 的肯·格里芬 (Ken Griffin) 的观点，即金价上涨反映了人们对美元的焦虑。
+      <description><![CDATA[亿万富翁雷·达利奥（Ray Dalio）说，黄金“当然”比美元更像是一个避风港，而金属创纪录的集会在1970年代回应了1970年代，当时它在通货膨胀高和经济不稳定的时期涌现。
+达利奥（Dalio）创立了对冲基金公司布里奇沃特（Bridgewater Associates）的言论是在周二的一次会议上露面时出现的，当时他被问及他是否同意城堡的肯·格里芬（Ken Griffin）的观点，认为黄金的兴起反映了对美国货币的焦虑。
 “黄金是...]]></description>
       <guid>https://www.scmp.com/business/commodities/article/3328176/bridgewaters-ray-dalio-says-gold-echoes-1970s-rally-amid-us-dollar-anxiety?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 02:17:43 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达将投资马斯克的 xAI，作为 200 亿美元融资的一部分</title>
+      <title>NVIDIA投资于Musk的XAI，作为200亿美元资金的一部分</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328175/nvidia-invest-musks-xai-part-us20-billion-funding?utm_source=rss_feed</link>
       <description><![CDATA[据了解此事的人们称，埃隆·马斯克支持的人工智能初创公司XAI比最初计划的筹集资金要多得多，包括NVIDIA的股票投资，将其持续的资金提高到200亿美元。
 Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将与NVIDIA图形处理单元（GPU）有关。那就是...]]></description>
@@ -50,7 +58,7 @@ Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将�
       <pubDate>Wed, 08 Oct 2025 00:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>随着国内价格战的爆发，中国电动汽车巨头纷纷进军海外</title>
+      <title>中国的电动汽车巨头在海外头号咬伤</title>
       <link>https://www.scmp.com/business/china-business/article/3328074/chinese-ev-makers-go-global-bid-boost-profits-amid-price-war-home?utm_source=rss_feed</link>
       <description><![CDATA[从Bellwether Byd到启动Dreame的中国电动汽车（EV）制造商已经加大了努力破裂海外市场，因为在家里的收入前景看起来很昏暗，这是由于价格竞争而昏暗的。
 他们选择要么在海外召集车辆或在国外开设更多的陈列室，以促进其智能电动汽车，该电动汽车配备了精致的娱乐系统和高性能的电池组，希望能从大众汽车和丰田等国际货币上占据市场份额。
@@ -68,7 +76,7 @@ Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将�
       <pubDate>Tue, 07 Oct 2025 13:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>SFC首席执行官朱莉娅·李（Julia Leung）将继续任职两年：消息来源</title>
+      <title>证监会行政总裁梁凤仪将再留任两年：消息人士</title>
       <link>https://www.scmp.com/business/markets/article/3328137/hong-kong-renew-contract-sfc-ceo-julia-leung-another-two-years-sources?utm_source=rss_feed</link>
       <description><![CDATA[根据两个单独的消息来源，预计香港政府将续签朱莉娅·李·恩格·伊（Julia Leung fung-Yee）的合同，为市场监管机构证券和期货委员会（SFC）的首席执行官两年。
 Leung是《亚洲华尔街日报》的前记者，她于2023年1月开始担任SFC的第一位女性负责人。她目前的三年任期将于今年年底到期，但熟悉此事的消息人士称，政府希望她希望她服务另一个...]]></description>
@@ -78,37 +86,37 @@ Leung是《亚洲华尔街日报》的前记者，她于2023年1月开始担任S
     <item>
       <title>中国太阳能逆变器和储能巨头阳光电源寻求香港IPO</title>
       <link>https://www.scmp.com/business/banking-finance/article/3328118/chinese-solar-inverter-and-energy-storage-giant-sungrow-seeks-hong-kong-ipo?utm_source=rss_feed</link>
-      <description><![CDATA[全球最大的太阳能逆变器和储能系统生产商阳光电源已加入越来越多的中国大陆公司的行列，寻求利用香港股市繁荣的机会在香港上市。
-总部位于安徽省东部省会合肥的阳光电源以 870 吉瓦的逆变器累计装机容量领先世界，该设备可将太阳能电池板产生的电力转换为可供人们消费的电力形式。]]></description>
+      <description><![CDATA[Sungrow Power Supply是世界上最大的太阳能逆变器和储能系统的生产商，它加入了越来越多的中国大陆公司，他们利用该市的股票市场繁荣，他们试图在香港浮动。
+Sungrow总部位于Hefei，是Anhui省东部的首都，以870 Gogawats的累积装置能力（将太阳能电池板生产的功率转换为可以由...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3328118/chinese-solar-inverter-and-energy-storage-giant-sungrow-seeks-hong-kong-ipo?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 08:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>高调的房地产销售增添了香港市场的动力</title>
+      <title>备受瞩目的房地产销售增加了香港的市场势头</title>
       <link>https://www.scmp.com/business/article/3328109/henry-tangs-son-buys-2-flats-wheelocks-kadoorie-hill-boost-property-market?utm_source=rss_feed</link>
-      <description><![CDATA[前财政部长亨利·唐·杨（Henry Tang Ying-Yen）的儿子在九龙购买了房地产，加入了越来越多的富裕的买家在香港抢购房屋，这是由于对住宅市场的信心提高了。
-根据土地登记册的数据，根据Wheelock Properties的Kadoorie Hill Luxury项目的两个连接的单位，每人售价为3640万港元（470万美元），并于10月3日售罄。这些公寓是通过两个实体（巨型桥）购买的，冒着天空的风险。威廉·哈里·唐...]]></description>
+      <description><![CDATA[随着住宅市场信心的增强，越来越多的富裕买家在香港抢购房产，前财政司司长唐英年的儿子在九龙购买了房产。
+据土地注册处称，会德丰地产旗下嘉道理山豪华项目的两套相连单位以每套 3,640 万港元（约合 470 万美元）的价格出售，并于 10 月 3 日交付。这些公寓是通过 Jumbo Bridge 和 Risking Sky 这两家实体购买的。威廉·哈利·唐...]]></description>
       <guid>https://www.scmp.com/business/article/3328109/henry-tangs-son-buys-2-flats-wheelocks-kadoorie-hill-boost-property-market?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 08:06:49 GMT</pubDate>
     </item>
     <item>
-      <title>销售增长，许可收入的增长，中国的药品行业激增</title>
+      <title>中国医药行业因销售和许可收入增长而飙升</title>
       <link>https://www.scmp.com/business/china-business/article/3328097/chinas-pharmaceutical-sector-surges-amid-robust-growth-sales-and-licensing-income?utm_source=rss_feed</link>
-      <description><![CDATA[汇丰银行表示，在强劲的销售增长和向国际合作伙伴授权药品的收入快速增长的推动下，中国制药行业今年的表现明显优于大盘。
-H股创新药指数迄今已上涨107%，而恒生指数整体上涨30%。与此同时，根据发布的一份报告，A 股医药指数上涨 23%，而沪深 300 指数上涨 16%。]]></description>
+      <description><![CDATA[汇丰银行称，在强劲的销售增长和从许可药物到国际合作伙伴的收入迅速增长的驱动到，中国制药部门今年的表现明显优于更广泛的市场。
+到目前为止，H-Share创新药物指数上涨了107％，而宽阔的Seng指数增长了30％。同时，根据已发布的一份报告，A-Share Pharmaceutical指数上涨了23％，而CSI 300指数增长了16％。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3328097/chinas-pharmaceutical-sector-surges-amid-robust-growth-sales-and-licensing-income?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 06:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>大亨劳伦斯·何（Tycoon Lawrence Ho）的家族办公室在澳门（Macau</title>
+      <title>大亨何猷龙家族办公室在澳门开设全球首家度假村医院</title>
       <link>https://www.scmp.com/business/article/3328073/macaus-studio-city-gets-worlds-first-resort-hospital-mri-and-ct-facilities?utm_source=rss_feed</link>
-      <description><![CDATA[何猷龙家族办公室黑桃资本将总部位于香港的 iRad 医院引入澳门，并在他的一家酒店内配备了配备 MRI 和 CT 扫描设备的设施，以支持澳门博彩中心实现经济多元化的努力。
-新濠博亚娱乐城（新濠博亚娱乐城是博彩中心六家赌场特许经营商之一）的设施占地 15,000 平方英尺，使其成为世界上第一家配备 MRI 和 CT 设备的综合度假村医院。该医院正式...]]></description>
+      <description><![CDATA[劳伦斯·霍亚（Lawrence Ho Yau-lung）家族办公室Black Spade Capital已将基于香港的IRAD医院带到澳门（Macau），并在他的一家酒店中配备了MRI和CT扫描设备的设施，以支持游戏中心以使其经济多样化。
+梅尔科（Melco）度假村娱乐公司（Melco Resorts＆Entertainment）的15,000平方英尺的设施是游戏中心的六个赌场特许经营者之一，使其成为世界上第一家带有MRI和CT设备的整合度假村医院。医院正式...]]></description>
       <guid>https://www.scmp.com/business/article/3328073/macaus-studio-city-gets-worlds-first-resort-hospital-mri-and-ct-facilities?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 02:52:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAi让ChatGpt用户与应用程序中的Spotify，Booking.com连接</title>
+      <title>OpenAI 让 ChatGPT 用户在应用程序中与 Spotify、Booking.com 连接</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328071/openai-lets-chatgpt-users-connect-spotify-bookingcom-app?utm_source=rss_feed</link>
       <description><![CDATA[OpenAI使Chatgpt用户更容易与聊天机器人中的第三方应用程序联系起来，这是该公司将其旗舰产品变成数字服务的关键网关的最新竞标。
 借助新选项，周一在OpenAI的年度开发人员活动中揭幕，Chatgpt用户可以要求为周末创建播放列表，并且该应用程序将与Spotify连接以提出建议。
@@ -122,15 +130,6 @@ H股创新药指数迄今已上涨107%，而恒生指数整体上涨30%。与此
       <description><![CDATA[]]></description>
       <guid>https://www.scmp.com/business/series/3328067/capital-connectors?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 02:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 OpenAI 签署人工智能芯片供应协议后 AMD 股价飙升</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3328066/amd-shares-surge-24-after-signing-ai-chip-supply-deal-openai?utm_source=rss_feed</link>
-      <description><![CDATA[Advanced Micro Devices (AMD) 将通过一项多年期协议向 OpenAI 提供人工智能芯片，这将带来数百亿美元的年收入，并让 ChatGPT 的创建者可以选择购买该芯片制造商最多约 10% 的股份。
-周一，这家芯片制造商的股价飙升 24%，使公司市值增加约 630 亿美元。
-该交易是一系列投资承诺中的最新一项，突显了 OpenAI 和更广泛的人工智能行业对……的巨大需求。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3328066/amd-shares-surge-24-after-signing-ai-chip-supply-deal-openai?utm_source=rss_feed</guid>
-      <pubDate>Tue, 07 Oct 2025 01:48:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
