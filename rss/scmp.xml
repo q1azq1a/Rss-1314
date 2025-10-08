@@ -1,22 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业 - 南华早报</title>
+    <title>业务 - 南中国早晨</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的公司，市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 08 Oct 2025 09:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 12:28:58 GMT</lastBuildDate>
     <item>
-      <title>软银达成协议以 54 亿美元收购 ABB 机器人业务</title>
+      <title>香港最大的弹性服务提供商在中心开设了新的工作区设施</title>
+      <link>https://www.scmp.com/business/article/3328265/hong-kongs-largest-flex-office-provider-opens-new-workspace-facility-demand-improves?utm_source=rss_feed</link>
+      <description><![CDATA[房地产顾问表示，由于股市信心的上升和上市活动支持了香港写字楼市场的复苏，香港最大的弹性办公室供应商国际职场集团 (IWG) 在中环开设了一座新的 10 层办公楼。
+IWG 周三在 The Voeux 开设了该公司在香港的第 22 个工作空间，位于德辅道 102-104 号，提供超过 6,400 平方英尺的灵活办公空间，以满足...]]></description>
+      <guid>https://www.scmp.com/business/article/3328265/hong-kongs-largest-flex-office-provider-opens-new-workspace-facility-demand-improves?utm_source=rss_feed</guid>
+      <pubDate>Wed, 08 Oct 2025 12:13:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>小米CEO称首批17系列手机销量“超出预期”</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3328250/xiaomis-initial-17-series-handset-sales-exceeded-expectations-against-iphone-17-ceo?utm_source=rss_feed</link>
+      <description><![CDATA[小米公司创始人、董事长兼首席执行官雷军周二在中国微博平台微博上发帖称，迄今为止，小米新款 17 系列智能手机的初步销售结果“超出了预期”。
+总部位于北京的小米上个月推出了 17 系列智能手机，距苹果推出 iPhone 17 机型两周后。
+周二，小米智能手机业务总裁卢​​伟冰在另一条微博中就该公司新旗舰产品“库存不足”致歉……]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3328250/xiaomis-initial-17-series-handset-sales-exceeded-expectations-against-iphone-17-ceo?utm_source=rss_feed</guid>
+      <pubDate>Wed, 08 Oct 2025 11:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国财政部长说，香港塑造政策以扩大对家庭办事处的吸引力。</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3328251/hong-kong-revamps-family-office-rules-widen-global-appeal-targets-220-more-2028?utm_source=rss_feed</link>
+      <description><![CDATA[金融服务部长克里斯托弗·惠（Christopher Hui Ching-Yu）表示，香港正在扩大对全球家庭办事处的吸引力，因为它塑造了旨在满足该行业趋势的新政策。
+该市的“强大的法律制度，世界一流的金融基础设施，与大陆的战略接近以及竞争性和简单的税收制度”使其成为“家庭办事处的理想目的地，包括来自非洲的家庭办事处，试图建立或扩大其业务”，即...]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3328251/hong-kong-revamps-family-office-rules-widen-global-appeal-targets-220-more-2028?utm_source=rss_feed</guid>
+      <pubDate>Wed, 08 Oct 2025 10:30:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>软银罢工协议以54亿美元的价格收购ABB的机器人业务</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328219/softbank-strikes-deal-acquire-abbs-robotics-business-us54-billion?utm_source=rss_feed</link>
-      <description><![CDATA[软银集团周三表示，已同意以 54 亿美元的价格收购瑞士工程集团 ABB 的机器人业务。
-这笔交易标志着软银创始人兼首席执行官孙正义在经历了一段时间的紧缩后扩大了投资活动，大力推动机器人领域的发展。
-软银涉足机器人领域，包括人形 Pepper，并在该领域进行了投资，包括 Berkshire Gray 和 AutoStore。
-这笔交易意味着 ABB 放弃了最初的分拆决定并……]]></description>
+      <description><![CDATA[软银集团周三表示，已同意以54亿美元的交易购买瑞士工程集团ABB的机器人业务。
+这项交易标志着软银创始人兼首席执行官Masayoshi儿子的重大推动力，因为他在一段时间的裁员后扩大了投资活动。
+软银对机器人技术的尝试包括类人生物，在该细分市场中进行了投资，包括在伯克希尔灰色和汽车上进行投资。
+这项交易意味着ABB放弃了最初的决定，以脱落和...]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3328219/softbank-strikes-deal-acquire-abbs-robotics-business-us54-billion?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 07:46:11 GMT</pubDate>
     </item>
     <item>
-      <title>香港时装零售商希望通过咖啡馆恢复其品牌的时尚感</title>
+      <title>香港的时尚零售商希望咖啡馆恢复其品牌的时尚</title>
       <link>https://www.scmp.com/business/article/3328190/new-trend-among-fashion-brands-setting-cafes-drive-store-traffic?utm_source=rss_feed</link>
       <description><![CDATA[随着零售业慢慢复苏，香港商业地产格局出现了一个新趋势：非食品和饮料（F&amp;B）品牌开始转向休闲餐饮，以吸引年轻消费者并从其经营场所中获得更多收益。
 日本服装零售商优衣库去年在太古城翻新后的太古城中心店中开辟了一些咖啡厅，美国奢侈品牌 Ralph Lauren 则更进一步，在尖沙咀海港城等高端商场开设了独立的 Ralph&#39;s Coffee 店。]]></description>
@@ -24,11 +49,11 @@
       <pubDate>Wed, 08 Oct 2025 04:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街撤退，人工智能泡沫担忧加剧，香港股市下跌</title>
+      <title>随着华尔街静修会随着AI泡沫的恐惧的增长，香港股票下降</title>
       <link>https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=rss_feed</link>
-      <description><![CDATA[香港股票周三下跌，跟踪华尔街从纪录高点撤退，因为人们越来越担心人工智能繁荣可能已经过热并冒着变成泡沫的风险。
-Hang Seng指数关闭0.5％，下降了26,829.46。 Hang Seng Tech指数损失了0.6％。大陆的证券交易所已关闭，度过了为期一周的公共假期，并将在周四重新开放。
-搜索引擎领导者百度跌倒3％至HK $ 135，而食品交付服务提供商...]]></description>
+      <description><![CDATA[由于人们越来越担心人工智能热潮可能过热并有可能变成泡沫，香港股市周三下跌，跟随华尔街从历史高位回落。
+恒生指数收跌 0.5%，报 26,829.46 点。恒生科技指数下跌 0.6%。内地证券交易所因为期一周的公众假期休市，将于周四重新开放。
+搜索引擎领头羊百度下跌 3%，至 135 港元，而食品配送服务提供商...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 02:37:45 GMT</pubDate>
     </item>
@@ -42,7 +67,7 @@ Hang Seng指数关闭0.5％，下降了26,829.46。 Hang Seng Tech指数损失�
       <pubDate>Wed, 08 Oct 2025 02:17:43 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA投资于Musk的XAI，作为200亿美元资金的一部分</title>
+      <title>英伟达将投资马斯克的 xAI，作为 200 亿美元融资的一部分</title>
       <link>https://www.scmp.com/tech/big-tech/article/3328175/nvidia-invest-musks-xai-part-us20-billion-funding?utm_source=rss_feed</link>
       <description><![CDATA[据了解此事的人们称，埃隆·马斯克支持的人工智能初创公司XAI比最初计划的筹集资金要多得多，包括NVIDIA的股票投资，将其持续的资金提高到200亿美元。
 Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将与NVIDIA图形处理单元（GPU）有关。那就是...]]></description>
@@ -50,25 +75,25 @@ Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将�
       <pubDate>Wed, 08 Oct 2025 02:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>“经济实惠”的 Model Y 和 3：特斯拉放弃乔布斯高领毛衣，改用沃尔玛连帽衫</title>
+      <title>“负担得起的” Y和3：特斯拉丢下史蒂夫·乔布斯沃尔玛连帽衫</title>
       <link>https://www.scmp.com/business/companies/article/3328173/affordable-model-y-and-3-tesla-drops-steve-jobs-turtleneck-walmart-hoodie?utm_source=rss_feed</link>
-      <description><![CDATA[特斯拉推出了其最畅销的 Model Y SUV 和 Model 3 轿车的“经济型”版本，但有人表示，39,990 美元和 36,990 美元的起价太高，无法吸引新一类电动汽车 (EV) 品牌的买家。
-首席执行官埃隆·马斯克(Elon Musk)将这款车吹捧为吸引更广泛买家的一种方式，并于去年表示，经过激励措施后，价格低于 30,000 美元是关键。
-在欧洲和中国竞争日益激烈的情况下，特斯拉正试图扭转其老化产品线销量下降的局面……]]></description>
+      <description><![CDATA[特斯拉推出了其最畅销的Y SUV及其3型轿车的“负担得起的”版本，但有些人说，最高的39,990美元和36,990美元的起价太高了，有人说，吸引了一类新的买家到电动汽车（EV）品牌。
+首席执行官埃隆·马斯克（Elon Musk）吹捧这辆车，以利用更广泛的买家，他说，在激励措施之后，价格低于30,000美元的价格是关键。
+特斯拉正试图在欧洲和中国的竞争不断上升的情况下扭转其老龄化阵容的销售额下降。]]></description>
       <guid>https://www.scmp.com/business/companies/article/3328173/affordable-model-y-and-3-tesla-drops-steve-jobs-turtleneck-walmart-hoodie?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 01:56:44 GMT</pubDate>
     </item>
     <item>
       <title>香港资本市场回暖，上市多元化</title>
       <link>https://www.scmp.com/business/banking-finance/article/3328068/international-firms-flock-hong-kong-signalling-rebound-citys-capital-market?utm_source=rss_feed</link>
-      <description><![CDATA[在Capital Connectors系列中，对六名有影响力的中国和全球银行家的独家访谈揭示了香港作为国际金融中心的发展的机遇和挑战。
-据中国国际资本公司（CICC）投资银行部副负责人徐贾（Xu Jia）表示，在香港的一家基于哈萨克斯坦的钨矿公司的上市证明了该市资本市场的国际范围和广度。
-考虑国际...]]></description>
+      <description><![CDATA[在资本连接器系列中，对六位有影响力的中国和全球银行家的独家采访揭示了香港在发展为国际金融中心过程中面临的机遇和挑战。
+中国国际金融公司（中金公司）投资银行部副总经理徐佳表示，一家哈萨克斯坦钨矿公司在香港上市，证明了香港资本市场的国际化程度和广度。
+嘉信国际...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3328068/international-firms-flock-hong-kong-signalling-rebound-citys-capital-market?utm_source=rss_feed</guid>
       <pubDate>Wed, 08 Oct 2025 00:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>随着国内价格战的爆发，中国电动汽车巨头纷纷进军海外</title>
+      <title>中国的电动汽车巨头在海外头号咬伤</title>
       <link>https://www.scmp.com/business/china-business/article/3328074/chinese-ev-makers-go-global-bid-boost-profits-amid-price-war-home?utm_source=rss_feed</link>
       <description><![CDATA[从Bellwether Byd到启动Dreame的中国电动汽车（EV）制造商已经加大了努力破裂海外市场，因为在家里的收入前景看起来很昏暗，这是由于价格竞争而昏暗的。
 他们选择要么在海外召集车辆或在国外开设更多的陈列室，以促进其智能电动汽车，该电动汽车配备了精致的娱乐系统和高性能的电池组，希望能从大众汽车和丰田等国际货币上占据市场份额。
@@ -77,62 +102,37 @@ Xai计划在Colossus 2中使用的NVIDIA图形处理单元（GPU）的融资将�
       <pubDate>Tue, 07 Oct 2025 23:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>什么是337调查？中方为何如此关注？</title>
+      <title>什么是第337节调查，为什么中国如此关注它们？</title>
       <link>https://www.scmp.com/economy/china-economy/article/3328064/what-are-section-337-investigations-and-why-china-so-concerned-about-them?utm_source=rss_feed</link>
-      <description><![CDATA[第337条调查是美国最有效的法律武器之一，用于治安知识产权纠纷。由美国国际贸易委员会（USITC）进行的，它们可以导致总排除在美国市场之外的产品。
-根据USITC数据，该工具通常用于针对中国：在2024年完成的第337条调查中，有40％以上涉及一家中国公司。
-9月，该委员会对Smart ...发起了调查...]]></description>
+      <description><![CDATA[337 调查是美国监管知识产权纠纷最有力的法律武器之一。由美国国际贸易委员会 (USITC) 实施，它们可能导致某种产品被完全排除在美国市场之外。
+该工具经常被用来针对中国：根据美国国际贸易委员会的数据，2024 年完成的 337 调查中有超过 40% 涉及一家中国公司。
+9月，该委员会对智能...]]></description>
       <guid>https://www.scmp.com/economy/china-economy/article/3328064/what-are-section-337-investigations-and-why-china-so-concerned-about-them?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 13:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>证监会行政总裁梁凤仪将再留任两年：消息人士</title>
+      <title>SFC首席执行官朱莉娅·李（Julia Leung）将继续任职两年：消息来源</title>
       <link>https://www.scmp.com/business/markets/article/3328137/hong-kong-renew-contract-sfc-ceo-julia-leung-another-two-years-sources?utm_source=rss_feed</link>
-      <description><![CDATA[据两位消息人士透露，香港政府预计将梁凤仪担任市场监管机构证券及期货事务监察委员会（证监会）首席执行官的合同再续签两年。
-梁振英曾任《亚洲华尔街日报》记者，于 2023 年 1 月开始担任证监会首位女性主席。她目前的三年任期将于今年年底届满，但知情人士表示，政府希望她再任职...]]></description>
+      <description><![CDATA[根据两个单独的消息来源，预计香港政府将续签朱莉娅·李·恩格·伊（Julia Leung fung-Yee）的合同，为市场监管机构证券和期货委员会（SFC）的首席执行官两年。
+Leung是《亚洲华尔街日报》的前记者，她于2023年1月开始担任SFC的第一位女性负责人。她目前的三年任期将于今年年底到期，但熟悉此事的消息人士称，政府希望她希望她服务另一个...]]></description>
       <guid>https://www.scmp.com/business/markets/article/3328137/hong-kong-renew-contract-sfc-ceo-julia-leung-another-two-years-sources?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 11:00:11 GMT</pubDate>
     </item>
     <item>
       <title>中国太阳能逆变器和储能巨头Sungrow寻求香港IPO</title>
       <link>https://www.scmp.com/business/banking-finance/article/3328118/chinese-solar-inverter-and-energy-storage-giant-sungrow-seeks-hong-kong-ipo?utm_source=rss_feed</link>
-      <description><![CDATA[Sungrow Power Supply是世界上最大的太阳能逆变器和储能系统的生产商，它加入了越来越多的中国大陆公司，他们利用该市的股票市场繁荣，他们试图在香港浮动。
-Sungrow总部位于Hefei，是Anhui省东部的首都，以870 Gogawats的累积装置能力（将太阳能电池板生产的功率转换为可以由...]]></description>
+      <description><![CDATA[全球最大的太阳能逆变器和储能系统生产商阳光电源已加入越来越多的中国大陆公司的行列，寻求利用香港股市繁荣的机会在香港上市。
+总部位于安徽省东部省会合肥的阳光电源以 870 吉瓦的逆变器累计装机容量领先世界，该设备可将太阳能电池板产生的电力转换为可供人们消费的电力形式。]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3328118/chinese-solar-inverter-and-energy-storage-giant-sungrow-seeks-hong-kong-ipo?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 08:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>高调的房地产销售增添了香港市场的动力</title>
+      <title>高调的房地产销售增加了香港市场的动力</title>
       <link>https://www.scmp.com/business/article/3328109/henry-tangs-son-buys-2-flats-wheelocks-kadoorie-hill-boost-property-market?utm_source=rss_feed</link>
-      <description><![CDATA[前财政部长亨利·唐·杨（Henry Tang Ying-Yen）的儿子在九龙购买了房地产，加入了越来越多的富裕的买家在香港抢购房屋，这是由于对住宅市场的信心提高了。
-根据土地登记册的数据，根据Wheelock Properties的Kadoorie Hill Luxury项目的两个连接的单位，每人售价为3640万港元（470万美元），并于10月3日售罄。这些公寓是通过两个实体（巨型桥）购买的，冒着天空的风险。威廉·哈里·唐...]]></description>
+      <description><![CDATA[随着住宅市场信心的增强，越来越多的富裕买家在香港抢购房产，前财政司司长唐英年的儿子在九龙购买了房产。
+据土地注册处称，会德丰地产旗下嘉道理山豪华项目的两套相连单位以每套 3,640 万港元（约合 470 万美元）的价格出售，并于 10 月 3 日交付。这些公寓是通过 Jumbo Bridge 和 Risking Sky 这两家实体购买的。威廉·哈利·唐...]]></description>
       <guid>https://www.scmp.com/business/article/3328109/henry-tangs-son-buys-2-flats-wheelocks-kadoorie-hill-boost-property-market?utm_source=rss_feed</guid>
       <pubDate>Tue, 07 Oct 2025 08:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售增长，许可收入的增长，中国的药品行业激增</title>
-      <link>https://www.scmp.com/business/china-business/article/3328097/chinas-pharmaceutical-sector-surges-amid-robust-growth-sales-and-licensing-income?utm_source=rss_feed</link>
-      <description><![CDATA[汇丰银行称，在强劲的销售增长和从许可药物到国际合作伙伴的收入迅速增长的驱动到，中国制药部门今年的表现明显优于更广泛的市场。
-到目前为止，H-Share创新药物指数上涨了107％，而宽阔的Seng指数增长了30％。同时，根据已发布的一份报告，A-Share Pharmaceutical指数上涨了23％，而CSI 300指数增长了16％。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3328097/chinas-pharmaceutical-sector-surges-amid-robust-growth-sales-and-licensing-income?utm_source=rss_feed</guid>
-      <pubDate>Tue, 07 Oct 2025 06:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>大亨何猷龙家族办公室在澳门开设全球首家度假村医院</title>
-      <link>https://www.scmp.com/business/article/3328073/macaus-studio-city-gets-worlds-first-resort-hospital-mri-and-ct-facilities?utm_source=rss_feed</link>
-      <description><![CDATA[何猷龙家族办公室黑桃资本将香港的 iRad 医院引入澳门，并在他的一家酒店内配备了配备 MRI 和 CT 扫描设备的设施，以支持澳门博彩中心实现经济多元化的努力。
-新濠博亚娱乐城（新濠博亚娱乐城是博彩中心六家赌场特许经营商之一）的设施占地 15,000 平方英尺，使其成为世界上第一家配备 MRI 和 CT 设备的综合度假村医院。该医院正式...]]></description>
-      <guid>https://www.scmp.com/business/article/3328073/macaus-studio-city-gets-worlds-first-resort-hospital-mri-and-ct-facilities?utm_source=rss_feed</guid>
-      <pubDate>Tue, 07 Oct 2025 02:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAi让ChatGpt用户与应用程序中的Spotify，Booking.com连接</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3328071/openai-lets-chatgpt-users-connect-spotify-bookingcom-app?utm_source=rss_feed</link>
-      <description><![CDATA[OpenAI 使 ChatGPT 用户能够更轻松地与聊天机器人内的第三方应用程序连接来执行任务，这是该公司将其旗舰产品转变为数字服务关键网关的最新举措。
-借助周一在 OpenAI 年度开发者活动期间推出的新选项，ChatGPT 用户可以要求创建周末的播放列表，该应用程序将与 Spotify 连接以提出建议。
-或者，用户可以在...上查找特定社区的三居室房屋。]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3328071/openai-lets-chatgpt-users-connect-spotify-bookingcom-app?utm_source=rss_feed</guid>
-      <pubDate>Tue, 07 Oct 2025 02:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
