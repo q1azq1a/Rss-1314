@@ -4,7 +4,24 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 11 Nov 2025 12:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 15:15:11 GMT</lastBuildDate>
+    <item>
+      <title>香港为全球首批采用代币化结算的债券定价</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3332391/hong-kong-prices-worlds-first-government-bonds-tokenised-settlement?utm_source=rss_feed</link>
+      <description><![CDATA[香港政府周一发行了创纪录的 100 亿港元（13 亿美元）代币化绿色债券，完成了全球首个允许使用数字法定货币结算的政府发行，同时香港正在努力提升其作为全球数字资产中心的地位。
+财经事务及库务局局长许正宇在香港金融管理局发布的一份公告中表示：“香港在连接传统金融与数字资产时代方面具有独特的优势。”]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3332391/hong-kong-prices-worlds-first-government-bonds-tokenised-settlement?utm_source=rss_feed</guid>
+      <pubDate>Tue, 11 Nov 2025 14:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>华为升腾CloudMatrix平台荣登两年一度技术创新榜榜首</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3332384/huaweis-ascend-powered-cloudmatrix-computing-platform-tops-biennial-tech-innovation-list?utm_source=rss_feed</link>
+      <description><![CDATA[华为技术有限公司基于升腾芯片的先进数据中心架构在两年一度的深圳公司最新发明排名中名列前茅。
+华为和中国人工智能基础设施初创公司SiliconFlow在一篇论文中将这种Scale-Up超大规模计算系统最初以CloudMatrix 384的形式推出，被描述为专门为处理大量人工智能工作负载而构建的专门“人工智能超级节点”。
+最初设计采用 384 Ascend 910C 神经...]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3332384/huaweis-ascend-powered-cloudmatrix-computing-platform-tops-biennial-tech-innovation-list?utm_source=rss_feed</guid>
+      <pubDate>Tue, 11 Nov 2025 13:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>中国的Moonshot声称用比美国竞争对手更少的人工智能芯片构建模型</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3332364/chinas-moonshot-claims-build-models-fewer-high-end-ai-chips-us-rivals-use?utm_source=rss_feed</link>
@@ -118,22 +135,6 @@ AI芯片领导者英伟达的主要合约制造商台积电公布10月份销售�
 巴菲特还淡化了伯克希尔近期的下跌……]]></description>
       <guid>https://www.scmp.com/business/companies/article/3332263/warren-buffett-signals-smooth-transition-greg-abel-letter-berkshire-shareholders?utm_source=rss_feed</guid>
       <pubDate>Tue, 11 Nov 2025 01:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么中国的Moonshot AI新模式会引发“DeepSeek时刻”争论</title>
-      <link>https://www.scmp.com/tech/article/3332238/why-new-model-chinas-moonshot-ai-stirs-deepseek-moment-debate?utm_source=rss_feed</link>
-      <description><![CDATA[中国人工智能初创公司开发的新推理模型在多项指标上超过了 OpenAI 的 GPT-5 和 Anthropic 的 Claude Sonnet 4.5，引发了关于另一个 DeepSeek 时刻和美国人工智能霸主轨迹的新争论。
-总部位于北京的探月人工智能是一家估值 33 亿美元的初创公司，得到了阿里巴巴集团控股和腾讯控股等中国科技巨头的支持，在创造了一个……之后，又呈现了一个以弱胜强的故事。]]></description>
-      <guid>https://www.scmp.com/tech/article/3332238/why-new-model-chinas-moonshot-ai-stirs-deepseek-moment-debate?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Nov 2025 01:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>创新是遏制中国“内卷化”的关键：Two Sigma联合创始人</title>
-      <link>https://www.scmp.com/business/china-business/article/3332181/innovation-key-curbing-chinas-cutthroat-involution-two-sigma-co-founder-says?utm_source=rss_feed</link>
-      <description><![CDATA[对冲基金Two Sigma联合创始人兼联席主席戴维·西格尔(David Siegel)表示，增加创新可以缓解中国的“内卷化”问题，即北京一直在打击从电动汽车(EV)到食品配送等行业的残酷、低质量的价格竞争。
-西格尔上周在香港举行的第三届家族企业峰会间隙表示：“我认为，从某种意义上说，竞争过度的领域是更加商品化的领域。”]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3332181/innovation-key-curbing-chinas-cutthroat-involution-two-sigma-co-founder-says?utm_source=rss_feed</guid>
-      <pubDate>Tue, 11 Nov 2025 00:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
