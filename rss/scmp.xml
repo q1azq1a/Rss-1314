@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Sat, 22 Nov 2025 12:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 01:12:32 GMT</lastBuildDate>
+    <item>
+      <title>蚂蚁集团的vibe编码应用程序在短短4天内下载量突破100万次</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3333776/ant-groups-lingguang-vibe-coding-app-hits-1-million-downloads-just-4-days?utm_source=rss_feed</link>
+      <description><![CDATA[据这家中国金融科技巨头称，蚂蚁集团新推出的“vibecoding”人工智能应用程序LingGuang在短短四天内用户下载量突破100万后，就让服务器不堪重负，比OpenAI的ChatGPT和Sora更快达到这一里程碑。
+该应用程序根据用户的文本提示生成应用程序的创新功能在周四晚上被暂时暂停，该公司在微博上的一篇帖子中将问题归咎于过度使用。
+截至周六，灵光...]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3333776/ant-groups-lingguang-vibe-coding-app-hits-1-million-downloads-just-4-days?utm_source=rss_feed</guid>
+      <pubDate>Sun, 23 Nov 2025 01:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>中国，而不是自由市场，在气候融资问题上的正确做法</title>
       <link>https://www.scmp.com/opinion/world-opinion/article/3333537/how-cop30-highlights-power-chinese-state-capitalism?utm_source=rss_feed</link>
@@ -122,14 +131,6 @@ Flex:ai 可以池化和编排处理器以发挥更多性能，它是华为通过
 该公司做了...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3333643/3sbio-spin-mandi-banks-hair-loss-and-weight-loss-drugs-hong-kong-ipo-bid?utm_source=rss_feed</guid>
       <pubDate>Fri, 21 Nov 2025 05:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于人工智能泡沫担忧，恒生指数下跌 2.4%，创下 4 月份以来最糟糕的一周</title>
-      <link>https://www.scmp.com/business/china-business/article/3333619/hang-seng-index-set-cap-worst-week-april-ai-bubble-fears?utm_source=rss_feed</link>
-      <description><![CDATA[由于对人工智能行业的新担忧和美国就业数据的低迷，促使投资者在英伟达引领的短暂上涨后撤出风险较高的资产，华尔街股市周五下跌，香港股市下跌。
-恒生指数收盘下跌 2.4%，报 25,220.02 点，本周跌幅达到 5.1%，为 4 月 11 日美国总统特朗普发动关税战扰乱市场以来的最大跌幅。恒生科技指数下跌 3.2%。在大陆地区，...]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3333619/hang-seng-index-set-cap-worst-week-april-ai-bubble-fears?utm_source=rss_feed</guid>
-      <pubDate>Fri, 21 Nov 2025 02:20:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
