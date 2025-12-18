@@ -4,7 +4,43 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 18 Dec 2025 12:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 15:16:54 GMT</lastBuildDate>
+    <item>
+      <title>商汤科技推开源AI模型，为每个机器人提供“智慧大脑”</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3336956/sensetime-pushes-open-source-ai-model-provide-smart-brain-every-robot?utm_source=rss_feed</link>
+      <description><![CDATA[中国人工智能先驱商汤科技开源了“世界模型”，并通过发布首款机器狗开始进军新兴的实体智能领域。
+这家在香港上市的人工智能公司的新公司Ace Robotics周四发布了Kairos 3.0，这是一个模拟物理世界的开源模型，以及一个名为“KaiWu”的支持实体智能应用程序的开发者平台。
+“Ace Robotics将推动......的大规模商业化]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3336956/sensetime-pushes-open-source-ai-model-provide-smart-brain-every-robot?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Dec 2025 13:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对冲基金 Qube 租用国际金融中心二期六层楼，这是中央十年来最大的交易之一</title>
+      <link>https://www.scmp.com/property/article/3336957/hedge-fund-qube-leases-six-floors-two-ifc-one-centrals-largest-deals-decade?utm_source=rss_feed</link>
+      <description><![CDATA[随着租金下降推动香港主要商业区的办公室升级浪潮，全球对冲基金 Qube Research &amp; Technologies (QRT) 将成为国际金融中心二期最大的私人租户，签署了多层租约。
+这家总部位于伦敦的公司将占用港铁公司在国际金融中心二期拥有的六层楼面积达 146,000 平方英尺的空间，租金金额未公开。该空间此前由瑞银集团占用。
+QRT 的租约定为...]]></description>
+      <guid>https://www.scmp.com/property/article/3336957/hedge-fund-qube-leases-six-floors-two-ifc-one-centrals-largest-deals-decade?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Dec 2025 13:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国宁德时代开创了在工厂大规模部署人形机器人的先河</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3336939/chinas-catl-marks-trailblazing-deployment-humanoid-robots-scale-factory-floor?utm_source=rss_feed</link>
+      <description><![CDATA[全球最大的电动汽车（EV）电池制造商宁德时代新能源科技（CATL）已开始在其位于河南省中部城市洛阳的中州生产基地大规模部署人形机器人。
+该公司周三将其大规模部署描述为“世界首例”，由初创公司 Spirit AI 制造的人形机器人以与熟练人类工人相匹配的速度执行复杂的任务。
+Spirit AI的小魔机器人已被分配插电...]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3336939/chinas-catl-marks-trailblazing-deployment-humanoid-robots-scale-factory-floor?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Dec 2025 13:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里巴巴通过 Qwen 与高德地图合作深化航线、餐厅和酒店生态系统建设</title>
+      <link>https://www.scmp.com/business/article/3336935/alibaba-deepens-ecosystem-push-qwen-amap-tie-routes-restaurants-and-hotels?utm_source=rss_feed</link>
+      <description><![CDATA[阿里巴巴集团控股公司正在将其地图和导航平台高德地图纳入其 Qwen 人工智能应用程序中，该公司表示，此次合作将在该应用程序首次亮相几周后增强 Qwen 的现实世界“生活服务”。
+周四宣布的这一整合让 Qwen 用户可以在单一对话界面中处理旅行和生活方式请求，从餐厅和酒店推荐到路线规划和逐向导航。阿里巴巴拥有《南华早报》。
+阿里巴巴...]]></description>
+      <guid>https://www.scmp.com/business/article/3336935/alibaba-deepens-ecosystem-push-qwen-amap-tie-routes-restaurants-and-hotels?utm_source=rss_feed</guid>
+      <pubDate>Thu, 18 Dec 2025 12:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>香港交易所建议大幅削减每手交易单位差异以增加流动性并提高市场效率</title>
       <link>https://www.scmp.com/business/banking-finance/article/3336940/hkex-proposes-slashing-board-lot-variations-boost-liquidity-enhance-market-efficiency?utm_source=rss_feed</link>
@@ -50,7 +86,7 @@
       <title>比亚迪加大L3级自动驾驶汽车投入，开始测试量产车型</title>
       <link>https://www.scmp.com/business/china-business/article/3336841/byd-ups-ante-l3-autonomous-cars-begins-testing-models-mass-production?utm_source=rss_feed</link>
       <description><![CDATA[在北京迈出放松技术管制的第一步后，中国电动汽车 (EV) 领军企业比亚迪加大力度生产和销售更多配备 3 级 (L3) 自动驾驶系统的汽车。
-据第一财经报道，该公司与其总部所在地深圳当局合作，在量产前测试了部分汽车。比亚迪证实了该报道，并补充称已完成超过15万公里的L3实车测试。
+据第一财经报道，该公司与其总部所在深圳的有关部门合作，在量产前对部分汽车进行了测试。比亚迪证实了该报道，并补充称已完成超过15万公里的L3实车测试。
 公司...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3336841/byd-ups-ante-l3-autonomous-cars-begins-testing-models-mass-production?utm_source=rss_feed</guid>
       <pubDate>Thu, 18 Dec 2025 03:11:51 GMT</pubDate>
@@ -68,7 +104,7 @@
       <title>渣打银行维持增持中国股市评级，预示2026年盈利将复苏</title>
       <link>https://www.scmp.com/business/china-business/article/3336792/standard-chartered-keeps-overweight-call-china-stocks-flags-earnings-recovery-2026?utm_source=rss_feed</link>
       <description><![CDATA[渣打银行表示，经过一段时间的盘整，中国股市看起来更加引人注目，随着货币政策宽松、全球经济增长保持强劲以及人工智能相关投资保持强劲，估值较低，盈利增长预计将于 2026 年从 2025 年的低基数反弹。
-“经过一段时间的盘整，中国股市的估值变得更具吸引力，盈利增长预计将从低基数中恢复，”首席投资总监郑雷文表示。]]></description>
+“经过一段时间的整合，中国股市的估值变得更具吸引力，盈利增长预计将从低基数中恢复，”首席投资总监郑雷文表示。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3336792/standard-chartered-keeps-overweight-call-china-stocks-flags-earnings-recovery-2026?utm_source=rss_feed</guid>
       <pubDate>Wed, 17 Dec 2025 23:30:08 GMT</pubDate>
     </item>
@@ -96,41 +132,6 @@
 姚明的正式职位是首席执行官办公室的首席人工智能科学家……]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3336811/tencent-restructures-ai-operations-promotes-high-profile-recruit-chief-ai-scientist?utm_source=rss_feed</guid>
       <pubDate>Wed, 17 Dec 2025 12:45:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>内存紧缩：中国平板电脑制造商小米和荣耀因芯片成本飙升而提高价格</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3336776/memory-crunch-chinese-tablet-makers-xiaomi-and-honor-raise-prices-chip-costs-surge?utm_source=rss_feed</link>
-      <description><![CDATA[包括小米和荣耀在内的中国平板电脑制造商已经提高了其产品线的价格，以应对不断飙升的存储芯片成本。
-总部位于北京的智能手机和电动汽车制造商小米本周对多款平板电脑产品进行了 100 元（14 美元）至 300 元的加价，其中包括入门级红米 Pad 2 和高端小米 Pad 8 系列。
-红米平板2于今年6月推出，起售价999元，现售价1199元。]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3336776/memory-crunch-chinese-tablet-makers-xiaomi-and-honor-raise-prices-chip-costs-surge?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>小鹏汽车首席执行官驳斥了对人工智能泡沫的担忧，预测机器人很快将成为家庭负担得起的产品</title>
-      <link>https://www.scmp.com/business/china-evs/article/3336800/xpeng-ceo-dismisses-ai-bubble-fears-predicts-robots-will-soon-be-affordable-households?utm_source=rss_feed</link>
-      <description><![CDATA[中国电动汽车（EV）制造商小鹏汽车的联合创始人兼首席执行官何小鹏并不担心人工智能领域的泡沫，并相信自动驾驶汽车很快就会超越人类驾驶员。
-这位亿万富翁企业家在微博上分享了他的想法，试图缓解公众对人工智能行业过热的担忧，并补充说他预见到了未来的巨大机遇。
-“任何技术革命在一定时期内都不可避免地会在某些方面出现泡沫……]]></description>
-      <guid>https://www.scmp.com/business/china-evs/article/3336800/xpeng-ceo-dismisses-ai-bubble-fears-predicts-robots-will-soon-be-affordable-households?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Dec 2025 11:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>小米推出开源模型与DeepSeek、Moonshot、OpenAI系统竞争</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3336772/xiaomi-launches-open-source-model-compete-against-deepseek-moonshot-openai-systems?utm_source=rss_feed</link>
-      <description><![CDATA[中国智能手机和电动汽车 (EV) 巨头小米发布并开源了新的人工智能模型 MiMo-V2-Flash，预计该模型可与 DeepSeek、Moonshot AI、Anthropic 和 OpenAI 的最新系统完美匹配。
-MiMo-V2-Flash 可在小米开发者网站 MiMo Studio、Hugging Face 和 API 平台上在全球范围内使用，“尤其擅长推理、编码和代理场景，同时也可以作为日常工作的出色通用助手......]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3336772/xiaomi-launches-open-source-model-compete-against-deepseek-moonshot-openai-systems?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Dec 2025 11:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港启德大球场提升城市作为主要体育及娱乐场所的地位</title>
-      <link>https://www.scmp.com/business/article/3336788/hong-kongs-kai-tak-stadium-lifts-citys-status-major-sports-and-entertainment-venue?utm_source=rss_feed</link>
-      <description><![CDATA[专家表示，拥有 50,000 个座位的启德体育场正在将香港转变为主要的体育和活动目的地，因为它带动了回头客、支持零售商并帮助支撑该市的零售地产业主。
-这里是英国摇滚乐队 Coldplay 四月份举办的四晚音乐会的举办地，也是韩国流行音乐女子组合 Twice 本月早些时候在该市首次演出的场地。韩国流行乐巨星 Blackpink 下个月也将在那里举办一场为期三晚的演出。
-该体育场的排名是...]]></description>
-      <guid>https://www.scmp.com/business/article/3336788/hong-kongs-kai-tak-stadium-lifts-citys-status-major-sports-and-entertainment-venue?utm_source=rss_feed</guid>
-      <pubDate>Wed, 17 Dec 2025 10:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
