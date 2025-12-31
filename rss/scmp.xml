@@ -4,7 +4,25 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 31 Dec 2025 06:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 09:18:32 GMT</lastBuildDate>
+    <item>
+      <title>消息人士称，随着中国需求激增，英伟达要求芯片制造商台积电提高 H200 产量</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3338308/nvidia-asks-chipmaker-tsmc-ramp-h200-production-china-demand-jumps-sources-say?utm_source=rss_feed</link>
+      <description><![CDATA[消息人士称，英伟达正在努力满足中国科技公司对其 H200 人工智能芯片的强劲需求，并已与合同制造商台积电接洽以提高产量。
+两位知情人士表示，中国科技公司已为 2026 年订购了超过 200 万颗 H200 芯片，而 Nvidia 目前仅持有 70 万颗库存。
+英伟达打算从台积电订购的确切额外数量仍不清楚，他们...]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3338308/nvidia-asks-chipmaker-tsmc-ramp-h200-production-china-demand-jumps-sources-say?utm_source=rss_feed</guid>
+      <pubDate>Wed, 31 Dec 2025 09:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>国内汽车市场前景黯淡，北京续签以旧换新补贴</title>
+      <link>https://www.scmp.com/business/china-business/article/3338281/beijing-renews-trade-subsidy-scheme-amid-domestic-car-markets-gloomy-outlook?utm_source=rss_feed</link>
+      <description><![CDATA[北京至少提前一周延长了汽车购买补贴，此举显然是为了在 2026 年销量下滑的担忧之际支撑中国汽车行业。
+根据国家发展和改革委员会和财政部周一联合发布的通知，用新车更换汽油和电动汽车的买家将获得每辆最高人民币 2 万元（2,858 美元）的现金补贴。
+当局早前...]]></description>
+      <guid>https://www.scmp.com/business/china-business/article/3338281/beijing-renews-trade-subsidy-scheme-amid-domestic-car-markets-gloomy-outlook?utm_source=rss_feed</guid>
+      <pubDate>Wed, 31 Dec 2025 08:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>中国DRAM巨头长鑫存储计划在上海科创板IPO，筹资42亿美元</title>
       <link>https://www.scmp.com/news/china-future-tech/semiconductors/article/3338246/chinas-dram-giant-cxmt-plans-us42-billion-ipo-shanghais-star-market?utm_source=rss_feed</link>
@@ -32,10 +50,10 @@
       <pubDate>Wed, 31 Dec 2025 03:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>香港股市连续第二年上涨，击败美国股市</title>
+      <title>香港和中国大陆股市今年收盘涨幅全球领先</title>
       <link>https://www.scmp.com/business/china-business/article/3338233/hong-kong-mainland-china-stocks-poised-notch-second-straight-annual-gains?utm_source=rss_feed</link>
-      <description><![CDATA[由于北京和华盛顿之间的关税休战缓解了地缘政治风险且中国经济增长保持强劲，香港股市在 2025 年收盘时连续第二年上涨。
-随着 2025 年交易于周三中午结束，恒生指数以 28% 的涨幅结束了这一年——这确保了该 89 家指数成分股自 2017 年上涨 36% 以来的最佳年度表现。内地人民币计价股票的沪深 300 指数已上涨 18%，正走向...]]></description>
+      <description><![CDATA[由于北京和华盛顿之间的关税休战缓解了地缘政治风险且中国经济增长保持强劲，香港和中国大陆股市在 2025 年收盘时连续第二年强劲上涨。
+周三中午，2025 年交易结束，恒生指数以 28% 的涨幅结束了这一年，这确保了该 89 家指数成分股自 2017 年上涨 36% 以来的最佳年度表现。内地人民币计价股票的沪深 300 指数上涨了 18%。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3338233/hong-kong-mainland-china-stocks-poised-notch-second-straight-annual-gains?utm_source=rss_feed</guid>
       <pubDate>Wed, 31 Dec 2025 02:24:25 GMT</pubDate>
     </item>
@@ -113,23 +131,6 @@ Tripo AI 创始人兼首席执行官 Simon Song Yachen 表示，作为大型通�
 这...]]></description>
       <guid>https://www.scmp.com/property/article/3338162/hong-kong-developer-shkp-nudges-prices-latest-sierra-sea-flats-offer?utm_source=rss_feed</guid>
       <pubDate>Tue, 30 Dec 2025 09:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国成立的人工智能代理初创公司 Manus 被扎克伯格的 Meta 以“数十亿美元”收购</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3338117/china-founded-ai-agent-start-manus-acquired-zuckerbergs-meta-billions?utm_source=rss_feed</link>
-      <description><![CDATA[一家专门从事人工智能代理的中国初创企业被美国科技巨头Meta Platforms以数十亿美元收购，这是中美人工智能技术竞争中具有里程碑意义的交易。
-总部位于新加坡的 Manus 在 3 月份公开推出后仅九个月就被收购，突显了中国的人工智能竞争力，尽管华盛顿努力剥夺其竞争对手获得美国先进芯片和资金的机会。
-根据双方的公告，马努斯将...]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3338117/china-founded-ai-agent-start-manus-acquired-zuckerbergs-meta-billions?utm_source=rss_feed</guid>
-      <pubDate>Tue, 30 Dec 2025 06:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着香港 IPO 科技竞赛的升温，中国智普人工智能发行 5.6 亿美元股票</title>
-      <link>https://www.scmp.com/business/investor-relations/ipo-quote-profile/article/3338107/chinas-zhipu-ai-launches-us560-million-share-sale-hong-kongs-ipo-tech-race-heats?utm_source=rss_feed</link>
-      <description><![CDATA[中国人工智能公司智普人工智能于周二启动股票发售，筹集 43.5 亿港元（5.6 亿美元），在科技首次公开募股（IPO）激增之际，距离成为首家在香港上市的大型语言模型（LLM）开发商又近了一步。
-这家初创公司的正式名称为Knowledge Atlas Technology，在海外上市的名称为Z.ai，其发行价格定为116.20港元，发行超过3700万股，其中10%分配给散户投资者。该公司计划...]]></description>
-      <guid>https://www.scmp.com/business/investor-relations/ipo-quote-profile/article/3338107/chinas-zhipu-ai-launches-us560-million-share-sale-hong-kongs-ipo-tech-race-heats?utm_source=rss_feed</guid>
-      <pubDate>Tue, 30 Dec 2025 05:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
