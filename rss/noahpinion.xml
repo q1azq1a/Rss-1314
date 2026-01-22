@@ -3,8 +3,15 @@
   <channel>
     <title>诺阿平宁</title>
     <link>https://www.noahpinion.blog</link>
-    <description></description>
-    <lastBuildDate>Thu, 22 Jan 2026 09:27:22 GMT</lastBuildDate>
+    <description>经济学和其他有趣的东西</description>
+    <lastBuildDate>Thu, 22 Jan 2026 12:34:01 GMT</lastBuildDate>
+    <item>
+      <title>让我们拯救人类吧！</title>
+      <link>https://www.noahpinion.blog/p/lets-save-the-human-species</link>
+      <description><![CDATA[也许有一个解决生育率下降的办法。我们来找到它吧！]]></description>
+      <guid>https://www.noahpinion.blog/p/lets-save-the-human-species</guid>
+      <pubDate>Thu, 22 Jan 2026 10:35:22 GMT</pubDate>
+    </item>
     <item>
       <title>抵抗是必要的，但还不够</title>
       <link>https://www.noahpinion.blog/p/resistance-is-necessary-but-its-not</link>
@@ -85,12 +92,12 @@
     <item>
       <title>微网经济</title>
       <link>https://www.noahpinion.blog/p/the-weeb-economy</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我的书的整个新部分。]]></description>
       <guid>https://www.noahpinion.blog/p/the-weeb-economy</guid>
       <pubDate>Tue, 30 Dec 2025 09:43:45 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>美国正在发生的十件事</title>
       <link>https://www.noahpinion.blog/p/ten-things-that-are-going-right-in</link>
       <description><![CDATA[我们的社会正在慢慢恢复正常吗？]]></description>
       <guid>https://www.noahpinion.blog/p/ten-things-that-are-going-right-in</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>为什么人人都爱日本</title>
       <link>https://www.noahpinion.blog/p/why-everyone-loves-japan</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我关于日本经济的书的第三部分。]]></description>
       <guid>https://www.noahpinion.blog/p/why-everyone-loves-japan</guid>
       <pubDate>Fri, 26 Dec 2025 09:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.noahpinion.blog/p/why-europe-should-resist-the-second</link>
-      <description><![CDATA[去工业化听起来和平、轻松、愉快，但事实并非如此。]]></description>
-      <guid>https://www.noahpinion.blog/p/why-europe-should-resist-the-second</guid>
-      <pubDate>Wed, 24 Dec 2025 09:39:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
