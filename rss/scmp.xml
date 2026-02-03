@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 02 Feb 2026 18:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 01:25:36 GMT</lastBuildDate>
+    <item>
+      <title>“物有所值”：人工智能代理 OpenClaw 采用中国模型，比美国竞争对手具有成本优势</title>
+      <link>https://www.scmp.com/tech/article/3342137/value-money-ai-agent-openclaw-adopts-chinese-models-cost-edge-over-us-rivals?utm_source=rss_feed</link>
+      <description><![CDATA[业内专家表示，全球热门人工智能代理 OpenClaw 正在采用中国开源人工智能模型，因为其在成本和性能方面具有良好的平衡。
+自 2025 年末推出以来取得巨大成功的 OpenClaw 周五宣布，将在其服务中免费提供中国初创企业 Moonshot AI 的最新 Kimi K2.5 和 Kimi Coding 代理，同时增加对另一家中国基础人工智能开发商 MiniMax 的支持。
+分析人士称，中国...]]></description>
+      <guid>https://www.scmp.com/tech/article/3342137/value-money-ai-agent-openclaw-adopts-chinese-models-cost-edge-over-us-rivals?utm_source=rss_feed</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:17 GMT</pubDate>
+    </item>
     <item>
       <title>腾讯的红包现金大礼包能否在拥挤的人工智能市场再次发挥作用？</title>
       <link>https://www.scmp.com/tech/article/3342111/red-packet-rumble-will-tencents-cash-giveaway-work-again-crowded-ai-market?utm_source=rss_feed</link>
@@ -123,14 +132,6 @@
 这 96 份申请是一年前记录的 29 份申请的三倍多，大致...]]></description>
       <guid>https://www.scmp.com/business/article/3342003/hong-kong-back-global-ipo-spotlight-after-strongest-january-years?utm_source=rss_feed</guid>
       <pubDate>Sun, 01 Feb 2026 12:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达的黄仁勋敦促台积电在人工智能芯片紧缺的情况下扩大产能</title>
-      <link>https://www.scmp.com/tech/article/3341994/nvidias-jensen-huang-urges-tsmc-expand-capacity-amid-ai-chip-crunch?utm_source=rss_feed</link>
-      <description><![CDATA[英伟达首席执行官黄仁勋表示，台积电需要“非常努力”来满足美国领先芯片设计公司英伟达不断增长的需求，仅此一项就需要台积电在未来十年将产能增加一倍以上。
-黄仁勋发表上述言论之前，周六晚，他与台湾主要供应链合作伙伴的高管举行了一场高调的宴会，其中包括台积电董事长兼首席执行官魏忠贤和富士康董事长刘扬，这位英伟达创始人寻求支撑供应……]]></description>
-      <guid>https://www.scmp.com/tech/article/3341994/nvidias-jensen-huang-urges-tsmc-expand-capacity-amid-ai-chip-crunch?utm_source=rss_feed</guid>
-      <pubDate>Sun, 01 Feb 2026 11:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
