@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Thu, 26 Feb 2026 12:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:46:31 GMT</lastBuildDate>
+    <item>
+      <title>百度在第四季度低迷时期吹捧人工智能芯片的潜力</title>
+      <link>https://www.scmp.com/tech/article/3344772/baidu-touts-ai-chips-potential-amid-sluggish-fourth-quarter?utm_source=rss_feed</link>
+      <description><![CDATA[百度创始人、首席执行官兼董事长李彦宏在第四季度财报电话会议上大肆宣扬其昆仑芯半导体设计部门开发的人工智能芯片的性能和潜力，为原本黯淡的季度带来了难得的亮点。
+“我们很自豪地看到市场越来越认识到[昆仑芯芯片]的价值和经过验证的性能，”李周四表示。
+昆仑芯芯片基于专有架构构建，提供“稳定、高性能...]]></description>
+      <guid>https://www.scmp.com/tech/article/3344772/baidu-touts-ai-chips-potential-amid-sluggish-fourth-quarter?utm_source=rss_feed</guid>
+      <pubDate>Thu, 26 Feb 2026 14:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>标准普尔：2026年香港银行抵押资产估值将继续下降</title>
       <link>https://www.scmp.com/business/banking-finance/article/3344761/hong-kong-banks-collateral-asset-valuations-continue-declining-2026-sp?utm_source=rss_feed</link>
@@ -125,15 +134,6 @@
 陈表示，交易所运营商香港交易及结算所（香港交易所）将在今年上半年的市场咨询中就如何...]]></description>
       <guid>https://www.scmp.com/business/article/3344629/hong-kong-speed-stock-settlement-time-catch-west-and-mainland?utm_source=rss_feed</guid>
       <pubDate>Wed, 25 Feb 2026 11:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的MiniMax、Moonshot在人工智能代币使用排名中名列前茅，结束了美国的统治地位</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3344587/chinas-minimax-moonshot-top-ai-token-use-ranking-ending-year-us-dominance?utm_source=rss_feed</link>
-      <description><![CDATA[OpenRouter 的数据显示，以 MiniMax AI 和 Moonshot AI 为首的中国开源人工智能模型已超过全球代币使用量，结束了美国开发者一年的市场主导地位。
-在线人工智能托管平台OpenRouter的最新排名反映了在一系列新版本发布后，国际对其网站上的中国开源模型的需求不断增加。
-来自上海 MiniMax 的 M2.5 于大约两周前推出，成为最受欢迎的人工智能...]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3344587/chinas-minimax-moonshot-top-ai-token-use-ranking-ending-year-us-dominance?utm_source=rss_feed</guid>
-      <pubDate>Wed, 25 Feb 2026 11:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
