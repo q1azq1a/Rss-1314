@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 03 Apr 2026 09:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 12:44:51 GMT</lastBuildDate>
+    <item>
+      <title>在中国的“龙虾”热潮中，腾讯通过企业工具扩展了 OpenClaw 套件</title>
+      <link>https://www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze?utm_source=rss_feed</link>
+      <description><![CDATA[腾讯控股为企业推出了一款新的 OpenClaw 工具，承诺轻松部署人工智能代理，作为这家中国互联网巨头利用国内“龙虾”热潮的努力的一部分。
+ClawPro 于周四由腾讯云部门推出公测版，作为企业的人工智能代理管理平台，允许企业部署 OpenClaw 模板、选择模型和代理、跟踪代币消耗并管理安全设置。
+腾讯表示...]]></description>
+      <guid>https://www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze?utm_source=rss_feed</guid>
+      <pubDate>Fri, 03 Apr 2026 12:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>宏利、汇丰、巴克莱等大型金融公司推动人工智能在香港的应用</title>
       <link>https://www.scmp.com/business/banking-finance/article/3348897/manulife-hsbc-barclays-among-big-finance-firms-pushing-ai-adoption-hong-kong?utm_source=rss_feed</link>
@@ -128,15 +137,6 @@
 《南华早报》采取...]]></description>
       <guid>https://www.scmp.com/tech/tech-trends/article/3348699/what-zhipu-and-minimaxs-first-post-ipo-earnings-say-about-2-chinese-ai-start-ups?utm_source=rss_feed</guid>
       <pubDate>Thu, 02 Apr 2026 02:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>52年前买的香港房子，业主回报252倍</title>
-      <link>https://www.scmp.com/business/banking-finance/article/3348677/hong-kong-home-bought-52-years-ago-fetches-owner-252-times-return?utm_source=rss_feed</link>
-      <description><![CDATA[在耐心等待市场状况好转后，香港资深体育管理者余锦基 (Lawrence Yu Kam-kee) 以约 1.9 亿港元（2,420 万美元）的价格出售了他在九龙塘拥有 50 多年历史的房屋。
-“我很早就想卖掉，但等到市场有所改善才能得到更好的价格，”于告诉《南华早报》。他补充说，他大约一年前搬出了这所房子，因为房子太大，无法容纳一个人。
-销售协议已经签署，并...]]></description>
-      <guid>https://www.scmp.com/business/banking-finance/article/3348677/hong-kong-home-bought-52-years-ago-fetches-owner-252-times-return?utm_source=rss_feed</guid>
-      <pubDate>Thu, 02 Apr 2026 00:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
