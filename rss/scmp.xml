@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Wed, 20 May 2026 02:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:42:59 GMT</lastBuildDate>
+    <item>
+      <title>微型电容器如何成为人工智能驱动的最新投资者宠儿</title>
+      <link>https://www.scmp.com/tech/article/3354168/how-tiny-capacitors-became-latest-ai-driven-investor-darling?utm_source=rss_feed</link>
+      <description><![CDATA[随着人工智能热潮引发新的生产，对多层陶瓷电容器（MLCC）（从智能手机到电动汽车等各种产品中广泛使用的微型电子元件）的需求正在激增。
+MLCC 在电路板中充当电缓冲器，越来越多地在高性能服务器中大量部署，成为继存储芯片和光学模块之后最新的人工智能驱动的投资者宠儿。
+AI 硬件热潮正在挤压 MLCC 的产能……]]></description>
+      <guid>https://www.scmp.com/tech/article/3354168/how-tiny-capacitors-became-latest-ai-driven-investor-darling?utm_source=rss_feed</guid>
+      <pubDate>Wed, 20 May 2026 03:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>由于成本飙升，蔚来猛烈抨击中国电动汽车价格战，不顾竞争对手理想汽车的降价</title>
       <link>https://www.scmp.com/business/china-business/article/3354140/nio-slams-ev-price-wars-china-costs-surge-defying-cuts-rival-li-auto?utm_source=rss_feed</link>
@@ -128,15 +137,6 @@
 “我们预计...]]></description>
       <guid>https://www.scmp.com/business/article/3354005/hong-kong-property-upswing-poised-hold-despite-interest-rates-risk-moodys?utm_source=rss_feed</guid>
       <pubDate>Mon, 18 May 2026 23:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着人民币成为全球货币，北京面临着平衡之举</title>
-      <link>https://www.scmp.com/economy/china-economy/article/3353975/chinas-yuan-emerges-global-currency-beijing-faces-balancing-act?utm_source=rss_feed</link>
-      <description><![CDATA[随着人民币兑美元汇率徘徊在三年高位附近，中国最高外汇监管机构的一篇文章表明，当局仍将重点放在稳定和风险控制上。
-中国国家外汇管理局局长朱鹤新在中共党刊《启智》上发表的文章中呼吁建立“更加便捷、更加开放、更加安全、更加智能”的外汇体系。
-监管机构将寻求保持人民币“基本稳定在......]]></description>
-      <guid>https://www.scmp.com/economy/china-economy/article/3353975/chinas-yuan-emerges-global-currency-beijing-faces-balancing-act?utm_source=rss_feed</guid>
-      <pubDate>Mon, 18 May 2026 12:00:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
