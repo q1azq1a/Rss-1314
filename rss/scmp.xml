@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 25 May 2026 12:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:01:23 GMT</lastBuildDate>
+    <item>
+      <title>胡润百富榜：在华美国芯片制造商收入增长，克服贸易紧张局势</title>
+      <link>https://www.scmp.com/business/china-business/article/3354805/us-chipmakers-china-see-revenue-rise-defying-trade-tensions-hurun-list?utm_source=rss_feed</link>
+      <description><![CDATA[一项新的分析显示，尽管贸易紧张，从高通到英伟达等 26 家美国半导体公司去年在中国的收入平均增长了 20%。
+胡润研究院周一发布的最新《2026胡润在华美国企业100强》报告中的数据追踪了100家美国上市公司去年在华营收的表现。
+中国收入前100名中，有26人来自半导体...]]></description>
+      <guid>https://www.scmp.com/business/china-business/article/3354805/us-chipmakers-china-see-revenue-rise-defying-trade-tensions-hurun-list?utm_source=rss_feed</guid>
+      <pubDate>Mon, 25 May 2026 15:03:11 GMT</pubDate>
+    </item>
     <item>
       <title>香港怡和集团以24亿美元收购澳大利亚诊断集团I-MED</title>
       <link>https://www.scmp.com/business/companies/article/3354788/hong-kong-based-jardine-matheson-buys-australian-diagnostic-group-i-med-us24-billion?utm_source=rss_feed</link>
@@ -54,6 +63,15 @@ I-MED 放射学网络涵盖澳大利亚和新西兰大都市和地区社区的 2
 这家房地产服务公司表示，在一项调查中，82% 的企业受访者表示，购买或租赁房产的费用超出预期，或者在搜索失败或长时间装修上浪费时间，这代表着严重的...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3354678/property-challenges-put-chinese-firms-go-global-plans-risk-jll-says?utm_source=rss_feed</guid>
       <pubDate>Mon, 25 May 2026 03:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>华为推出新的扩容法则和技术，缩小与台积电、三星的差距</title>
+      <link>https://www.scmp.com/tech/article/3354710/huawei-unveils-new-scaling-law-and-tech-can-develop-14-nm-equivalent-chips-2031?utm_source=rss_feed</link>
+      <description><![CDATA[华为技术有限公司推出了新的缩放法则和芯片架构，旨在在几年内提供相当于 1.4 纳米工艺节点的晶体管性能（代表半导体开发的前沿），而无需依赖光刻工具的进步。
+此举代表着这家中国科技巨头建立自力更生的半导体生态系统的重要一步。
+The company claims the new Tau (τ) Scaling Law, which was presented on Monday by He Tingbo,...]]></description>
+      <guid>https://www.scmp.com/tech/article/3354710/huawei-unveils-new-scaling-law-and-tech-can-develop-14-nm-equivalent-chips-2031?utm_source=rss_feed</guid>
+      <pubDate>Mon, 25 May 2026 01:30:20 GMT</pubDate>
     </item>
     <item>
       <title>中国机械巨头徐工希望通过绿色自主技术在全球销售中占据更大份额</title>
@@ -112,23 +130,6 @@ I-MED 放射学网络涵盖澳大利亚和新西兰大都市和地区社区的 2
 “[伊朗战争]将导致太阳能在当时更具竞争力和更低的价格......]]></description>
       <guid>https://www.scmp.com/business/climate-and-energy/article/3354536/middle-east-tensions-complicate-beijings-push-curb-china-solar-overcapacity?utm_source=rss_feed</guid>
       <pubDate>Sun, 24 May 2026 01:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港楼市持续复苏 新地荃湾最新单位售空</title>
-      <link>https://www.scmp.com/business/china-business/article/3354624/shkp-sells-out-latest-flats-tsuen-wan-hong-kong-property-market-continues-recovery?utm_source=rss_feed</link>
-      <description><![CDATA[随着中美关系改善和人才流入香港，香港住宅市场持续复苏，周六，香港开发商售出了向购房者提供的 120 多套新公寓中的大部分。
-据美联集团称，截至周六中午 12 时 30 分，新鸿基地产 (SHKP) 已售出新界荃湾 Lime Spark 项目的全部 87 个单位，其中一位买家花费超过 4,000 万港元（510 万美元）购买了 6 个两居室单位。]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3354624/shkp-sells-out-latest-flats-tsuen-wan-hong-kong-property-market-continues-recovery?utm_source=rss_feed</guid>
-      <pubDate>Sat, 23 May 2026 09:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>非法工厂如何破坏中国太阳能产能过剩的打击</title>
-      <link>https://www.scmp.com/economy/china-economy/article/3354551/how-illegal-factories-are-undermining-chinas-solar-overcapacity-crackdown?utm_source=rss_feed</link>
-      <description><![CDATA[近两年来，中国一直在大力消除太阳能行业严重的产能过剩 — — 这一问题引发了恶性价格战，损害了国内企业的利润，并助长了海外的保护主义政策。
-然而，尽管北京一再努力，问题仍远未得到解决。该行业仍然受到产能过剩的困扰，导致整个供应链上的企业处于亏损状态。
-言辞与结果之间的不匹配尤其......]]></description>
-      <guid>https://www.scmp.com/economy/china-economy/article/3354551/how-illegal-factories-are-undermining-chinas-solar-overcapacity-crackdown?utm_source=rss_feed</guid>
-      <pubDate>Sat, 23 May 2026 08:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
