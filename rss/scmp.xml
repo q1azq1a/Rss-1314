@@ -4,7 +4,15 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 14:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:08:42 GMT</lastBuildDate>
+    <item>
+      <title>AI 基础设施是多层的，HDD 是扩展 AI 的核心，WD 份额</title>
+      <link>https://www.scmp.com/presented/business/topics/wd-computex-2026/article/3355936/ai-infrastructure-multi-tiered-and-hdds-are-central-scaling-ai-wd-shares?utm_source=rss_feed</link>
+      <description><![CDATA[[本文内容由我们的广告合作伙伴制作。]
+人工智能长期以来一直陷入一个悖论：人工智能工作负载需要高性能存储，而这长期以来与闪存相关，但使用全闪存在人工智能级别进行扩展的成本却高得令人望而却步。另一方面，硬盘驱动器 (HDD) 已经大规模、经济高效地存储了大部分人工智能数据。它们是现代数据中心经过验证的、经济高效的容量基础。将他们分开的是这样的假设……]]></description>
+      <guid>https://www.scmp.com/presented/business/topics/wd-computex-2026/article/3355936/ai-infrastructure-multi-tiered-and-hdds-are-central-scaling-ai-wd-shares?utm_source=rss_feed</guid>
+      <pubDate>Fri, 05 Jun 2026 16:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 准备历史性 IPO，中国启动太空计算中心</title>
       <link>https://www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo?utm_source=rss_feed</link>
@@ -120,14 +128,6 @@
 今年早些时候，豪伊在...]]></description>
       <guid>https://www.scmp.com/native/business/topics/planning-fulfilling-future/article/3354458/world-champion-swimmer-siobhan-haughey-reflects-life-outside-pool?utm_source=rss_feed</guid>
       <pubDate>Thu, 04 Jun 2026 08:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>更多美国公司因昂贵的硅谷人工智能而转向中国 DeepSeek</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed</link>
-      <description><![CDATA[随着越来越多的公司放弃 OpenAI 和 Anthropic 等昂贵的美国期权，转而选择更实惠的替代方案，中国人工智能初创公司 DeepSeek 在 6 月份的美国主要商业支出指数中名列前茅。
-根据总部位于纽约的企业支出平台 Ramp 的“热门软件供应商”名单（该平台跟踪企业首次从软件供应商购买产品的时间），DeepSeek 的崛起使其领先于事件管理平台 PheedLoop 和……]]></description>
-      <guid>https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed</guid>
-      <pubDate>Thu, 04 Jun 2026 07:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
