@@ -4,7 +4,15 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 02:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:50:17 GMT</lastBuildDate>
+    <item>
+      <title>尽管有新规定，内地人仍可在香港开设银行账户：金管局</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed</link>
+      <description><![CDATA[香港金融管理局（金管局）周六在一份声明中表示，内地客户仍然可以在香港开设银行账户，但银行必须采取严格的新检查，以确保其流程“合规有序”。
+声明称：“银行业已落实金管局通知中规定的新监管要求，以确保开户流程合规有序。” “中国大陆客户持续申请开户，总体而言……]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed</guid>
+      <pubDate>Sat, 06 Jun 2026 07:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>中国航空公司抢占疫情后航线三分之二份额</title>
       <link>https://www.scmp.com/business/china-business/article/3356169/chinese-carriers-seize-two-thirds-share-post-pandemic-air-routes?utm_source=rss_feed</link>
@@ -120,15 +128,6 @@
 多年来，业界一直将人工智能视为一个计算问题：更多的 GPU、更密集的集群、更快的互连。该框架现在还不完整。从规模上看，人工智能本质上是一个数据系统。每次训练运行、每次推理、每次代理交互都会生成必须存储、保留和重新访问的新数据。计算具有弹性和周期性。它可以改变用途。数据是累积且永久的，使得存储需求......]]></description>
       <guid>https://www.scmp.com/presented/business/topics/wd-computex-2026/article/3355935/ai-isnt-just-compute-race-its-data-race-and-storage-will-decide-winners-wd-shares?utm_source=rss_feed</guid>
       <pubDate>Thu, 04 Jun 2026 16:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着电动汽车需求激增，中国汽车制造商比亚迪、奇瑞海外业务增长 80%</title>
-      <link>https://www.scmp.com/business/china-business/article/3355982/chinese-carmakers-byd-chery-chart-80-growth-overseas-ev-demand-spikes?utm_source=rss_feed</link>
-      <description><![CDATA[比亚迪和奇瑞汽车等中国领先汽车制造商正在从提高海外销量的努力中获得回报，因为他们在电动汽车（EV）需求不断增长的情况下追求更高的盈利能力。
-奇瑞是中国大陆汽车集团“走出去”的领头羊，也是中国最大的汽车出口商，上个月海外销量是国内的三倍。
-这家总部位于中国东部安徽省的国有企业向客户交付了 181,571 辆汽车……]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3355982/chinese-carmakers-byd-chery-chart-80-growth-overseas-ev-demand-spikes?utm_source=rss_feed</guid>
-      <pubDate>Thu, 04 Jun 2026 12:30:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
