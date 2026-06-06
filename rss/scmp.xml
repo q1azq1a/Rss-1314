@@ -4,7 +4,16 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 10:50:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:14:49 GMT</lastBuildDate>
+    <item>
+      <title>证监会主席：中国将加强程序化交易监管</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman?utm_source=rss_feed</link>
+      <description><![CDATA[中国证监会主席周六表示，中国当局计划加强对程序化交易的监管，以打击市场失当行为。
+对冲基金和机构投资者越来越多地通过程序交易来管理其在中国的投资组合，其中涉及使用算法根据预定条件自动执行大量证券订单。
+“程序化交易已经成为我国重要的交易方式……]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman?utm_source=rss_feed</guid>
+      <pubDate>Sat, 06 Jun 2026 11:51:21 GMT</pubDate>
+    </item>
     <item>
       <title>尽管有新规定，内地人仍可在香港开设银行账户：金管局</title>
       <link>https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed</link>
@@ -120,14 +129,6 @@
 根据香港证监会的数据，5 月份，境内投资者通过跨境通计划出售了总计 36 亿港元（4.595 亿美元）的港股，这是三年来首次月度资金流出。]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3355963/hong-kong-stocks-struggle-mainland-china-markets-ride-ai-wave?utm_source=rss_feed</guid>
       <pubDate>Thu, 04 Jun 2026 23:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能不仅仅是一场计算竞赛。这是一场数据竞赛 - 存储将决定获胜者，WD 股票</title>
-      <link>https://www.scmp.com/presented/business/topics/wd-computex-2026/article/3355935/ai-isnt-just-compute-race-its-data-race-and-storage-will-decide-winners-wd-shares?utm_source=rss_feed</link>
-      <description><![CDATA[[本文内容由我们的广告合作伙伴制作。]
-多年来，业界一直将人工智能视为一个计算问题：更多的 GPU、更密集的集群、更快的互连。该框架现在还不完整。从规模上看，人工智能本质上是一个数据系统。每次训练运行、每次推理、每次代理交互都会生成必须存储、保留和重新访问的新数据。计算具有弹性和周期性。它可以改变用途。数据是累积且永久的，使得存储需求......]]></description>
-      <guid>https://www.scmp.com/presented/business/topics/wd-computex-2026/article/3355935/ai-isnt-just-compute-race-its-data-race-and-storage-will-decide-winners-wd-shares?utm_source=rss_feed</guid>
-      <pubDate>Thu, 04 Jun 2026 16:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
