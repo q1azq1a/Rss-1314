@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>诺阿平宁</title>
+    <title></title>
     <link>https://www.noahpinion.blog</link>
     <description>经济学和其他有趣的东西</description>
-    <lastBuildDate>Sun, 21 Jun 2026 22:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:00:33 GMT</lastBuildDate>
+    <item>
+      <title>披萨轮很糟糕，日本厕所很棒</title>
+      <link>https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets</link>
+      <description><![CDATA[那么为什么美国人使用前者而不使用后者呢？]]></description>
+      <guid>https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets</guid>
+      <pubDate>Sun, 21 Jun 2026 23:33:20 GMT</pubDate>
+    </item>
     <item>
       <title>日本的国家认同由什么决定？</title>
       <link>https://www.noahpinion.blog/p/what-defines-japans-national-identity</link>
@@ -22,7 +29,7 @@
     <item>
       <title>伊朗是特朗普的卡特里娜飓风</title>
       <link>https://www.noahpinion.blog/p/iran-is-trumps-katrina</link>
-      <description><![CDATA[对伊朗崩溃后果的思考。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.noahpinion.blog/p/iran-is-trumps-katrina</guid>
       <pubDate>Tue, 16 Jun 2026 22:29:17 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>你终于准备好承认是手机惹的祸了吗？</title>
       <link>https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its</link>
-      <description><![CDATA[我们的生活并没有进化成数字蜂巢思维的终端。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its</guid>
       <pubDate>Thu, 11 Jun 2026 07:38:27 GMT</pubDate>
     </item>
     <item>
-      <title>保险公司不是美国医疗保健系统的主要恶棍</title>
+      <title></title>
       <link>https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of</link>
       <description><![CDATA[来自 Noahpinion 档案的转发。]]></description>
       <guid>https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[人类总是比较擅长的一件事就是知道我们想要什么。]]></description>
       <guid>https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai</guid>
       <pubDate>Wed, 27 May 2026 08:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你厌倦了特朗普时代吗？</title>
-      <link>https://www.noahpinion.blog/p/are-you-tired-of-the-trump-era-yet</link>
-      <description><![CDATA[每隔几周就会发生一场新的灾难，任何其他总统都会被击沉。]]></description>
-      <guid>https://www.noahpinion.blog/p/are-you-tired-of-the-trump-era-yet</guid>
-      <pubDate>Mon, 25 May 2026 08:14:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
