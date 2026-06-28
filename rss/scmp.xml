@@ -4,7 +4,23 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 06:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:02:21 GMT</lastBuildDate>
+    <item>
+      <title>更快的人工智能，更低的成本：DeepSeek 表示，DSpark 缓解了推理瓶颈和芯片压力</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed</link>
+      <description><![CDATA[随着中国开发者之间的竞争日益转向降低服务成本和增强用户体验，中国人工智能初创公司 DeepSeek 对其旗舰 V4 模型进行了重大升级，旨在大幅加速 AI 响应生成。
+DeepSeek 表示，通过采用所谓的推测性解码框架 DSpark，它将每个用户的响应速度提高了 85%，这一效率提升可以减少人工智能系统对更大、更多……的依赖。]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed</guid>
+      <pubDate>Sun, 28 Jun 2026 11:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能繁荣如何让投资者面临风险，而经济低迷可能会导致急剧崩溃：国际清算银行</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis?utm_source=rss_feed</link>
+      <description><![CDATA[随着全球金融体系难以跟上人工智能投资热潮的步伐，且资本流动通过监管松散的非银行渠道激增，一家重要国际组织警告称，人工智能衰退可能会发展成为比传统银行业危机更严重、更快的崩盘。
+国际清算银行（BIS）在周日发布的年度经济报告中表示，人工智能的资金越来越多地通过对冲基金、私人信贷……]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis?utm_source=rss_feed</guid>
+      <pubDate>Sun, 28 Jun 2026 09:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能将数据中心推向极限，一些中国芯片制造商押注于 SiC</title>
       <link>https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed</link>
@@ -114,24 +130,6 @@
 中环高档区波雷特道21号20楼10室每平方尺成交126,000港元，创今年楼盘及新屋销售最高价。]]></description>
       <guid>https://www.scmp.com/business/article/3358380/ck-asset-sells-penthouse-hong-kongs-mid-levels-us485m-sets-pricing-benchmark?utm_source=rss_feed</guid>
       <pubDate>Fri, 26 Jun 2026 05:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>恒生指数收盘一年多来最糟糕的一周，科技股再度遭遇抛售</title>
-      <link>https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed</link>
-      <description><![CDATA[香港和中国内地股市周五暴跌，科技公司新一轮抛售导致该市股市基准指数跌至一年多以来最差的单周表现。
-恒生指数收盘下跌 1.8%，至 22,671.86 点，本周跌幅为 5.2%，为 2025 年 4 月 11 日以来最大单周跌幅。恒生科技指数下跌 3.4%。
-在内地，科技股领跌，科创板50指数跟踪...]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed</guid>
-      <pubDate>Fri, 26 Jun 2026 03:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>小型汽车制造商的“生死存亡”：价格战迫在眉睫，中国市场将迎来 156 款新车型</title>
-      <link>https://www.scmp.com/business/china-business/article/3358193/do-or-die-small-carmakers-china-market-braces-156-new-models-price-war-looms?utm_source=rss_feed</link>
-      <description><![CDATA[预计2026年下半年将有创纪录的156款新车型登陆中国汽车市场，随着新的价格战迫在眉睫，人们对小型企业盈利能力的担忧加剧。
-分析师表示，价格在 10 万元（14,740 美元）左右的智能电动汽车（EV）将大量涌入大众市场，但由于品牌知名度和生产优势，预计只有领先的汽车制造商才能获得大订单。
-“对新车的需求已经反弹，但并没有......]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3358193/do-or-die-small-carmakers-china-market-braces-156-new-models-price-war-looms?utm_source=rss_feed</guid>
-      <pubDate>Fri, 26 Jun 2026 01:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
