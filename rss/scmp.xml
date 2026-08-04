@@ -4,9 +4,18 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Tue, 04 Aug 2026 11:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:52:26 GMT</lastBuildDate>
     <item>
-      <title>SpaceX报告称，随着人工智能贸易复苏，股票解锁可能会影响香港和中国大陆股市</title>
+      <title>中国MiniMax因版权纠纷限制海外获取新的人工智能视频模型</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed</link>
+      <description><![CDATA[中国人工智能公司MiniMax开源了其新的H3视频模型，但对美国和欧盟等主要海外市场的用户施加了许可条件，凸显了生成视频AI的版权挑战。
+在这家总部位于上海的公司周一向开发者发布该模型的权重后，用户发现该许可证限制了美国、欧盟、英国和韩国的免费访问。
+权重——编码其智能的基本参数——……]]></description>
+      <guid>https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed</link>
       <description><![CDATA[SpaceX 自上市以来的首份盈利报告，以及即将提供的大量可供公开交易的股票，将考验人工智能行业复苏的力度，人工智能行业的复苏已推动标准普尔 500 指数逼近历史高点，并帮助香港股市跑赢大市。
 SpaceX 作为一家上市公司的第一批业绩将受到密切关注，埃隆·马斯克 (Elon Musk) 的商业航空航天部门被视为衡量投资者......]]></description>
@@ -120,15 +129,6 @@ SpaceX 作为一家上市公司的第一批业绩将受到密切关注，埃隆�
       <description><![CDATA[–]]></description>
       <guid>https://www.scmp.com/plus/business/china-evs/article/3362740/chinese-ev-demand-cools?utm_source=rss_feed</guid>
       <pubDate>Mon, 03 Aug 2026 03:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新电池会给中国电动汽车带来超越竞争对手所需的动力吗？</title>
-      <link>https://www.scmp.com/business/china-business/article/3362604/will-new-batteries-give-chinas-evs-jolt-they-need-charge-past-their-rivals?utm_source=rss_feed</link>
-      <description><![CDATA[4 月下旬的一个阴天夜晚，宁德时代新能源科技有限公司 (CATL) 在北京国家会议中心举办了一场科技活动，吸引了近 1,000 名观众，他们渴望一睹可能重塑全球汽车格局的下一代电动汽车 (EV) 电池。
-全球最大的电动汽车电池生产商宁德时代汽车业务首席技术官高欢在推介神行新产品系列时流露出自信。
-据该公司称，其...]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3362604/will-new-batteries-give-chinas-evs-jolt-they-need-charge-past-their-rivals?utm_source=rss_feed</guid>
-      <pubDate>Mon, 03 Aug 2026 02:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
