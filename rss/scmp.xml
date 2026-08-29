@@ -4,17 +4,25 @@
     <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 05:01:16 GMT</lastBuildDate>
+    <item>
+      <title>摩根大通高管：香港的长期财富中心地位不会受到内地投资限制</title>
+      <link>https://www.scmp.com/business/banking-finance/article/3365613/hong-kongs-long-term-wealth-hub-status-safe-mainland-investment-curbs-jpmorgan-exec?utm_source=rss_feed</link>
+      <description><![CDATA[摩根大通(JPMorgan Chase)的一位高管表示，北京最近对跨境投资的限制以及针对海外保险收益的税收转移可能会带来短期不确定性，但不会损害香港作为主要财富管理中心的长期竞争力。
+美国资产规模最大的银行香港首席执行官兼北亚区主席邝锦城表示，她对亚洲金融业的长期前景仍持乐观态度，理由是……]]></description>
+      <guid>https://www.scmp.com/business/banking-finance/article/3365613/hong-kongs-long-term-wealth-hub-status-safe-mainland-investment-curbs-jpmorgan-exec?utm_source=rss_feed</guid>
+      <pubDate>Sat, 29 Aug 2026 02:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>全球需求激增，比亚迪第二季度利润12亿美元</title>
       <link>https://www.scmp.com/business/china-evs/article/3365652/byd-posts-us12-billion-profit-second-quarter-surging-global-demand?utm_source=rss_feed</link>
-      <description><![CDATA[中国电动汽车(EV)巨头比亚迪的盈利在4月至6月的三个月内增长了30%，结束了连续五个季度的亏损，原因是海外销售和高端车型的旺盛提高了其净利润率和盈利能力。
+      <description><![CDATA[中国电动汽车(EV)巨头比亚迪的盈利在4月至6月的三个月内增长了30%，结束了连续五个季度的亏损，因为海外销售和高端车型的旺盛提高了其净利润率和盈利能力。
 这家总部位于深圳的汽车制造商也是全球最大的电动汽车制造商，第二季度净利润为 82 亿元人民币（12 亿美元），同比增长 30%。该季度业绩超出了彭博社 80 亿元人民币的普遍预期...]]></description>
       <guid>https://www.scmp.com/business/china-evs/article/3365652/byd-posts-us12-billion-profit-second-quarter-surging-global-demand?utm_source=rss_feed</guid>
       <pubDate>Fri, 28 Aug 2026 14:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>香港交易所科技 100 指数调整中加入小马智行和文远知行，瞄准人工智能股</title>
+      <title>香港交易所科技 100 指数调整中加入小马智行、文远知行，瞄准人工智能股</title>
       <link>https://www.scmp.com/business/banking-finance/article/3365637/hkex-tech-100-adds-pony-ai-weride-index-revamp-targeting-ai-stocks?utm_source=rss_feed</link>
       <description><![CDATA[香港交易及结算所 (HKEX) 将在其科技 100 指数中新增 10 家公司，其中包括自动驾驶公司 Pony AI 和 WeRide，作为季度调整的一部分，以增加该基准对人工智能和其他新兴技术的投资。
 其他新增公司包括人工智能药物发现专家英科智能、印刷电路板制造商胜巨科技、企业人工智能公司北京海智科技和人工智能数据智能提供商明略科技……]]></description>
@@ -24,7 +32,7 @@
     <item>
       <title>“积极扩张”取得成效，中国长鑫存储收入大幅增长 870%</title>
       <link>https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed</link>
-      <description><![CDATA[中国芯片制造商长鑫存储技术有限公司（CXMT）周五报告称，该公司上半年收入大幅增长，该公司发布了自上个月在上海上市成为中国市值最高的上市公司以来的首份财务业绩。
+      <description><![CDATA[中国芯片制造商长鑫存储技术有限公司（CXMT）周五报告称，该公司上半年营收大幅增长，该公司发布了自上个月在上海上市成为中国市值最高的上市公司以来的首份财务业绩。
 根据一份备案文件，这家总部位于合肥的公司是中国领先的动态随机存取存储器 (DRAM) 产品制造商，截至 6 月份的六个月内营收为 1503.1 亿元人民币（224 亿美元），同比增长 873.64%。]]></description>
       <guid>https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed</guid>
       <pubDate>Fri, 28 Aug 2026 11:06:12 GMT</pubDate>
@@ -48,7 +56,7 @@
     <item>
       <title>随着训练和推理的计算需求激增，MiniMax 扩大了阿里巴巴云协议</title>
       <link>https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed</link>
-      <description><![CDATA[中国人工智能公司MiniMax将其与阿里巴巴集团控股公司的云计算交易的三年采购上限提高了220%，达到12亿美元，突显了中国顶级人工智能开发商对计算能力的需求激增。
+      <description><![CDATA[中国人工智能公司MiniMax将其与阿里巴巴集团控股公司的云计算交易的三年期采购上限提高了220%，达到12亿美元，突显了中国顶级人工智能开发商对计算能力的需求激增。
 这家总部位于上海的公司表示，在截至 6 月底已消耗掉三分之二的预算后，今年计划在阿里云服务上支出高达 3 亿美元，几乎是原定 1.15 亿美元上限的三倍。]]></description>
       <guid>https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed</guid>
       <pubDate>Fri, 28 Aug 2026 08:00:14 GMT</pubDate>
@@ -56,7 +64,7 @@
     <item>
       <title>比特币上涨和阿里巴巴股票购买：数字推动市场</title>
       <link>https://www.scmp.com/business/china-business/article/3365540/bitcoin-rally-and-alibaba-share-purchases-numbers-moving-markets?utm_source=rss_feed</link>
-      <description><![CDATA[由于美国主权债务规模继续困扰全球金融市场，比特币和黄金本周上涨。与此同时，阿里巴巴集团控股公司的高管和创始人马云回购了股票，Shein 宣布计划在香港进行首次公开​​募股，规模比之前预期的要小。
+      <description><![CDATA[由于美国主权债务规模继续困扰全球金融市场，比特币和黄金本周上涨。与此同时，阿里巴巴集团控股公司的高管和创始人马云回购了股票，Shein 宣布了香港首次公开募股的计划，规模比之前预期的要小。
 以下是本周最受市场关注的一些数据。
 创始人及高管斥资逾8亿港元购买阿里巴巴股票
 阿里巴巴创始人马云、董事长蔡崇信和首席执行官艾迪...]]></description>
@@ -67,7 +75,7 @@
       <title>随着顶级保险公司加大对人工智能、芯片和生物技术的投资，中国人寿收入激增</title>
       <link>https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed</link>
       <description><![CDATA[中国最大的人寿保险公司中国人寿上半年业绩创下历史新高，并表示将加大对科技相关领域的投资，同时寻求成为创新企业的长期合作伙伴。
-根据周四发布的中期业绩，这家在上海和香港上市的保险公司录得收入 4343 亿元人民币（646 亿美元），同比增长 81.5%。
+根据周四发布的中期业绩，这家在上海和香港上市的保险公司录得收入 4,343 亿元人民币（646 亿美元），同比增长 81.5%。
 净利润飙升逾228%至1345亿元。
 这...]]></description>
       <guid>https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed</guid>
@@ -112,7 +120,7 @@
       <title>由于税收担忧影响需求，香港房价结束了 13 个月的上涨</title>
       <link>https://www.scmp.com/business/article/3365479/hong-kong-home-prices-end-13-month-upswing-mainland-chinese-tax-fears-weigh-demand?utm_source=rss_feed</link>
       <description><![CDATA[最新官方数据显示，7月份香港住宅价格下跌0.46%，结束了连续13个月的上涨势头。
-差饷及估价局 (RVD) 周四的数据显示，7 月追踪二手房的指数从 6 月的 323 下滑至 321.5。
+周四差饷及估价局 (RVD) 的数据显示，追踪二手房的指数从 6 月的 323 下滑至 7 月的 321.5。
 这是继去年 4 月下降后 16 个月来首次下降。 5 月份价格持平，然后从 6 月份开始连续 13 个月稳步攀升。
 “随着住宅物业价格同比上涨 7.3%，...]]></description>
       <guid>https://www.scmp.com/business/article/3365479/hong-kong-home-prices-end-13-month-upswing-mainland-chinese-tax-fears-weigh-demand?utm_source=rss_feed</guid>
@@ -126,15 +134,6 @@
 董事长兼首席执行官吴...]]></description>
       <guid>https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed</guid>
       <pubDate>Thu, 27 Aug 2026 23:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产清理后复星反弹，核心聚焦增长和创新</title>
-      <link>https://www.scmp.com/business/companies/article/3365489/fosun-rebounds-after-property-clean-core-focus-growth-innovation?utm_source=rss_feed</link>
-      <description><![CDATA[复星国际正在经历房地产投资组合的痛苦清理，并更加关注医药、保险和旅游业，并押注多年的资产出售和债务削减已经为恢复增长扫清了道路。
-得益于没有对 2025 年盈利造成影响的严重减值，该集团上半年盈利能力恢复强劲。
-董事长郭广昌周四在一份声明中表示，公司已经完成了...]]></description>
-      <guid>https://www.scmp.com/business/companies/article/3365489/fosun-rebounds-after-property-clean-core-focus-growth-innovation?utm_source=rss_feed</guid>
-      <pubDate>Thu, 27 Aug 2026 13:05:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
