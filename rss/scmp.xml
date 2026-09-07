@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业 - 南华早报</title>
+    <title></title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 18:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:12:56 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales?utm_source=rss_feed</link>
+      <description><![CDATA[据该公司称，在海外销售放缓的情况下，中国收藏玩具制造商泡泡玛特国际正在推进全球零售扩张，并将在巴黎奥斯曼大道开设第一家欧洲旗舰店，该店与标志性百货公司老佛爷百货和春天百货同一条街。
+上周，泡泡玛特创始人兼首席执行官王宁在该品牌即将开店之前前往巴黎。在巴黎期间，王先生会见了 LVMH 董事长兼首席执行官伯纳德·阿诺特 (Bernard Arnault)，并赠送给他...]]></description>
+      <guid>https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales?utm_source=rss_feed</guid>
+      <pubDate>Mon, 07 Sep 2026 23:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>中国小米推出采用国产芯片的折叠手机，与苹果、华为展开竞争</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed</link>
@@ -122,15 +130,6 @@
 “大中华区——香港、中国大陆……]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3366390/standard-chartered-doubling-down-china-wealth-opportunities-despite-tax-pivot?utm_source=rss_feed</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港扩大可持续金融分类框架以增加转型资本</title>
-      <link>https://www.scmp.com/business/china-business/article/3366529/hong-kong-broadens-sustainable-finance-taxonomy-framework-boost-transition-capital?utm_source=rss_feed</link>
-      <description><![CDATA[随着香港周一启动一年一度的绿色周，香港公布了扩大的可持续金融分类法，扩大了被视为绿色或转型的经济活动的范围。
-香港金融管理局 (HKMA) 就其香港可持续金融分类标准 2B 阶段原型启动了公众咨询，增加了涉及交通、制造和废物管理的 10 项活动。
-随着现有类别的重新分类，...]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3366529/hong-kong-broadens-sustainable-finance-taxonomy-framework-boost-transition-capital?utm_source=rss_feed</guid>
-      <pubDate>Sun, 06 Sep 2026 23:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
