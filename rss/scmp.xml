@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>商业 - 南华早报</title>
     <link>https://www.scmp.com/rss/92/feed</link>
     <description>获取最新的企业、市场和商业新闻和分析。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 23:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:23:33 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>香港名人魏伟豪豪掷16,000美元出租房屋</title>
+      <link>https://www.scmp.com/business/article/3366673/hong-kong-celebrity-jeffrey-ngai-splashes-out-us16000-rental-home?utm_source=rss_feed</link>
+      <description><![CDATA[据市场消息人士透露，香港歌手、演员兼模特魏俊生最近搬进了东半山的一套豪华住宅，月租为 13 万港元（16,581 美元），凸显了高端市场的强劲需求。
+消息人士称，这套豪华住宅是一栋复式住宅，28 岁的魏将与他的好友歌手兼词曲作家郑俊贤 (Ben Cheng Tsun-yin，又名泰森耀西) 成为邻居。
+中原地产高级主要区域销售总监颜志豪表示...]]></description>
+      <guid>https://www.scmp.com/business/article/3366673/hong-kong-celebrity-jeffrey-ngai-splashes-out-us16000-rental-home?utm_source=rss_feed</guid>
+      <pubDate>Tue, 08 Sep 2026 01:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>外国及内地学生涌入香港激发教育行业的房地产需求</title>
+      <link>https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed</link>
+      <description><![CDATA[世邦魏理仕表示，香港力争成为全球教育中心，这可能会将该行业转变为可持续的房地产需求来源，预计到 2035 年，香港将迎来约 20 万名非本地学生。
+据估计，该市的国际学校需要大量额外的房地产来容纳近 30,000 至 40,000 名非本地学生，因为这些机构需要建立 40 至 50 个新校园。
+这可能意味着额外增加 111 万平方米（12​​...]]></description>
+      <guid>https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Labubu遇上LVMH：海外销售降温，泡泡玛特将在巴黎开设旗舰店</title>
       <link>https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales?utm_source=rss_feed</link>
       <description><![CDATA[据该公司称，在海外销售放缓的情况下，中国收藏玩具制造商泡泡玛特国际正在推进全球零售扩张，并将在巴黎奥斯曼大道开设第一家欧洲旗舰店，该店与标志性百货公司老佛爷百货和春天百货同一条街。
 上周，泡泡玛特创始人兼首席执行官王宁在该品牌即将开店之前前往巴黎。在巴黎期间，王先生会见了 LVMH 董事长兼首席执行官伯纳德·阿诺特 (Bernard Arnault)，并赠送给他...]]></description>
       <guid>https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales?utm_source=rss_feed</guid>
       <pubDate>Mon, 07 Sep 2026 23:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>从体育场到街角：Galbot 将自主人形零售带入城市</title>
+      <link>https://www.scmp.com/presented/business/topics/technology-business-robot-hk/article/3366578/sports-courts-street-corners-galbot-brings-autonomous-humanoid-retail-city?utm_source=rss_feed</link>
+      <description><![CDATA[[本文内容由我们的广告合作伙伴制作。]
+Galbot 在香港开设了三家 Galbot 商店，这是该市第一家完全由人形机器人自主运营的零售店，这是其首次进军中国大陆以外的商业领域。 9月1日起，红磡海滨、湾仔海滨及启德体育园首批门店由人形机器人店长“小盖”执掌，带来全自主机器人零售服务……]]></description>
+      <guid>https://www.scmp.com/presented/business/topics/technology-business-robot-hk/article/3366578/sports-courts-street-corners-galbot-brings-autonomous-humanoid-retail-city?utm_source=rss_feed</guid>
+      <pubDate>Mon, 07 Sep 2026 16:00:13 GMT</pubDate>
     </item>
     <item>
       <title>中国小米推出采用国产芯片的折叠手机，与苹果、华为展开竞争</title>
@@ -49,7 +75,7 @@
       <pubDate>Mon, 07 Sep 2026 09:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国的注资让银行和保险公司应对艰难的道路</title>
+      <title>中国的注资让银行和保险公司面临艰难的道路</title>
       <link>https://www.scmp.com/plus/business/banking-finance/article/3366635/chinas-capital-injection-steels-banks-insurers-rough-road-ahead?utm_source=rss_feed</link>
       <description><![CDATA[中国政府宣布向八家最大的国有银行和保险公司注资约 3600 亿元人民币（540 亿美元），以支撑国家金融体系并促进经济增长。
 周日，三大国有银行表示，它们将总共获得 2900 亿元人民币的资金。中国农业银行和中国工商银行将通过定向增发新A股分别募资1600亿元和1000亿元...]]></description>
@@ -60,7 +86,7 @@
       <title>资深银行家表示，中国企业的绿色科技扩张取决于香港</title>
       <link>https://www.scmp.com/business/article/3366629/chinese-firms-green-tech-expansion-hinges-hong-kong-senior-bankers-say?utm_source=rss_feed</link>
       <description><![CDATA[银行业高管表示，由于地缘政治碎片化和高昂的融资成本重塑了全球能源转型中的资本配置方式，香港准备在中国绿色科技公司向新兴市场扩张的融资中发挥更大作用。
-中国银行（香港）、星展银行等高管表示，香港深厚的可持续金融市场和离岸人民币流动性可以帮助将资本引入发展中经济体的绿色和气候适应项目。]]></description>
+中国银行（香港）、星展银行的高管表示，香港深厚的可持续金融市场和离岸人民币流动性可以帮助将资本引入发展中经济体的绿色和气候适应项目。]]></description>
       <guid>https://www.scmp.com/business/article/3366629/chinese-firms-green-tech-expansion-hinges-hong-kong-senior-bankers-say?utm_source=rss_feed</guid>
       <pubDate>Mon, 07 Sep 2026 09:00:10 GMT</pubDate>
     </item>
@@ -104,32 +130,6 @@
 上周，该公司报告 2026 年上半年净利润为 6.173 亿元人民币（9200 万美元），首席执行官徐立和首席财务官王征等高管概述了如何转向人工智能……]]></description>
       <guid>https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed</guid>
       <pubDate>Mon, 07 Sep 2026 02:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的“特斯拉模仿者”有了新使命：为消费者打造价格实惠的人形机器人</title>
-      <link>https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers?utm_source=rss_feed</link>
-      <description><![CDATA[当蔚来汽车首席执行官李斌在三月份概述这家上海汽车制造商的盈利前景时，他情不自禁地将汽车业务比作机器人的发展。
-“我认为机器人技术将代表我们汽车制造能力和商业头脑的自然延伸，”在蔚来公布截至 12 月的三个月的首次季度利润后，李在媒体吹风会上告诉记者。
-“你不觉得我们未来生产的每辆车实际上都是机器人吗？它……]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers?utm_source=rss_feed</guid>
-      <pubDate>Mon, 07 Sep 2026 02:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港的人民币池正在增长。它能否将流动性转化为全球需求？</title>
-      <link>https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed</link>
-      <description><![CDATA[香港最高金融监管机构敦促当地银行更多地利用该市不断增长的离岸人民币流动性，同时也指出有必要为即将到来的金融领域自主人工智能系统浪潮做好准备。
-香港金融管理局（HKMA）总裁余伟文在香港银行公会（HKAB）杰出演讲者午宴上发表讲话时，呼吁银行利用其国际网络扩大中国业务……]]></description>
-      <guid>https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed</guid>
-      <pubDate>Mon, 07 Sep 2026 01:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管转向税收政策，渣打银行仍“加倍押注”中国的财富机会</title>
-      <link>https://www.scmp.com/business/china-business/article/3366390/standard-chartered-doubling-down-china-wealth-opportunities-despite-tax-pivot?utm_source=rss_feed</link>
-      <description><![CDATA[渣打银行一名高级管理人员表示，渣打银行计划增加对财富中心的投资，并在香港、中国大陆和台湾增加招聘，以吸引更多富裕客户，并补充说，该行怀疑北京对跨境投资更严格的税收执法是否会损害财富管理行业。
-“我们正在加倍投资大中华区的财富机会，”其财富和零售银行业务首席执行官朱迪·许中伟(Judy Hsu Chung-wei)在上周的媒体吹风会上表示。
-“大中华区——香港、中国大陆……]]></description>
-      <guid>https://www.scmp.com/business/china-business/article/3366390/standard-chartered-doubling-down-china-wealth-opportunities-despite-tax-pivot?utm_source=rss_feed</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
